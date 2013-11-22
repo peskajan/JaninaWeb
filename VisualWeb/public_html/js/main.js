@@ -1,7 +1,6 @@
 $(document).ready(function() {	//executed after the page has loaded
 
     checkURL();	//check if the URL has a reference to a page and load it
-
     $("#navigation a").click(function(e) {	//traverse through all our navigation links..
         $("#navigation li").removeClass("active");  
         $(this).parent().addClass("active");
@@ -29,5 +28,5 @@ function loadPage(url) {
     }
 
     $("#content").load(url + ".html");
-
+    $('#myCarousel').carousel();
 }
