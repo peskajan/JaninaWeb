@@ -157,7 +157,7 @@ body {
 ------------------------- */
 
 .featurette-divider {
-    margin: 80px 0; /* Space out the Bootstrap <hr> more */
+    margin: 20px 0; /* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */
@@ -215,11 +215,77 @@ body {
 .param-header:hover {
     border: 6px solid #f1299f;
 }
+
+.afterlead {
+    font-size: 14.099999999999998px;
+    font-weight: 200;
+    line-height: 1.4;
+}
+
+table.afterlead {
+    margin: 15px 0px 15px 0px;
+}
+
+table.afterlead td{
+    padding-right: 20px;
+    padding-bottom: 0px;
+}
+
+td.price {
+    white-space: nowrap;
+    text-align: right;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.text-muted {
+    font-size:80%;
+}
+
+.myphoto {
+    margin-left: 0px;
+    border-radius: 3px;
+}
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
 @media (min-width: 768px) {
 
+    table.afterlead {
+        margin: 30px 0px 30px 0px;
+    }
+
+    table.afterlead td{
+        padding-right: 60px;
+        padding-bottom: 5px;
+    }
+
+    ul.afterlead {
+        margin: 10px 0px 30px 0px;
+    }
+
+    .afterlead {
+        font-size: 18px;
+    }
+    
+    .nospace {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .featurette-divider {
+        margin: 50px 0; /* Space out the Bootstrap <hr> more */
+    }
+
+    .myphoto {
+        margin-left: 50px;
+    }
+    
+    .contact-icon {
+        margin-right: 10px;
+    }
+    
     /* Remove the edge padding needed for mobile */
     .highlights {
         padding-left: 0;
@@ -260,7 +326,7 @@ body {
     .featurette-heading {
         font-size: 35px;
     }
-    
+
     .page-heading {
         font-size: 50px;
     }
@@ -269,5 +335,26 @@ body {
 @media (min-width: 992px) {
     .featurette-heading {
         margin-top: 50px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .navbar-brand {
+        padding: 5px 0px 5px 40px;
+    }
+    
+    .navbar-nav {
+        padding: 5px 30px 5px 0px;
+    }
+}
+
+
+@media (min-width: 1600px) {
+    .navbar-brand {
+        padding: 5px 15px 5px 205px;
+    }
+    
+    .navbar-nav {
+        padding: 5px 205px 5px 10px;
     }
 }

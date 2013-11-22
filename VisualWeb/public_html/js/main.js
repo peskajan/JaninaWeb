@@ -24,6 +24,9 @@ function checkURL(hash) {
 
 function loadPage(url) {
     url = url.replace("#", "");	//strip the #page part of the hash and leave only the page number
+    if (url === "") {
+        url = "home";
+    }
 
     $("#content").load(url + ".html");
 
