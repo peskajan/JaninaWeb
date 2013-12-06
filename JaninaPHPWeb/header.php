@@ -7,7 +7,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/uvod/"><img src="/images/title-final2.png" alt="Jana Budková"/></a>
+            <a class="navbar-brand" href="/uvod/"><img class="img-title" src="/images/title-final2.png" alt="Jana Budková"/></a>
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
