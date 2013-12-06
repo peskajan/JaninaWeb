@@ -31,9 +31,10 @@
             <div class="image-row">
                 <div class="image-set">
                     <a class="example-image-link" href="/images/gallery/Zuzka-velka.jpg" data-lightbox="example-set" title="budoucí maminka Zuzka"><img class="example-image" src="/images/gallery/Zuzka.nahled.jpg" alt="Plants: image 1 0f 4 thumb" width="150" height="150"/></a>
-                    <a class="example-image-link" href="/images/gallery/image-4.jpg" data-lightbox="example-set" title="Or press the right arrow on your keyboard."><img class="example-image" src="/images/gallery/thumb-4.jpg" alt="Plants: image 2 0f 4 thumb" width="150" height="150"/></a>
-                    <a class="example-image-link" href="/images/gallery/image-5.jpg" data-lightbox="example-set" title="The script preloads the next image in the set as you're viewing."><img class="example-image" src="/images/gallery/thumb-5.jpg" alt="Plants: image 3 0f 4 thumb" width="150" height="150"/></a>
-                    <a class="example-image-link" href="/images/gallery/image-6.jpg" data-lightbox="example-set" title="Click anywhere outside the image or the X to the right to close."><img class="example-image" src="/images/gallery/thumb-6.jpg" alt="Plants: image 4 0f 4 thumb" width="150" height="150"/></a>
+                    <a class="example-image-link" href="/images/gallery/MD-velka.jpg" data-lightbox="example-set" title="maminka s dcerou."><img class="example-image" src="/images/gallery/MD-nahled.jpg" alt="Plants: image 2 0f 4 thumb" width="150" height="150"/></a>
+                    <a class="example-image-link" href="/images/gallery/glamour-velky_1.jpg.jpg" data-lightbox="example-set" title="glamour focení"><img class="example-image" src="/images/gallery/glamour-nahled.jpg" alt="Plants: image 3 0f 4 thumb" width="150" height="150"/></a>
+                    <a class="example-image-link" href="/images/gallery/santa1-velky.jpg" data-lightbox="example-set" title="vánoèní focení"><img class="example-image" src="/images/gallery/santa1-nahled.jpg" alt="Plants: image 4 0f 4 thumb" width="150" height="150"/></a>
+                    <a class="example-image-link" href="/images/gallery/santa2-velky.jpg" data-lightbox="example-set" title="vánoèní focení"><img class="example-image" src="/images/gallery/santa2-nahled.jpg" alt="Plants: image 4 0f 4 thumb" width="150" height="150"/></a>
                 </div>
             </div>
             <h3 class=featurette-heading>Svatební líèení</h3>
