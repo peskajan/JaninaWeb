@@ -30,7 +30,7 @@
 
             <div class="image-row">
                 <div class="image-set">
-                    <a class="example-image-link" href="/images/gallery/image-3.jpg" data-lightbox="example-set" title="Click on the right side of the image to move forward."><img class="example-image" src="/images/gallery/thumb-3.jpg" alt="Plants: image 1 0f 4 thumb" width="150" height="150"/></a>
+                    <a class="example-image-link" href="/images/gallery/Zuzka-velka.jpg" data-lightbox="example-set" title="budoucí maminka Zuzka"><img class="example-image" src="/images/gallery/Zuzka.nahled.jpg" alt="Plants: image 1 0f 4 thumb" width="150" height="150"/></a>
                     <a class="example-image-link" href="/images/gallery/image-4.jpg" data-lightbox="example-set" title="Or press the right arrow on your keyboard."><img class="example-image" src="/images/gallery/thumb-4.jpg" alt="Plants: image 2 0f 4 thumb" width="150" height="150"/></a>
                     <a class="example-image-link" href="/images/gallery/image-5.jpg" data-lightbox="example-set" title="The script preloads the next image in the set as you're viewing."><img class="example-image" src="/images/gallery/thumb-5.jpg" alt="Plants: image 3 0f 4 thumb" width="150" height="150"/></a>
                     <a class="example-image-link" href="/images/gallery/image-6.jpg" data-lightbox="example-set" title="Click anywhere outside the image or the X to the right to close."><img class="example-image" src="/images/gallery/thumb-6.jpg" alt="Plants: image 4 0f 4 thumb" width="150" height="150"/></a>
@@ -40,10 +40,10 @@
 
             <div class="image-row">
                 <div class="image-set">
-                    <a class="example-image-link" href="/images/gallery/image-3.jpg" data-lightbox="example-set" title="Nevìsta Terka"><img class="example-image" src="/images/gallery/thumb-3.jpg" alt="Plants: image 1 0f 4 thumb" width="150" height="150"/></a>
-                    <a class="example-image-link" href="/images/gallery/image-4.jpg" data-lightbox="example-set" title="Or press the right arrow on your keyboard."><img class="example-image" src="/images/gallery/thumb-4.jpg" alt="Plants: image 2 0f 4 thumb" width="150" height="150"/></a>
-                    <a class="example-image-link" href="/images/gallery/image-5.jpg" data-lightbox="example-set" title="The script preloads the next image in the set as you're viewing."><img class="example-image" src="/images/gallery/thumb-5.jpg" alt="Plants: image 3 0f 4 thumb" width="150" height="150"/></a>
-                    <a class="example-image-link" href="/images/gallery/image-6.jpg" data-lightbox="example-set" title="Click anywhere outside the image or the X to the right to close."><img class="example-image" src="/images/gallery/thumb-6.jpg" alt="Plants: image 4 0f 4 thumb" width="150" height="150"/></a>
+                    <a class="example-image-link" href="/images/gallery/nevestaTereza-velky.jpeg" data-lightbox="example-set" title="Nevìsta Terka"><img class="example-image" src="/images/gallery/nevestaTereza-nahled.jpeg" alt="Plants: image 1 0f 4 thumb" width="150" height="150"/></a>
+                    <a class="example-image-link" href="/images/gallery/nevestaZuzka-velky.jpg" data-lightbox="example-set" title="Nevìsta Zuzka"><img class="example-image" src="/images/gallery/nevestaZuzka.nahled.jpg" alt="Plants: image 2 0f 4 thumb" width="150" height="150"/></a>
+                    <a class="example-image-link" href="/images/gallery/nevestaPavla-velky.jpg" data-lightbox="example-set" title="Nevìsta Pavla"><img class="example-image" src="/images/gallery/nevestaPavla-nahled.jpg" alt="Plants: image 3 0f 4 thumb" width="150" height="150"/></a>
+                    <a class="example-image-link" href="/images/gallery/nevestaJana-velky.jpg" data-lightbox="example-set" title="Nevìsta Jana"><img class="example-image" src="/images/gallery/nevestaJana-nahled.jpg" alt="Plants: image 4 0f 4 thumb" width="150" height="150"/></a>
                 </div>
             </div>
 

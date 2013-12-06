@@ -35,7 +35,7 @@
                     <tr><td>Svatební líèení</td> 
                         <td class="price">850 Kè</td></tr>
                     <tr><td>Zkouška svatebního líèení</td> 
-                        <td class="price">400 Kè</td></tr>
+                        <td class="price">450 Kè</td></tr>
                     <tr><td>Líèení svatebèanù</td> 
                         <td class="price">350 Kè</td></tr>
                     <tr><td>Denní líèení</td> 
@@ -95,7 +95,7 @@
             <hr class="featurette-divider">
             <div>
                 <h3 class="featurette-heading">Vlasový styling</h3>
-                <p class="lead">Úprava vlasù na focení, svatební a jiné slavnostní úèesy.</p>
+                <p class="lead">Úprava vlasù na focení, svatební, plesové a jiné slavnostní úèesy.</p>
 
                 <table class="afterlead">
                     <tr><th colspan="2" >Ceník</th></tr>
