@@ -250,6 +250,15 @@ td.price {
     border-radius: 3px;
 }
 
+a.no-decor {
+    color: #5a5a5a;
+}
+
+a.no-decor:hover,
+a.no-decor:focus {
+    color: #2a6496;
+    text-decoration: none;
+}
 
 .img-title{
     width: 250px;

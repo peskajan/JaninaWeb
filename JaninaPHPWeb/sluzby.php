@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/favicon.png">
 
-        <title>Vizážistka | Jana Budková</title>
+        <title>Služby | Jana Budková |  Líèení</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">

@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/favicon.png">
 
-        <title>O mnì | Jana Budková |  Líèení</title>
+        <title>Svatební líèení | Jana Budková |  Líèení</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -23,30 +23,9 @@
         ?>
 
         <div id="content" class="main_content container">
-            <h2 class="page-heading">O mnì</h2>
-            <div class="row featurette">
-                <div class="col-md-7">
-                    <p class="lead">Pracuji jako vizážistka a kosmetická poradkynì již od roku 2010. 
-                        Specializuji se hlavnì na foto-make up, svatební a další slavnostní líèení a vlasový styling. 
-                        Pùsobím pøevážnì v Praze a ve Slaném, po domluvì kdekoliv dle Vašeho pøání.
-                    </p>
 
-                    <p class="afterlead"></p>
-                    <br/>
-                    <p class="afterlead bold">Reference:</p>
-
-                    <ul class="afterlead">
-                        <li>ÓÈKO TV</li>
-                        <li>MISS VŠE</li>
-                    </ul>
-
-                </div>
-                <div class="col-md-5">
-                    <img title="Jana Budková - vizážistka" class="myphoto img-responsive" src="/images/me.jpg" alt="Jana Budková"  width="250"/>
-                </div>
-            </div>
-
-
+            <h2 class="page-heading">Svatební líèení</h2>
+            
         </div>
 
         <script src="/js/libs/jquery/jquery.js"></script>
