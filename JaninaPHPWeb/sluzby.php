@@ -87,7 +87,7 @@
                         <td class="price">350 Kè</td></tr>
                     <tr><td>Kurz pokroèilého líèení <span class="text-muted">(veèerní líèení, kouøové oèi,..., cca 2 hodiny)</span></td> 
                         <td class="price">750 Kè</td></tr>
-                    <tr><td>NOVINKA: Rychlokurz aplikace tužky na oèi <span class="text-muted">(nìkolik typù aplikací)</span></td> 
+                    <tr><td><span class="label label-success">NOVINKA</span> Rychlokurz aplikace tužky na oèi <span class="text-muted">(nìkolik typù aplikací)</span></td> 
                         <td class="price">230 Kè</td></tr>
                 </table>
             </div>
