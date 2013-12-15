@@ -17,14 +17,14 @@
                         <span class="glyphicon glyphicon-gift"></span> Služby <b class="caret"></b>
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a title="Pøehled všech poskytovaných služeb" href="/sluzby/">Pøehled Služeb</a></li>
+                        <li><a title="Pøehled všech poskytovaných služeb" href="/sluzby/">Pøehled služeb</a></li>
                         <li><a title="Svatební líèení, líèení svatebèanù" href="/svatebni-liceni/">Svatební líèení</a></li>
                         <li><a title="Veèerní líèení, plesové líèení" href="/vecerni-liceni/">Veèerní líèení</a></li>
                         <li><a title="Foto make-up" href="/foto-makeup/">Foto make-up</a></li>
-                        <li><a title="Kosmetické poradenství, analýza pleti, péèe o ple - vše zdarma" href="/kosmeticke-poradenstvi/">Kosmetické poradenství</a></li>
-                        <li><a title="Kurzy líèení - individuální kurzy, skupinové kurzy, kurz aplikace tužky na oèi" href="/kurzy-liceni/">Kurzy líèení</a></li>
                         <li><a title="Vlasový styling - úprava vlasù na focení, svatební, plesové a jiné slavnostní úèesy" href="/vlasovy-styling/">Vlasový styling</a></li>
-                        <li><a title="Dárky, dárkové balíèky, poukázky" href="/darky/">Dárky</a></li>
+                        <li><a title="Kurzy líèení - individuální kurzy, skupinové kurzy, kurz aplikace tužky na oèi" href="/kurzy-liceni/">Kurzy líèení</a></li>
+                        <li><a title="Dárky, dárkové balíèky, dárkové poukázky" href="/darky/">Dárkové poukázky</a></li>
+                         <li><a title="Kosmetické poradenství, analýza pleti, péèe o ple - vše zdarma" href="/kosmeticke-poradenstvi/">Kosmetické poradenství</a></li>
                         <li><a title="Spolupráce pro firmy, spolupráce pro budoucí vizážistky - pøidejte se k nám" href="/spoluprace/">Spolupráce</a></li>
                     </ul>
                 </li>

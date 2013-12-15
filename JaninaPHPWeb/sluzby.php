@@ -87,7 +87,7 @@
                         <td class="price">350 Kè</td></tr>
                     <tr><td>Kurz pokroèilého líèení <span class="text-muted">(veèerní líèení, kouøové oèi,..., cca 2 hodiny)</span></td> 
                         <td class="price">750 Kè</td></tr>
-                    <tr><td><span class="label label-success">NOVINKA</span> Rychlokurz aplikace tužky na oèi <span class="text-muted">(nìkolik typù aplikací)</span></td> 
+                    <tr><td>NOVINKA: Rychlokurz aplikace tužky na oèi <span class="text-muted">(nìkolik typù aplikací)</span></td> 
                         <td class="price">230 Kè</td></tr>
                 </table>
             </div>
@@ -113,7 +113,7 @@
                         <td class="price">dohodou</td></tr>
                 </table>
 
-                <p class="afterlead">Úèes trvá 30minut až 1 hodinu - dle nároènosti.</p>
+                <p class="afterlead">Úèes trvá pøibližnì 30 minut až 1 hodinu - dle nároènosti.</p>
             </div>
 
             <hr class="featurette-divider">
@@ -121,16 +121,6 @@
                 <h3 class="featurette-heading">Dárky</h3>
                 <p class="lead">Darujte balíèek pøípravkù nebo poukázku na pøípravky, promìnu líèením, minikurz líèení èi vizážistické služby.
                     Pro konkrétní cenovou kalkulaci nebo v pøípadì dotazù mì, prosím, kontaktujte.</p>
-
-                <table class="afterlead">
-                    <tr><th colspan="2" >Ceník</th></tr>
-                    <tr><td>Svatební úèes</td> 
-                        <td class="price">400 Kè</td></tr>
-                    <tr><td>Zkouška svatebního úèesu</td> 
-                        <td class="price">300 Kè</td></tr>
-                    <tr><td>Èesání svatebèanù</td> 
-                        <td class="price">250 Kè</td></tr>
-                </table>
 
             </div>
 
