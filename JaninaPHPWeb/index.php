@@ -45,7 +45,7 @@
                             <div class="carousel-caption">
                                 <h1>AKCE: Plesové líèení</h1>
                                 <p>Dejte se se kamarádkami dohromady a nechte se spoleènì nalíèit nebo uèesat za výhodnìjší cenu!!</p>
-                                <p><a class="btn btn-lg btn-primary" href="#" role="button">Rezervovat termín</a></p>
+                                <p><a class="btn btn-lg btn-primary" href="/kontakty/" role="button">Domluvit termín</a></p>
                             </div>
                         </div>
                     </div>
@@ -55,7 +55,7 @@
                                 <h1>Svatební líèení</h1>
                                 <p>Volné zimní termíny svatebního líèení a dále také volné termíny na rok 2014!!
                                 </p>
-                                <p><a class="btn btn-lg btn-primary" href="#" role="button">Rezervovat termín</a></p>
+                                <p><a class="btn btn-lg btn-primary" href="/kontakty/" role="button">Domluvit termín</a></p>
                             </div>
                         </div>
                     </div>

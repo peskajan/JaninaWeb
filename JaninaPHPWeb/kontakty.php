@@ -31,7 +31,7 @@
 
         <div id="content" class="main_content container">
             <h2 class="page-heading">Kontakty</h2>
-            <p class="lead">V pøípadì, že máte zájem o mé služby nebo máte jakýkoliv dotaz, neváhejte mì kontaktovat buï pøímo:</p>
+            <p class="lead">V pøípadì, že máte zájem o mé služby a chtìli byste si domluvit termín nebo máte jakýkoliv dotaz, neváhejte mì kontaktovat buï pøímo:</p>
             <table class="afterlead">
                 <tr><td>Jana Budková</td></tr>
                 <tr><td><a href="tel:+420 736 651 141" target="_top"><img class="contact-icon" src="/images/phone.png" alt="facebook"/>+420 736 651 141</a></td></tr>
