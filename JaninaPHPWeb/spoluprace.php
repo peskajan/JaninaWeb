@@ -25,7 +25,31 @@
         <div id="content" class="main_content container">
 
             <h2 class="page-heading">Spolupráce</h2>
-            
+
+            <p class="afterlead bold">Pro firmy:</p>
+
+            <p class="afterlead">Pro Vaše zamìstnance, obchodní partnery a klienty nabízím: </p>
+            <ul class="afterlead">
+                <li>kosmetická poradenství v péèi o ple a líèení</li>
+                <li>sestavení dárkovıch balíèkù</li>
+                <li>spolupráci a partnerství na firemních veèírcích a spoleèenskıch akcích</li>
+            </ul>
+
+            <p class="afterlead bold">Pro budoucí vizáistky:</p>
+            <ul class="afterlead">
+                <li>Zajímáte se o kosmetiku a líèení?</li>
+                <li>Chcete se více zdokonalit a vzdìlávat?</li>
+                <li>Chcete to mít jako koníèka, pøivıdìlek nebo práci?</li>
+                <li class="bold">Pøidejte se k nám!</li>
+            </ul>
+
+            <br>
+            <p class="afterlead">
+                Pokud budete s mojí prací spokojeni, mùete vyuít i další sluby, které nabízím, 
+                a to <a href="/vecerni-liceni/">veèerní líèení</a> èi <a href="/foto-makeup/">foto make-up</a>, 
+                <a href="/vlasovy-styling/">slavnostní úèesy a vlasovı styling.</a>. Dále nabízím <a href="/kurzy-liceni/">kurzy líèení</a> pro individuály i skupiny, základní kurzy i pokroèilé.
+            </p>
+
         </div>
 
         <script src="/js/libs/jquery/jquery.js"></script>

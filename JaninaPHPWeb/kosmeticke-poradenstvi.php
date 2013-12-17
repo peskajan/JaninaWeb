@@ -25,7 +25,40 @@
         <div id="content" class="main_content container">
 
             <h2 class="page-heading">Kosmetické poradenství</h2>
-            
+
+            <p class="lead">
+                Máte problémy s pletí? Chcete nìco zmìnit a nevíte jak na to? Nechte si ode mì poradit a objednejte se na 
+                kosmetické poradenství zcela <span class="bold">ZDARMA!</span>
+            </p>
+
+            <p class="afterlead bold">Zde Vás èeká:</p>
+
+            <div class="row">
+                <div class="col-lg-6">
+                    <ul class="afterlead">
+                        <li>analıza pleti</li>
+                        <li>sestavení individuálního programu v péèi o ple</li>
+                        <li>ošetøení pleti špièkovımi pøípravky, které jsou hypoalergenní, neparfémované a netestované na zvíøatech</li>
+                        <li>odborné poradenství v péèi o ple</li>
+                        <li>poradenství v líèení + lehké denní líèení</li>
+                    </ul>
+
+                    <p class="afterlead">Poradenství trvá pøiblinì 1 hodinu.</p>
+                    <p class="afterlead">Místo konání poradenství dle dohody v Praze nebo ve Slaném.</p>
+                </div><!-- /.col-lg-4 -->
+                <div class="col-lg-6">
+                    <a class="" href="/galerie/" title="Galerie - Svatební líèení">
+                        <img class="example-image-link parallelogram" src="/images/gallery/poradenstvi2.jpg" alt="Galerie - Svatební líèení"/>
+                    </a>
+                </div><!-- /.col-lg-4 -->
+            </div><!-- /.row -->
+
+            <br>
+            <p class="afterlead">
+                Pokud budete s mojí prací spokojeni, mùete vyuít i další sluby, které nabízím, 
+                a to <a href="/vecerni-liceni/">veèerní líèení</a> èi <a href="/foto-makeup/">foto make-up</a>, 
+                <a href="/vlasovy-styling/">slavnostní úèesy a vlasovı styling.</a>. Dále nabízím <a href="/kurzy-liceni/">kurzy líèení</a> pro individuály i skupiny, základní kurzy i pokroèilé.
+            </p>
         </div>
 
         <script src="/js/libs/jquery/jquery.js"></script>

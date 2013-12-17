@@ -25,7 +25,40 @@
         <div id="content" class="main_content container">
 
             <h2 class="page-heading">Kurzy líèení</h2>
-            
+
+            <p class="lead">
+                Individuální i skupinové kurzy líèení. Zjistíte, jak pøipravit ple pro líèení, jak vybrat vhodnı typ make-upu, jaké barvy Vás sluší, jaká pouívat líèidla, jak pracovat se štìtci a nauèíte se, jak se nalíèit pro kadou pøíleitost.
+            </p>
+
+            <div class="row">
+                <div class="col-lg-8">
+                    <table class="afterlead">
+                        <tr><th colspan="2" >Ceník</th></tr>
+                        <tr><td>Minikurz líèení <span class="text-muted">(základy líèení, cca 1 hodina)</span></td> 
+                            <td class="price">350 Kè</td></tr>
+                        <tr><td>Kurz pokroèilého líèení <span class="text-muted">(veèerní líèení, kouøové oèi,..., cca 2 hodiny)</span></td> 
+                            <td class="price">750 Kè</td></tr>
+                        <tr><td><span class="label label-success">NOVINKA</span> Rychlokurz aplikace tuky na oèi <span class="text-muted">(nìkolik typù aplikací)</span></td> 
+                            <td class="price">230 Kè</td></tr>
+                    </table>
+
+                    <p class="afterlead">Líèení trvá pøiblinì 45 minut.</p>
+                    <p class="afterlead">Doprava ve Slaném a po Praze je v cenì, ostatní za doplatek 3Kè/km.</p>
+                </div><!-- /.col-lg-4 -->
+                <div class="col-lg-4">
+                    <a class="" href="/galerie/" title="Galerie - Svatební líèení">
+                        <img class="example-image-link parallelogram" src="/images/gallery/nevestaTereza-nahled.jpeg" alt="Galerie - Svatební líèení"/>
+                    </a>
+                </div><!-- /.col-lg-4 -->
+            </div><!-- /.row -->
+
+            <br>
+            <p class="afterlead">
+                Pokud budete s mojí prací spokojeni, mùete vyuít i další sluby, které nabízím, 
+                a to <a href="/vecerni-liceni/">veèerní líèení</a> èi <a href="/foto-makeup/">foto make-up</a>, 
+                <a href="/vlasovy-styling/">slavnostní úèesy a vlasovı styling.</a>. Dále nabízím <a href="/kurzy-liceni/">kurzy líèení</a> pro individuály i skupiny, základní kurzy i pokroèilé.
+            </p>
+
         </div>
 
         <script src="/js/libs/jquery/jquery.js"></script>

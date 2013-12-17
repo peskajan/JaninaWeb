@@ -26,6 +26,70 @@
 
             <h2 class="page-heading">Foto make-up</h2>
             
+            <p class="lead">
+                Nechte se ve svùj vıjimeènı den hıèkat a veškerou práci nechejte na mnì. 
+                Díky profesionálnímu líèení budete vypadat skvìle.
+            </p>
+
+            <p class="afterlead">Základem pro svatební líèení je dokonalı podklad, Vaše ple musí vypadat sjednocennì a záøivì. 
+                Svatební líèení musí bıt pro fotografie a video vırazné, ale zároveò musí bıt pøirozené pøi pohlednu na denním svìtle. 
+                Díky kvalitním pøípravkùm Vám svatební líèení vydrí celı den.
+            </p>
+
+            <p class="afterlead">
+                Aby jste mìla perfektní pøedstavu, jak ve Váš den budete vypadat, doporuèuji zkoušku svatebního líèení. 
+                Kde vybereme líèení, které se bude hodit k Vašim šatùm.
+            </p>
+
+            <div class="row">
+                <div class="col-lg-6">
+                    <table class="afterlead">
+                        <tr><th colspan="2" >Ceník</th></tr>
+                        <tr><td>Svatební líèení</td> 
+                            <td class="price">850 Kè</td></tr>
+                        <tr><td>Zkouška svatebního líèení</td> 
+                            <td class="price">450 Kè</td></tr>
+                        <tr><td>Líèení svatebèanù</td> 
+                            <td class="price">350 Kè</td></tr>
+                    </table>
+
+                    <p class="afterlead">Líèení trvá pøiblinì 45 minut.</p>
+                    <p class="afterlead">Doprava ve Slaném a po Praze je v cenì, ostatní za doplatek 3Kè/km.</p>
+                </div><!-- /.col-lg-4 -->
+                <div class="col-lg-6">
+                    <a class="" href="/galerie/" title="Galerie - Svatební líèení">
+                        <img class="example-image-link parallelogram" src="/images/gallery/nevestaTereza-nahled.jpeg" alt="Galerie - Svatební líèení"/>
+                    </a>
+                    <a class="" href="/galerie/" title="Galerie - Svatební líèení">
+                        <img class="example-image-link parallelogram" src="/images/gallery/nevestaZuzka-nahled.jpg" alt="Galerie - Svatební líèení"/>
+                    </a>
+                </div><!-- /.col-lg-4 -->
+            </div><!-- /.row -->
+
+            <h3 class="featurette-heading">Svatební uèesy</h3>
+            <p class="lead">
+                Spojte líèení s úèesem a ušetøete si tak èas i peníze. Nabízím èesání nevìsty i ostatních svatebèanù.
+            </p>
+
+            <table class="afterlead">
+                <tr><th colspan="2" >Ceník</th></tr>
+                <tr><td>Svatební úèes</td> 
+                    <td class="price">400 Kè</td></tr>
+                <tr><td>Zkouška svatebního úèesu</td> 
+                    <td class="price">300 Kè</td></tr>
+                <tr><td>Èesání svatebèanù</td> 
+                    <td class="price">250 Kè</td></tr>
+            </table>
+
+            <p class="afterlead">Úèes trvá pøiblinì 30-60 minut dle nároènosti.</p><br>
+
+
+            <p class="afterlead">
+                Pokud budete s mojí prací spokojeni, mùete vyuít i další sluby, které nabízím, 
+                a to <a href="/vecerni-liceni/">veèerní líèení</a> èi <a href="/foto-makeup/">foto make-up</a>, 
+                <a href="/vlasovy-styling/">slavnostní úèesy a vlasovı styling.</a>. Dále nabízím <a href="/kurzy-liceni/">kurzy líèení</a> pro individuály i skupiny, základní kurzy i pokroèilé.
+            </p>
+            
         </div>
 
         <script src="/js/libs/jquery/jquery.js"></script>

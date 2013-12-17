@@ -26,27 +26,49 @@
 
             <h2 class="page-heading">Fotogalerie</h2>
 
-            <h3 class=featurette-heading>Foto make-up</h3>
+            <h3 class="featurette-heading">Foto make-up</h3>
 
             <div class="image-row">
                 <div class="image-set">
-                    <a class="example-image-link" href="/images/gallery/Zuzka-velka.jpg" data-lightbox="makeup-set" title="budoucí maminka Zuzka"><img class="example-image" src="/images/gallery/Zuzka.nahled.jpg" alt="Plants: image 1 0f 4 thumb" width="150" height="150"/></a>
-                    <a class="example-image-link" href="/images/gallery/MD-velka.jpg" data-lightbox="makeup-set" title="maminka s dcerou"><img class="example-image" src="/images/gallery/MD-nahled.jpg" alt="Plants: image 2 0f 4 thumb" width="150" height="150"/></a>
-                    <a class="example-image-link" href="/images/gallery/M-velky.jpg" data-lightbox="makeup-set" title="jemný foto-make up"><img class="example-image" src="/images/gallery/M-nahled.jpg" alt="Plants: image 2 0f 4 thumb" width="150" height="150"/></a>
-                    <a class="example-image-link" href="/images/gallery/D-velky.jpg" data-lightbox="makeup-set" title="jemný foto-make up"><img class="example-image" src="/images/gallery/D-nahled.jpg" alt="Plants: image 2 0f 4 thumb" width="150" height="150"/></a>
-                    <a class="example-image-link" href="/images/gallery/glamour-velky_1.jpg" data-lightbox="makeup-set" title="glamour focení"><img class="example-image" src="/images/gallery/glamour-nahled.jpg" alt="Plants: image 3 0f 4 thumb" width="150" height="150"/></a>
-                    <a class="example-image-link" href="/images/gallery/santa1-velky.jpg" data-lightbox="makeup-set" title="vánoèní focení"><img class="example-image" src="/images/gallery/santa1-nahled.jpg" alt="Plants: image 4 0f 4 thumb" width="150" height="150"/></a>
-                    <a class="example-image-link" href="/images/gallery/santa2-velky.jpg" data-lightbox="makeup-set" title="vánoèní focení"><img class="example-image" src="/images/gallery/santa2-nahled.jpg" alt="Plants: image 4 0f 4 thumb" width="150" height="150"/></a>
+                    <a class="example-image-link" href="/images/gallery/Zuzka-velka.jpg" data-lightbox="makeup-set" title="Foto make-up - budoucí maminka Zuzka">
+                        <img class="example-image" src="/images/gallery/Zuzka.nahled.jpg" alt="Foto make-up - budoucí maminka Zuzka" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/MD-velka.jpg" data-lightbox="makeup-set" title="Foto make-up - maminka s dcerou">
+                        <img class="example-image" src="/images/gallery/MD-nahled.jpg" alt="Foto make-up - maminka s dcerou" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/M-velky.jpg" data-lightbox="makeup-set" title="Foto make-up - jemný foto make-up">
+                        <img class="example-image" src="/images/gallery/M-nahled.jpg" alt="Foto make-up - jemný foto make-up" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/D-velky.jpg" data-lightbox="makeup-set" title="Foto make-up - jemný foto make-up">
+                        <img class="example-image" src="/images/gallery/D-nahled.jpg" alt="Foto make-up - jemný foto make-up" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/glamour-velky_1.jpg" data-lightbox="makeup-set" title="Foto make-up - glamour focení">
+                        <img class="example-image" src="/images/gallery/glamour-nahled.jpg" alt="Foto make-up - glamour focení" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/santa1-velky.jpg" data-lightbox="makeup-set" title="Foto make-up - vánoèní focení">
+                        <img class="example-image" src="/images/gallery/santa1-nahled.jpg" alt="Foto make-up - vánoèní focení" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/santa2-velky.jpg" data-lightbox="makeup-set" title="Foto make-up - vánoèní focení">
+                        <img class="example-image" src="/images/gallery/santa2-nahled.jpg" alt="Foto make-up - vánoèní focení" width="150" height="150"/>
+                    </a>
                 </div>
             </div>
             <h3 class=featurette-heading>Svatební líèení</h3>
 
             <div class="image-row">
                 <div class="image-set">
-                    <a class="example-image-link" href="/images/gallery/nevestaTereza-velky.jpeg" data-lightbox="svatba-set" title="Nevìsta Terka"><img class="example-image" src="/images/gallery/nevestaTereza-nahled.jpeg" alt="Plants: image 1 0f 4 thumb" width="150" height="150"/></a>
-                    <a class="example-image-link" href="/images/gallery/nevestaZuzka-velky.jpg" data-lightbox="svatba-set" title="Nevìsta Zuzka"><img class="example-image" src="/images/gallery/nevestaZuzka.nahled.jpg" alt="Plants: image 2 0f 4 thumb" width="150" height="150"/></a>
-                    <a class="example-image-link" href="/images/gallery/nevestaPavla-velky.jpg" data-lightbox="svatba-set" title="Nevìsta Pavla"><img class="example-image" src="/images/gallery/nevestaPavla-nahled.jpg" alt="Plants: image 3 0f 4 thumb" width="150" height="150"/></a>
-                    <a class="example-image-link" href="/images/gallery/nevestaJana-velky.jpg" data-lightbox="svatba-set" title="Nevìsta Jana"><img class="example-image" src="/images/gallery/nevestaJana-nahled.jpg" alt="Plants: image 4 0f 4 thumb" width="150" height="150"/></a>
+                    <a class="example-image-link" href="/images/gallery/nevestaTereza-velky.jpeg" data-lightbox="svatba-set" title="Svatební líèení - Nevìsta Terka">
+                        <img class="example-image" src="/images/gallery/nevestaTereza-nahled.jpeg" alt="Svatební líèení - Nevìsta Terka" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/nevestaZuzka-velky.jpg" data-lightbox="svatba-set" title="Svatební líèení - Nevìsta Zuzka">
+                        <img class="example-image" src="/images/gallery/nevestaZuzka-nahled.jpg" alt="Svatební líèení - Nevìsta Zuzka" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/nevestaPavla-velky.jpg" data-lightbox="svatba-set" title="Svatební líèení - Nevìsta Pavla">
+                        <img class="example-image" src="/images/gallery/nevestaPavla-nahled.jpg" alt="Svatební líèení - Nevìsta Pavla" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/nevestaJana-velky.jpg" data-lightbox="svatba-set" title="Svatební líèení - Nevìsta Jana">
+                        <img class="example-image" src="/images/gallery/nevestaJana-nahled.jpg" alt="Svatební líèení - Nevìsta Jana" width="150" height="150"/>
+                    </a>
                 </div>
             </div>
 

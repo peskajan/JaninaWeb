@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Sluby | Jana Budková |  Líèení</title>
+        <title>Sluby | Jana Budková | Líèení</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -25,126 +25,93 @@
         <div id="content" class="main_content container">
 
             <h2 class="page-heading">Sluby</h2>
-            <div>
-                <h3 class="featurette-heading">Vizáistické sluby</h3>
-                <p class="lead">
-                    Líèení kvalitní dekorativní kosmetikou, které Vám vydrí!
-                </p>
-                <table class="afterlead">
-                    <tr><th colspan="2" >Ceník</th></tr>
-                    <tr><td>Svatební líèení</td> 
-                        <td class="price">850 Kè</td></tr>
-                    <tr><td>Zkouška svatebního líèení</td> 
-                        <td class="price">450 Kè</td></tr>
-                    <tr><td>Líèení svatebèanù</td> 
-                        <td class="price">350 Kè</td></tr>
-                    <tr><td>Denní líèení</td> 
-                        <td class="price">300 Kè</td></tr>
-                    <tr><td>Veèerní, slavnostní líèení</td> 
-                        <td class="price">450 Kè</td></tr>
-                    <tr><td>Foto make-up</td> 
-                        <td class="price">dohodou</td></tr>
-                </table>
+            <a class="no-decor" title="Svatební líèení - více informací, ceník, fotogalerie" href="/svatebni-liceni/">
+                <h3 class="featurette-heading">Svatební líèení</h3>
+            </a>
+            <p class="lead">
+                Nechte se ve svùj vıjimeènı den hıèkat a veškerou práci nechejte na mnì. Díky profesionálnímu líèení budete vypadat skvìle -
+                <a class="btn-link" title="Svatební líèení - pøehled, ceník, fotogalerie" href="/svatebni-liceni/">
+                    více informací &raquo;
+                </a>
+            </p>
 
-                <p class="afterlead">Líèení tvá cca 45 minut. Doprava v Praze a ve Slaném je v cenì, ostatní za 3 Kè/km.</p>
-            </div>
+            <a class="no-decor" title="Veèerní, slavnostní líèení - více informací, ceník, fotogalerie" href="/vecerni-liceni/">
+                <h3 class="featurette-heading">Veèerní, slavnostní líèení</h3>
+            </a>
+            <p class="lead">
+                doplnit text -
+                <a class="btn-link" title="Veèerní, slavnostní líèení - více informací, ceník, fotogalerie" href="/vecerni-liceni/">
+                    více informací &raquo;
+                </a>
+            </p>
 
-            <hr class="featurette-divider">
+            <a class="no-decor" title="Foto make-up - více informací, ceník, fotogalerie" href="/foto-makeup/">
+                <h3 class="featurette-heading">Foto make-up</h3>
+            </a>
+            <p class="lead">
+                doplnit text -
+                <a class="btn-link" title="Foto make-up - více informací, ceník, fotogalerie" href="/foto-makeup/">
+                    více informací &raquo;
+                </a>
+            </p>
 
-            <div>
-                <h3 class="featurette-heading">Kosmetické poradenství</h3>
-                <p class="lead">
-                    Máte problémy s pletí? Chcete nìco zmìnit a nevíte jak na to? Nechte si ode mì poradit a objednejte se na kosmetické poradenství zcela ZDARMA!
-
-                </p>
-                <p class="afterlead bold">Zde Vás èeká:</p>
-
-                <ul class="afterlead">
-                    <li>analıza pleti</li>
-                    <li>sestavení individuálního programu v péèi o ple</li>
-                    <li>ošetøení pleti špièkovımi pøípravky, které jsou hypoalergenní, neparfémované a netestované na zvíøatech</li>
-                    <li>odborné poradenství v péèi o ple</li>
-                    <li>poradenství v líèení + lehké denní líèení</li>
-                </ul>
-
-                <p class="afterlead">Poradenství trvá pøiblinì 1 hodinu.</p>
-
-
-
-            </div>
-
-            <hr class="featurette-divider">
-
-            <div>
-                <h3 class="featurette-heading">Kurzy líèení</h3>
-                <p class="lead">
-                    Individuální i skupinové kurzy líèení. Zjistíte, jak pøipravit ple pro líèení, jak vybrat vhodnı typ make-upu, jaké barvy Vás sluší, jaká pouívat líèidla, jak pracovat se štìtci a nauèíte se, jak se nalíèit pro kadou pøíleitost.
-                </p>
-
-                <table class="afterlead">
-                    <tr><th colspan="2" >Ceník</th></tr>
-                    <tr><td>Minikurz líèení <span class="text-muted">(základy líèení, cca 1 hodina)</span></td> 
-                        <td class="price">350 Kè</td></tr>
-                    <tr><td>Kurz pokroèilého líèení <span class="text-muted">(veèerní líèení, kouøové oèi,..., cca 2 hodiny)</span></td> 
-                        <td class="price">750 Kè</td></tr>
-                    <tr><td><span class="label label-success">NOVINKA</span> Rychlokurz aplikace tuky na oèi <span class="text-muted">(nìkolik typù aplikací)</span></td> 
-                        <td class="price">230 Kè</td></tr>
-                </table>
-            </div>
-
-            <hr class="featurette-divider">
-            <div>
+            <h3 class="featurette-heading">Denní líèení</h3>
+            <p class="lead">
+                doplnit text
+            </p>
+            
+            <a class="no-decor" title="Vlasovı styling - více informací, ceník" href="/vlasovy-styling/">
                 <h3 class="featurette-heading">Vlasovı styling</h3>
-                <p class="lead">Úprava vlasù na focení, svatební, plesové a jiné slavnostní úèesy.</p>
+            </a>
+            <p class="lead">
+                Úprava vlasù na focení, svatební, plesové a jiné slavnostní úèesy -
+                <a class="btn-link" title="Vlasovı styling - více informací, ceník" href="/vlasovy-styling/">
+                    více informací &raquo;
+                </a>
+            </p>
 
-                <table class="afterlead">
-                    <tr><th colspan="2" >Ceník</th></tr>
-                    <tr><td>Svatební úèes</td> 
-                        <td class="price">400 Kè</td></tr>
-                    <tr><td>Zkouška svatebního úèesu</td> 
-                        <td class="price">300 Kè</td></tr>
-                    <tr><td>Èesání svatebèanù</td> 
-                        <td class="price">250 Kè/osoba</td></tr>
-                    <tr><td>Zkouška svatebního úèesu</td> 
-                        <td class="price">300 Kè</td></tr>
-                    <tr><td>Slavnostní úèes</td> 
-                        <td class="price">350 Kè</td></tr>
-                    <tr><td>Úprava vlasù na focení</td> 
-                        <td class="price">dohodou</td></tr>
-                </table>
-
-                <p class="afterlead">Úèes trvá pøiblinì 30 minut a 1 hodinu - dle nároènosti.</p>
-            </div>
-
-            <hr class="featurette-divider">
-            <div>
+            <a class="no-decor" title="Kurzy líèení - více informací, ceník" href="/kurzy-liceni/">
+                <h3 class="featurette-heading">Kurzy líèení</h3>
+            </a>
+            <p class="lead">
+                Individuální i skupinové kurzy líèení. Zjistíte, jak pøipravit ple pro líèení, jak vybrat vhodnı typ make-upu, 
+                jaké barvy Vás sluší, jaká pouívat líèidla, jak pracovat se štìtci a nauèíte se, jak se nalíèit pro kadou pøíleitost -
+                <a class="btn-link" title="Kurzy líèení - více informací, ceník" href="/kurzy-liceni/">
+                    více informací &raquo;
+                </a>
+            </p>
+            
+            <a class="no-decor" title="Dárky - více informací, ceník" href="/darky/">
                 <h3 class="featurette-heading">Dárky</h3>
-                <p class="lead">Darujte balíèek pøípravkù nebo poukázku na pøípravky, promìnu líèením, minikurz líèení èi vizáistické sluby.
-                    Pro konkrétní cenovou kalkulaci nebo v pøípadì dotazù mì, prosím, kontaktujte.</p>
-
-            </div>
-
-            <hr class="featurette-divider">
-            <div>
+            </a>
+            <p class="lead">
+                Darujte balíèek pøípravkù nebo poukázku na pøípravky, promìnu líèením, minikurz líèení èi vizáistické sluby.
+                Pro konkrétní cenovou kalkulaci nebo v pøípadì dotazù mì, prosím, kontaktujte -
+                <a class="btn-link" title="Dárky - více informací, ceník" href="/darky/">
+                    více informací &raquo;
+                </a>
+            </p>
+            
+            <a class="no-decor" title="Kosmetické poradenství - více informací, ceník" href="/kosmeticke-poradenstvi/">
+                <h3 class="featurette-heading">Kosmetické poradenství</h3>
+            </a>
+            <p class="lead">
+                Máte problémy s pletí? Chcete nìco zmìnit a nevíte jak na to? 
+                Nechte si ode mì poradit a objednejte se na kosmetické poradenství zcela ZDARMA -
+                <a class="btn-link" title="Kosmetické poradenství - více informací, ceník" href="/kosmeticke-poradenstvi/">
+                    více informací &raquo;
+                </a>
+            </p>
+            
+            <a class="no-decor" title="Spolupráce - více informací" href="/spoluprace/">
                 <h3 class="featurette-heading">Spolupráce</h3>
-
-                <p class="afterlead bold">Pro firmy:</p>
-
-                <p class="afterlead">Pro Vaše zamìstnance, obchodní partnery a klienty nabízím: </p>
-                <ul class="afterlead">
-                    <li>kosmetická poradenství v péèi o ple a líèení</li>
-                    <li>sestavení dárkovıch balíèkù</li>
-                    <li>spolupráci a partnerství na firemních veèírcích a spoleèenskıch akcích</li>
-                </ul>
-
-                <p class="afterlead bold">Pro budoucí vizáistky:</p>
-                <ul class="afterlead">
-                    <li>Zajímáte se o kosmetiku a líèení?</li>
-                    <li>Chcete se více zdokonalit a vzdìlávat?</li>
-                    <li>Chcete to mít jako koníèka, pøivıdìlek nebo práci?</li>
-                    <li class="bold">Pøidejte se k nám!</li>
-                </ul>
-            </div>
+            </a>
+            <p class="lead">
+                Pro Vaše zamìstnance, obchodní partnery a klienty nabízím rùzné monosti slueb -
+                <a class="btn-link" title="Spolupráce - více informací" href="/spoluprace/">
+                    více informací &raquo;
+                </a>
+            </p>
         </div>
 
         <script src="/js/libs/jquery/jquery.js"></script>
