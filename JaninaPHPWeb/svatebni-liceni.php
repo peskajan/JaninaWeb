@@ -37,8 +37,7 @@
             </p>
 
             <p class="afterlead">
-                Aby jste mìla perfektní pøedstavu, jak ve Váš den budete vypadat, doporuèuji zkoušku svatebního líèení. 
-                Kde vybereme líèení, které se bude hodit k Vašim šatùm.
+                Aby jste mìla perfektní pøedstavu, jak ve Váš den budete vypadat, doporuèuji zkoušku svatebního líèení, kde zjistím Vaše pøedstavy a vybereme líèení, které se bude hodit Vám a k Vašim šatùm.
             </p>
 
             <div class="row">
@@ -82,12 +81,13 @@
             </table>
 
             <p class="afterlead">Úèes trvá pøiblinì 30-60 minut dle nároènosti.</p>
+            <p class="afterlead">Zkouška svatebního líèení a úèesu se bude konat dohromady, abyste mìla kompletní pøedstavu.</p>
 
-
+  <br>
             <p class="afterlead">
                 Pokud budete s mojí prací spokojeni, mùete vyuít i další sluby, které nabízím, 
                 a to <a href="/vecerni-liceni/">veèerní líèení</a> èi <a href="/foto-makeup/">foto make-up</a>, 
-                <a href="/vlasovy-styling/">slavnostní úèesy a vlasovı styling.</a>. Dále nabízím <a href="/kurzy-liceni/">kurzy líèení</a> pro individuály i skupiny, základní kurzy i pokroèilé.
+                <a href="/vlasovy-styling/">slavnostní úèesy a vlasovı styling</a>. Dále nabízím <a href="/kurzy-liceni/">kurzy líèení</a> pro individuály i skupiny, základní kurzy i pokroèilé.
             </p>
         </div>
 

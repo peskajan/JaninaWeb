@@ -47,16 +47,24 @@
                     <p class="afterlead">Místo konání poradenství dle dohody v Praze nebo ve Slaném.</p>
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-6">
-                    <a class="" href="/galerie/" title="Galerie - Svatební líèení">
+                    <a class="" href="/galerie/" title="Kosmetické poradenství">
                         <img class="example-image-link parallelogram" src="/images/gallery/poradenstvi2.jpg" alt="Galerie - Svatební líèení"/>
                     </a>
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
+            
+             <br>
+<p class="afterlead bold">Pro budoucí vizážistky:</p>
+            <ul class="afterlead">
+                <li>Zajímáte se o kosmetiku a líèení?</li>
+                <li>Chcete se více zdokonalit a vzdìlávat?</li>
+                <li>Chcete to mít jako koníèka, pøivýdìlek nebo práci?</li>
+                <li class="bold">Pøidejte se k nám!</li>
+            </ul>
 
-            <br>
             <p class="afterlead">
                 Pokud budete s mojí prací spokojeni, mùžete využít i další služby, které nabízím, 
-                a to <a href="/vecerni-liceni/">veèerní líèení</a> èi <a href="/foto-makeup/">foto make-up</a>, 
+                a to <a href="/svatebni-liceni/">svatební líèení</a>, <a href="/vecerni-liceni/">veèerní líèení</a> èi <a href="/foto-makeup/">foto make-up</a>, 
                 <a href="/vlasovy-styling/">slavnostní úèesy a vlasový styling.</a>. Dále nabízím <a href="/kurzy-liceni/">kurzy líèení</a> pro individuály i skupiny, základní kurzy i pokroèilé.
             </p>
         </div>

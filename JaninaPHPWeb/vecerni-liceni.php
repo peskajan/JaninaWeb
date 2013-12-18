@@ -27,67 +27,45 @@
             <h2 class="page-heading">Veèerní líèení</h2>
             
             <p class="lead">
-                Nechte se ve svùj vıjimeènı den hıèkat a veškerou práci nechejte na mnì. 
-                Díky profesionálnímu líèení budete vypadat skvìle.
+                Chcete pøi speciální události vypadat vyjímeènì? Nechte to na mnì a já Vám pomohu! 
+                Díky profesionálnímu líèení budete vypadat skvìle!
             </p>
 
-            <p class="afterlead">Základem pro svatební líèení je dokonalı podklad, Vaše ple musí vypadat sjednocennì a záøivì. 
-                Svatební líèení musí bıt pro fotografie a video vırazné, ale zároveò musí bıt pøirozené pøi pohlednu na denním svìtle. 
-                Díky kvalitním pøípravkùm Vám svatební líèení vydrí celı den.
-            </p>
-
-            <p class="afterlead">
-                Aby jste mìla perfektní pøedstavu, jak ve Váš den budete vypadat, doporuèuji zkoušku svatebního líèení. 
-                Kde vybereme líèení, které se bude hodit k Vašim šatùm.
+            <p class="afterlead">Veèerní líèení je vhodné pro plesy a jiné slavnostní akce. Základem je dokonalı podklad, Vaše ple musí vypadat krásnì a sjednocennì. Veèerní líèení bıvá vıraznìjší, ale vše je uzpùsobeno tak, aby se to hodilo k Vám i k Vašim šatùm.
             </p>
 
             <div class="row">
                 <div class="col-lg-6">
                     <table class="afterlead">
                         <tr><th colspan="2" >Ceník</th></tr>
-                        <tr><td>Svatební líèení</td> 
-                            <td class="price">850 Kè</td></tr>
-                        <tr><td>Zkouška svatebního líèení</td> 
+                        <tr><td>Veèerní líèení</td> 
                             <td class="price">450 Kè</td></tr>
-                        <tr><td>Líèení svatebèanù</td> 
-                            <td class="price">350 Kè</td></tr>
+                        <tr><td><span class="label label-success">AKCE</span> Líèení více osob</td> 
+                            <td class="price">350 Kè/osoba</td></tr>
                     </table>
 
                     <p class="afterlead">Líèení trvá pøiblinì 45 minut.</p>
                     <p class="afterlead">Doprava ve Slaném a po Praze je v cenì, ostatní za doplatek 3Kè/km.</p>
-                </div><!-- /.col-lg-4 -->
-                <div class="col-lg-6">
-                    <a class="" href="/galerie/" title="Galerie - Svatební líèení">
-                        <img class="example-image-link parallelogram" src="/images/gallery/nevestaTereza-nahled.jpeg" alt="Galerie - Svatební líèení"/>
-                    </a>
-                    <a class="" href="/galerie/" title="Galerie - Svatební líèení">
-                        <img class="example-image-link parallelogram" src="/images/gallery/nevestaZuzka-nahled.jpg" alt="Galerie - Svatební líèení"/>
-                    </a>
-                </div><!-- /.col-lg-4 -->
-            </div><!-- /.row -->
 
-            <h3 class="featurette-heading">Svatební uèesy</h3>
+            
+            <h3 class="featurette-heading">Slavnostní úèesy a vlasovı styling</h3>
             <p class="lead">
-                Spojte líèení s úèesem a ušetøete si tak èas i peníze. Nabízím èesání nevìsty i ostatních svatebèanù.
+                Spojte líèení s úèesem a ušetøete si tak èas i peníze. Nabízím sloitìjší drdoly i úpravu rozpuštìnıch vlasy.
             </p>
 
             <table class="afterlead">
                 <tr><th colspan="2" >Ceník</th></tr>
-                <tr><td>Svatební úèes</td> 
-                    <td class="price">400 Kè</td></tr>
-                <tr><td>Zkouška svatebního úèesu</td> 
-                    <td class="price">300 Kè</td></tr>
-                <tr><td>Èesání svatebèanù</td> 
-                    <td class="price">250 Kè</td></tr>
+                <tr><td>Slavnostní úèes</td> 
+                    <td class="price">350 Kè</td></tr>
             </table>
 
             <p class="afterlead">Úèes trvá pøiblinì 30-60 minut dle nároènosti.</p>
 
-
+  <br>
             <p class="afterlead">
                 Pokud budete s mojí prací spokojeni, mùete vyuít i další sluby, které nabízím, 
-                a to <a href="/vecerni-liceni/">veèerní líèení</a> èi <a href="/foto-makeup/">foto make-up</a>, 
-                <a href="/vlasovy-styling/">slavnostní úèesy a vlasovı styling.</a>. Dále nabízím <a href="/kurzy-liceni/">kurzy líèení</a> pro individuály i skupiny, základní kurzy i pokroèilé.
+                a to <a href="/svatební-liceni/">svatební líèení</a>, <a href="/foto-makeup/">foto make-up</a> nebo 
+                <a href="/vlasovy-styling/">svatební úèesy</a>. Dále nabízím <a href="/kurzy-liceni/">kurzy líèení</a> pro individuály i skupiny, základní kurzy i pokroèilé.
             </p>
             
         </div>

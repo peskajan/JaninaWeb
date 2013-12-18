@@ -42,19 +42,14 @@
                             <td class="price">300 Kè</td></tr>
                         <tr><td>Slavnostní úèes</td> 
                             <td class="price">350 Kè</td></tr>
-                        <tr><td>Úprava vlasù na focení</td> 
-                            <td class="price">dohodou</td></tr>
                     </table>
 
                     <p class="afterlead">Úèes trvá 30minut až 1 hodinu - dle nároènosti.</p>
                     <p class="afterlead">Doprava ve Slaném a po Praze je v cenì, ostatní za doplatek 3Kè/km.</p>
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-6">
-                    <a class="" href="/galerie/" title="Galerie - Svatební líèení">
-                        <img class="example-image-link parallelogram" src="/images/gallery/nevestaTereza-nahled.jpeg" alt="Galerie - Svatební líèení"/>
-                    </a>
-                    <a class="" href="/galerie/" title="Galerie - Svatební líèení">
-                        <img class="example-image-link parallelogram" src="/images/gallery/nevestaZuzka-nahled.jpg" alt="Galerie - Svatební líèení"/>
+                    <a class="" href="/galerie/" title="Vlasový styling">
+                        <img class="example-image-link parallelogram" src="/images/gallery/drdol-nahled.jpg" alt="Galerie"/>
                     </a>
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
@@ -62,8 +57,7 @@
             <br>
             <p class="afterlead">
                 Pokud budete s mojí prací spokojeni, mùžete využít i další služby, které nabízím, 
-                a to <a href="/vecerni-liceni/">veèerní líèení</a> èi <a href="/foto-makeup/">foto make-up</a>, 
-                <a href="/vlasovy-styling/">slavnostní úèesy a vlasový styling.</a>. Dále nabízím <a href="/kurzy-liceni/">kurzy líèení</a> pro individuály i skupiny, základní kurzy i pokroèilé.
+                a to <a href="/vecerni-liceni/">veèerní líèení</a>, <a href="/svatebni-liceni/">svatební líèení</a> èi <a href="/foto-makeup/">foto make-up</a>. Dále nabízím <a href="/kurzy-liceni/">kurzy líèení</a> pro individuály i skupiny, základní kurzy i pokroèilé.
             </p>
 
         </div>

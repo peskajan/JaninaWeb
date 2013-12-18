@@ -39,7 +39,7 @@
                 <h3 class="featurette-heading">Veèerní, slavnostní líèení</h3>
             </a>
             <p class="lead">
-                doplnit text -
+                Líèení vhodné pro plesy a jiné slavnostní akce - 
                 <a class="btn-link" title="Veèerní, slavnostní líèení - více informací, ceník, fotogalerie" href="/vecerni-liceni/">
                     více informací &raquo;
                 </a>
@@ -49,7 +49,7 @@
                 <h3 class="featurette-heading">Foto make-up</h3>
             </a>
             <p class="lead">
-                doplnit text -
+                Make-up dle poadavkù klienta a stylu focení - 
                 <a class="btn-link" title="Foto make-up - více informací, ceník, fotogalerie" href="/foto-makeup/">
                     více informací &raquo;
                 </a>
@@ -57,7 +57,7 @@
 
             <h3 class="featurette-heading">Denní líèení</h3>
             <p class="lead">
-                doplnit text
+                Jemné denní líèení pro kadı den. 
             </p>
             
             <a class="no-decor" title="Vlasovı styling - více informací, ceník" href="/vlasovy-styling/">
@@ -74,8 +74,7 @@
                 <h3 class="featurette-heading">Kurzy líèení</h3>
             </a>
             <p class="lead">
-                Individuální i skupinové kurzy líèení. Zjistíte, jak pøipravit ple pro líèení, jak vybrat vhodnı typ make-upu, 
-                jaké barvy Vás sluší, jaká pouívat líèidla, jak pracovat se štìtci a nauèíte se, jak se nalíèit pro kadou pøíleitost -
+                Individuální i skupinové kurzy líèení. Kurzy pro zaèáteèníky i pokroèilé -
                 <a class="btn-link" title="Kurzy líèení - více informací, ceník" href="/kurzy-liceni/">
                     více informací &raquo;
                 </a>
@@ -85,8 +84,7 @@
                 <h3 class="featurette-heading">Dárky</h3>
             </a>
             <p class="lead">
-                Darujte balíèek pøípravkù nebo poukázku na pøípravky, promìnu líèením, minikurz líèení èi vizáistické sluby.
-                Pro konkrétní cenovou kalkulaci nebo v pøípadì dotazù mì, prosím, kontaktujte -
+                Darujte balíèek pøípravkù nebo poukázku na pøípravky, promìnu líèením, kurz líèení èi vizáistické sluby -
                 <a class="btn-link" title="Dárky - více informací, ceník" href="/darky/">
                     více informací &raquo;
                 </a>
