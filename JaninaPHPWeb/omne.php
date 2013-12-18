@@ -27,7 +27,7 @@
             <div class="row featurette">
                 <div class="col-md-7">
                     <p class="lead">Pracuji jako vizážistka a kosmetická poradkynì již od roku 2010. 
-                        Specializuji se hlavnì na foto-make up, svatební a další slavnostní líèení a vlasový styling. 
+                        Specializuji se hlavnì na foto-make up, svatební líèení, veèerní líèení a vlasový styling. 
                         Pùsobím pøevážnì v Praze a ve Slaném, po domluvì kdekoliv dle Vašeho pøání.
                     </p>
 

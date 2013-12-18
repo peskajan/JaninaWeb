@@ -45,8 +45,8 @@
 
             <p class="afterlead">
                 Pokud budete s mojí prací spokojeni, mùete vyuít i další sluby, které nabízím, 
-                a to <a href="/vecerni-liceni/">veèerní líèení</a<a href="/svatební-liceni/">svatební líèení</a> èi <a href="/foto-makeup/">foto make-up</a>, 
-                <a href="/vlasovy-styling/">slavnostní úèesy a vlasovı styling.</a>.
+                a to <a href="/vecerni-liceni/">veèerní líèení</a>, <a href="/svatební-liceni/">svatební líèení</a> èi <a href="/foto-makeup/">foto make-up</a>, 
+                <a href="/vlasovy-styling/">slavnostní úèesy a vlasovı styling</a>.
             </p>
 
         </div>

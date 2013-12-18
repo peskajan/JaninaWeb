@@ -80,7 +80,7 @@
                     <td class="price">250 Kè</td></tr>
             </table>
 
-            <p class="afterlead">Úèes trvá pøiblinì 30-60 minut dle nároènosti.</p>
+            <p class="afterlead">Úèes trvá pøiblinì 30-60 minut - dle nároènosti.</p>
             <p class="afterlead">Zkouška svatebního líèení a úèesu se bude konat dohromady, abyste mìla kompletní pøedstavu.</p>
 
   <br>

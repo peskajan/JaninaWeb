@@ -25,7 +25,7 @@
         <div id="content" class="main_content container">
 
             <h2 class="page-heading">Veèerní líèení</h2>
-            
+
             <p class="lead">
                 Chcete pøi speciální události vypadat vyjímeènì? Nechte to na mnì a já Vám pomohu! 
                 Díky profesionálnímu líèení budete vypadat skvìle!
@@ -34,20 +34,18 @@
             <p class="afterlead">Veèerní líèení je vhodné pro plesy a jiné slavnostní akce. Základem je dokonalı podklad, Vaše ple musí vypadat krásnì a sjednocennì. Veèerní líèení bıvá vıraznìjší, ale vše je uzpùsobeno tak, aby se to hodilo k Vám i k Vašim šatùm.
             </p>
 
-            <div class="row">
-                <div class="col-lg-6">
-                    <table class="afterlead">
-                        <tr><th colspan="2" >Ceník</th></tr>
-                        <tr><td>Veèerní líèení</td> 
-                            <td class="price">450 Kè</td></tr>
-                        <tr><td><span class="label label-success">AKCE</span> Líèení více osob</td> 
-                            <td class="price">350 Kè/osoba</td></tr>
-                    </table>
+            <table class="afterlead">
+                <tr><th colspan="2" >Ceník</th></tr>
+                <tr><td>Veèerní líèení</td> 
+                    <td class="price">450 Kè</td></tr>
+                <tr><td><span class="label label-success">AKCE</span> Líèení více osob</td> 
+                    <td class="price">350 Kè/osoba</td></tr>
+            </table>
 
-                    <p class="afterlead">Líèení trvá pøiblinì 45 minut.</p>
-                    <p class="afterlead">Doprava ve Slaném a po Praze je v cenì, ostatní za doplatek 3Kè/km.</p>
+            <p class="afterlead">Líèení trvá pøiblinì 45 minut.</p>
+            <p class="afterlead">Doprava ve Slaném a po Praze je v cenì, ostatní za doplatek 3Kè/km.</p>
 
-            
+
             <h3 class="featurette-heading">Slavnostní úèesy a vlasovı styling</h3>
             <p class="lead">
                 Spojte líèení s úèesem a ušetøete si tak èas i peníze. Nabízím sloitìjší drdoly i úpravu rozpuštìnıch vlasy.
@@ -59,15 +57,15 @@
                     <td class="price">350 Kè</td></tr>
             </table>
 
-            <p class="afterlead">Úèes trvá pøiblinì 30-60 minut dle nároènosti.</p>
+            <p class="afterlead">Úèes trvá pøiblinì 30-60 minut - dle nároènosti.</p>
 
-  <br>
+            <br>
             <p class="afterlead">
                 Pokud budete s mojí prací spokojeni, mùete vyuít i další sluby, které nabízím, 
                 a to <a href="/svatební-liceni/">svatební líèení</a>, <a href="/foto-makeup/">foto make-up</a> nebo 
                 <a href="/vlasovy-styling/">svatební úèesy</a>. Dále nabízím <a href="/kurzy-liceni/">kurzy líèení</a> pro individuály i skupiny, základní kurzy i pokroèilé.
             </p>
-            
+
         </div>
 
         <script src="/js/libs/jquery/jquery.js"></script>

@@ -27,7 +27,7 @@
             <h2 class="page-heading">Dárky</h2>
 
             <p class="lead">Darujte balíèek pøípravkù vlastní hodnoty nebo dárkovou poukázku na pøípravky vlastní hodnoty. Dárkovou poukázku na kurz líèení èi vizážistické služby.
-                Pro konkrétní cenovou kalkulaci nebo v pøípadì dotazù mì, prosím, kontaktujte.</p>
+                Pro konkrétní cenovou kalkulaci nebo mì v pøípadì dotazù, prosím, kontaktujte.</p>
 
             <div class="row">
                 <div class="col-lg-6">

@@ -45,7 +45,7 @@
                             <td class="price">350 Kè</td></tr>
                     </table>
 
-                    <p class="afterlead">Líèení trvá pøibližnì 45 minut dle nároènosti.</p>
+                    <p class="afterlead">Líèení trvá pøibližnì 45 minut - dle nároènosti.</p>
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-6">
                     <a class="" href="/galerie/" title="Galerie - Foto-make up">
@@ -68,12 +68,12 @@
                  <tr><td>Pøeèesání</td> 
                     <td class="price">250 Kè</td></tr>
             </table>
-            <p class="afterlead">Úèes trvá pøibližnì 30-60 minut dle nároènosti.</p>
+            <p class="afterlead">Úèes trvá pøibližnì 30-60 minut - dle nároènosti.</p>
             <br>
             <p class="afterlead">
                 Pokud budete s mojí prací spokojeni, mùžete využít i další služby, které nabízím, 
                 a to <a href="/vecerni-liceni/">veèerní líèení</a> èi <a href="/svatebni-liceni/">svatební líèení</a>, 
-                <a href="/vlasovy-styling/">slavnostní úèesy a vlasový styling.</a>. Dále nabízím <a href="/kurzy-liceni/">kurzy líèení</a> pro individuály i skupiny, základní kurzy i pokroèilé.
+                <a href="/vlasovy-styling/">slavnostní úèesy a vlasový styling</a>. Dále nabízím <a href="/kurzy-liceni/">kurzy líèení</a> pro individuály i skupiny, základní kurzy i pokroèilé.
             </p>
             
         </div>
