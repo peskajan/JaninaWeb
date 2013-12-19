@@ -31,8 +31,8 @@
                 Dobrý make-up vypadá na fotografiích skvìle a pomáhá fotografovi pøi následné úpravì fotek.
             </p>
 
-            <p class="afterlead">Jemné líèení, glamour, výrazné èi extravagantní líèení dle Vašeho pøání. Vhodné pro reklamní fotografie a jiné projekty, modelky, ale i pro pìkné osobní èi rodinné fotografie.
-            </p>
+            <p class="afterlead">Jemné líèení, glamour, výrazné èi extravagantní líèení dle Vašeho pøání. Vhodné pro reklamní fotografie a jiné projekty, pro modelky, ale i pro pìkné osobní èi rodinné fotografie.
+           </p>
 
 
             <div class="row">

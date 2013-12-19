@@ -33,7 +33,7 @@
 
             <p class="afterlead">Základem pro svatební líèení je dokonalı podklad, Vaše ple musí vypadat sjednocennì a záøivì. 
                 Svatební líèení musí bıt pro fotografie a video vırazné, ale zároveò musí bıt pøirozené pøi pohlednu na denním svìtle. 
-                Díky kvalitním pøípravkùm Vám svatební líèení vydrí celı den.
+                Díky kvalitním pøípravkùm Vám svatební líèení vydrí celı nároènı den i protanèenou noc.
             </p>
 
             <p class="afterlead">

@@ -26,7 +26,7 @@
             <h2 class="page-heading">O mnì</h2>
             <div class="row featurette">
                 <div class="col-md-7">
-                    <p class="lead">Pracuji jako vizážistka a kosmetická poradkynì již od roku 2010. 
+                    <p class="lead">Pracuji jako vizážistka a kosmetická poradkynì již od roku 2010. Nejprve bylo líèení mým velkým koníèkem, potom se stalo zároveò i mou profesí.
                         Specializuji se hlavnì na foto-make up, svatební líèení, veèerní líèení a vlasový styling. 
                         Pùsobím pøevážnì v Praze a ve Slaném, po domluvì kdekoliv dle Vašeho pøání.
                     </p>
