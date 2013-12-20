@@ -232,6 +232,12 @@ table.afterlead td{
     padding-bottom: 0px;
 }
 
+.btn-contactme {
+    font-size: 13.099999999999998px;
+    font-weight: normal;
+    margin: 0px 0px 50px 30px;
+}
+
 td.price {
     white-space: nowrap;
     text-align: right;
@@ -246,12 +252,12 @@ td.price {
 }
 
 .label-highlight {
-  background-color: #f1299f;
+    background-color: #f1299f;
 }
 
 .label-highlight[href]:hover,
 .label-highlight[href]:focus {
-  background-color: #c81880;
+    background-color: #c81880;
 }
 
 .myphoto {
@@ -384,8 +390,8 @@ a.no-decor:focus {
 
 .parallelogram {
     width: 175px;
-    height: 175px;
     border-radius: 50px 5px 50px 5px;
+    margin-top: 25px;
     -webkit-border-radius: 50px 5px 50px 5px;
     -moz-border-radius-topright: 5px;
     -moz-border-radius-bottomright: 50px;
@@ -446,6 +452,7 @@ input.placeholder-text, textarea.placeholder-text  {
         margin: 10px 0px 30px 0px;
     }
 
+    .btn-contactme,
     .afterlead {
         font-size: 17px;
     }
@@ -506,7 +513,7 @@ input.placeholder-text, textarea.placeholder-text  {
     .featurette-heading {
         font-size: 35px;
     }
-    
+
     .page-heading {
         font-size: 50px;
     }
@@ -541,7 +548,6 @@ input.placeholder-text, textarea.placeholder-text  {
 
     .parallelogram {
         width: 200px;
-        height: 200px;
     }
 
     .navbar-brand {

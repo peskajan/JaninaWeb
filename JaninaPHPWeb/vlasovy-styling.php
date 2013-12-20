@@ -43,13 +43,15 @@
                         <tr><td>Slavnostní úèes</td> 
                             <td class="price">350 Kè</td></tr>
                     </table>
+                    
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
 
                     <p class="afterlead">Úèes trvá 30minut až 1 hodinu - dle nároènosti.</p>
                     <p class="afterlead">Doprava ve Slaném a po Praze je v cenì, ostatní za doplatek 3Kè/km.</p>
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-6">
-                    <a class="" href="/galerie/" title="Vlasový styling">
-                        <img class="example-image-link parallelogram" src="/images/gallery/drdol-nahled.jpg" alt="Galerie"/>
+                    <a href="/images/gallery/drdol-velka.jpg" data-lightbox="makeup-set" title="Vlasový styling - Ukázka úèesu">
+                        <img class="example-image-link parallelogram" src="/images/gallery/drdol-nahled.jpg" alt="Vlasový styling - Ukázka úèesu"/>
                     </a>
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->

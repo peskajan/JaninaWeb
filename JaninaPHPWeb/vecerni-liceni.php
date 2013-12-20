@@ -41,6 +41,8 @@
                 <tr><td><span class="label label-highlight">AKCE</span> Líèení více osob</td> 
                     <td class="price">350 Kè/osoba</td></tr>
             </table>
+            
+            <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
 
             <p class="afterlead">Líèení trvá pøibližnì 45 minut.</p>
             <p class="afterlead">Doprava ve Slaném a po Praze je v cenì, ostatní za doplatek 3Kè/km.</p>

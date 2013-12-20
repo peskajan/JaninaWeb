@@ -42,6 +42,8 @@
                         <li>odborné poradenství v péèi o ple</li>
                         <li>poradenství v líèení + lehké denní líèení</li>
                     </ul>
+                    
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
 
                     <p class="afterlead">Poradenství trvá pøiblinì 1 hodinu.</p>
                     <p class="afterlead">Místo konání poradenství dle dohody v Praze nebo ve Slaném.</p>
@@ -52,9 +54,9 @@
                     </a>
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
-            
-             <br>
-<p class="afterlead bold">Pro budoucí vizáistky:</p>
+
+            <br>
+            <p class="afterlead bold">Pro budoucí vizáistky:</p>
             <ul class="afterlead">
                 <li>Zajímáte se o kosmetiku a líèení?</li>
                 <li>Chcete se více zdokonalit a vzdìlávat?</li>

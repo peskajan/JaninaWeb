@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Dárky, poukazy | Jana Budková |  Líèení</title>
+        <title>Dárky, poukazy | Jana Budková | Líèení</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -24,45 +24,42 @@
 
         <div id="content" class="main_content container">
 
-            <h2 class="page-heading">Dárky</h2>
+            <h2 class="page-heading">Dárkové poukazy</h2>
 
-            <p class="lead">Darujte balíèek pøípravkù èi dárkovou poukázku na pøípravky vlastní hodnoty nebo dárkovou poukázku na kurz líèení èi vizážistické služby.
-                Pro konkrétní cenovou kalkulaci nebo mì v pøípadì dotazù, prosím, kontaktujte.</p>
+            <p class="lead">
+                Chcete udìlat radost svým blízkým a sháníte dárek, který potìší? 
+                Tak již dál nehledejte - nabízím dárkové poukazy na své vizážistické služby èi kurzy líèení. 
+                Nebo mùžete darovat balíèek kvalitních pøípravkù èi dárkový poukaz na pøípravky libovolné hodnoty.
+            </p>
 
             <div class="row">
                 <div class="col-lg-6">
                     <table class="afterlead">
-                        <tr><th colspan="2" >Nabídka poukazù</th></tr>
-                         <tr><td>Veèerní líèení</td> 
+                        <tr><th colspan="2" >Nabídka dárkových poukazù</th></tr>
+                        <tr><td><a title="Veèerní líèení - podrobnosti služby" href="/vecerni-liceni/">Veèerní líèení</a></td> 
                             <td class="price">450 Kè</td></tr>
-                           <tr><td>Slavnostní úèes</td> 
+                        <tr><td><a title="Slavnostní úèes - podrobnosti služby" href="/vlasovy-styling/">Slavnostní úèes</a></td> 
                             <td class="price">350 Kè</td></tr>
-                        <tr><td>Svatební líèení</td> 
-                            <td class="price">850 Kè</td></tr>
-                        <tr><td>Svatební líèení se zkouškoou</td> 
-                            <td class="price">1300 Kè</td></tr>
-                        <tr><td>Svatební úèes</td> 
-                            <td class="price">400 Kè</td></tr>
-                          <tr><td>Svatební úèes se zkouškou</td> 
-                            <td class="price">300 Kè</td></tr>
+                        <tr><td><a title="Svatební líèení, líèení svatebèanù" href="/svatebni-liceni/">Svatební líèení</a></td> 
+                            <td class="price">od 850 Kè</td></tr>
+                        <tr><td><a title="Svatební líèení, líèení svatebèanù" href="/svatebni-liceni/">Svatební úèes</a></td> 
+                            <td class="price">od 400 Kè</td></tr>
+                        <tr><td><a title="Kurzy líèení" href="/kurzy-liceni/">Kurzy líèení</a></td> 
+                            <td class="price">od 230 Kè</td></tr>
                     </table>
 
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-6">
-                    <a class="" href="/galerie/" title="Galerie - Svatební líèení">
-                        <img class="example-image-link parallelogram" src="/images/gallery/nevestaTereza-nahled.jpeg" alt="Galerie - Svatební líèení"/>
-                    </a>
-                    <a class="" href="/galerie/" title="Galerie - Svatební líèení">
-                        <img class="example-image-link parallelogram" src="/images/gallery/nevestaZuzka-nahled.jpg" alt="Galerie - Svatební líèení"/>
+                    <a href="/images/gallery/poukaz-vecerni-liceni.jpg" data-lightbox="makeup-set" title="Ukázka dárkového poukazu - Veèerní líèení">
+                        <img class="example-image-link" src="/images/gallery/poukaz-vecerni-liceni-nahled.jpg" alt="Ukázka dárkového poukazu - Veèerní líèení" width="300"/>
                     </a>
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
 
             <br>
             <p class="afterlead">
-                Pokud budete s mojí prací spokojeni, mùžete využít i další služby, které nabízím, 
-                a to <a href="/vecerni-liceni/">veèerní líèení</a>, <a href="/svatebni-liceni/">svatební líèení</a> èi <a href="/foto-makeup/">foto make-up</a>, 
-                <a href="/vlasovy-styling/">slavnostní úèesy a vlasový styling</a>. Dále nabízím <a href="/kurzy-liceni/">kurzy líèení</a> pro individuály i skupiny, základní kurzy i pokroèilé.
+                Pokud jste si vybrali, neváhejte mì <a class="label label-highlight" title="Kontakty - email, telefon, facebook" href="/kontakty/">kontaktovat</a>. 
+                V pøípadì specifiètìjšího požadavku mùžeme poukazy libovolnì kombinovat èi upravovat dle Vašeho pøání.
             </p>
 
         </div>

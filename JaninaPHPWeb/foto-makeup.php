@@ -44,6 +44,8 @@
                          <tr><td>Pøelíèení</td> 
                             <td class="price">350 Kè</td></tr>
                     </table>
+                    
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
 
                     <p class="afterlead">Líèení trvá pøibližnì 45 minut - dle nároènosti.</p>
                 </div><!-- /.col-lg-4 -->

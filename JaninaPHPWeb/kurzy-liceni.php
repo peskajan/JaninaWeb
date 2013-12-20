@@ -41,6 +41,9 @@
                         <tr><td><span class="label label-highlight">NOVINKA</span> Rychlokurz aplikace tužky na oèi <span class="text-muted">(nìkolik typù aplikací)</span></td> 
                             <td class="price">230 Kè</td></tr>
                     </table>
+                    
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
+                    
                     <p class="afterlead">Doprava ve Slaném a po Praze je v cenì, ostatní za doplatek 3Kè/km.</p>
 
             <p class="afterlead">

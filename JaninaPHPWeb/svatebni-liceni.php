@@ -23,7 +23,7 @@
         ?>
 
         <div id="content" class="main_content container">
-
+            
             <h2 class="page-heading">Svatební líèení</h2>
 
             <p class="lead">
@@ -51,6 +51,8 @@
                         <tr><td>Líèení svatebèanù</td> 
                             <td class="price">350 Kè</td></tr>
                     </table>
+                    
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
 
                     <p class="afterlead">Líèení trvá pøibližnì 45 minut.</p>
                     <p class="afterlead">Doprava ve Slaném a po Praze je v cenì, ostatní za doplatek 3Kè/km.</p>

@@ -42,8 +42,9 @@
                 <li>Chcete to mít jako koníèka, pøivýdìlek nebo práci?</li>
                 <li class="bold">Pøidejte se k nám!</li>
             </ul>
+            
+            <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
 
-            <br>
             <p class="afterlead">
                 Pokud budete s mojí prací spokojeni, mùžete využít i další služby, které nabízím, 
                 a to <a href="/vecerni-liceni/">veèerní líèení</a>, <a href="/svatebni-liceni/">svatební líèení</a> èi <a href="/foto-makeup/">foto make-up</a>, 
