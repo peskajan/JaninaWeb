@@ -38,8 +38,6 @@
                             <td class="price">300 Kè</td></tr>
                         <tr><td>Èesání svatebèanù</td> 
                             <td class="price">250 Kè/osoba</td></tr>
-                        <tr><td>Zkouška svatebního úèesu</td> 
-                            <td class="price">300 Kè</td></tr>
                         <tr><td>Slavnostní úèes</td> 
                             <td class="price">350 Kè</td></tr>
                     </table>
