@@ -245,6 +245,15 @@ td.price {
     font-size:80%;
 }
 
+.label-highlight {
+  background-color: #f1299f;
+}
+
+.label-highlight[href]:hover,
+.label-highlight[href]:focus {
+  background-color: #c81880;
+}
+
 .myphoto {
     margin-left: 0px;
     border-radius: 3px;

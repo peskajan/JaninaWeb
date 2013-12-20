@@ -38,7 +38,7 @@
                 <tr><th colspan="2" >Ceník</th></tr>
                 <tr><td>Veèerní líèení</td> 
                     <td class="price">450 Kè</td></tr>
-                <tr><td><span class="label label-success">AKCE</span> Líèení více osob</td> 
+                <tr><td><span class="label label-highlight">AKCE</span> Líèení více osob</td> 
                     <td class="price">350 Kè/osoba</td></tr>
             </table>
 
