@@ -26,19 +26,25 @@
 
             <h2 class="page-heading">Dárky</h2>
 
-            <p class="lead">Darujte balíèek pøípravkù vlastní hodnoty nebo dárkovou poukázku na pøípravky vlastní hodnoty. Dárkovou poukázku na kurz líèení èi vizážistické služby.
+            <p class="lead">Darujte balíèek pøípravkù èi dárkovou poukázku na pøípravky vlastní hodnoty nebo dárkovou poukázku na kurz líèení èi vizážistické služby.
                 Pro konkrétní cenovou kalkulaci nebo mì v pøípadì dotazù, prosím, kontaktujte.</p>
 
             <div class="row">
                 <div class="col-lg-6">
                     <table class="afterlead">
-                        <tr><th colspan="2" >Ceník</th></tr>
+                        <tr><th colspan="2" >Nabídka poukazù</th></tr>
+                         <tr><td>Veèerní líèení</td> 
+                            <td class="price">450 Kè</td></tr>
+                           <tr><td>Slavnostní úèes</td> 
+                            <td class="price">350 Kè</td></tr>
+                        <tr><td>Svatební líèení</td> 
+                            <td class="price">850 Kè</td></tr>
+                        <tr><td>Svatební líèení se zkouškoou</td> 
+                            <td class="price">1300 Kè</td></tr>
                         <tr><td>Svatební úèes</td> 
                             <td class="price">400 Kè</td></tr>
-                        <tr><td>Zkouška svatebního úèesu</td> 
+                          <tr><td>Svatební úèes se zkouškou</td> 
                             <td class="price">300 Kè</td></tr>
-                        <tr><td>Èesání svatebèanù</td> 
-                            <td class="price">250 Kè</td></tr>
                     </table>
 
                 </div><!-- /.col-lg-4 -->

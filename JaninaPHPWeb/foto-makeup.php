@@ -63,7 +63,7 @@
 
             <table class="afterlead">
                 <tr><th colspan="2" >Ceník</th></tr>
-                <tr><td>Vlasový styling na focení</td> 
+                <tr><td>Vlasový styling</td> 
                     <td class="price">400 Kè</td></tr>
                  <tr><td>Pøeèesání</td> 
                     <td class="price">250 Kè</td></tr>
