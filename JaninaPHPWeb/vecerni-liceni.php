@@ -64,8 +64,10 @@
             <br>
             <p class="afterlead">
                 Pokud budete s mojí prací spokojeni, mùžete využít i další služby, které nabízím, 
-                a to <a href="/svatební-liceni/">svatební líèení</a>, <a href="/foto-makeup/">foto make-up</a> nebo 
-                <a href="/vlasovy-styling/">svatební úèesy</a>. Dále nabízím <a href="/kurzy-liceni/">kurzy líèení</a> pro individuály i skupiny, základní kurzy i pokroèilé.
+                a to <a title="Svatební líèení, líèení svatebèanù" href="/svatební-liceni/">svatební líèení</a>, <a title="Foto make-up" href="/foto-makeup/">foto make-up</a> nebo 
+                <a title="Vlasový styling - úprava vlasù na focení, svatební, plesové a jiné slavnostní úèesy" href="/vlasovy-styling/">svatební úèesy</a>. 
+                Dále nabízím <a title="Kurzy líèení - individuální kurzy, skupinové kurzy, kurz aplikace tužky na oèi" href="/kurzy-liceni/">kurzy líèení</a> 
+                pro individuály i skupiny, základní kurzy i pokroèilé.
             </p>
 
         </div>

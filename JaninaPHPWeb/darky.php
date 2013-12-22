@@ -44,7 +44,7 @@
                             <td class="price">od 850 Kè</td></tr>
                         <tr><td><a title="Svatební líèení, líèení svatebèanù" href="/svatebni-liceni/">Svatební úèes</a></td> 
                             <td class="price">od 400 Kè</td></tr>
-                        <tr><td><a title="Kurzy líèení" href="/kurzy-liceni/">Kurzy líèení</a></td> 
+                        <tr><td><a title="Kurzy líèení - individuální kurzy, skupinové kurzy, kurz aplikace tužky na oèi" href="/kurzy-liceni/">Kurzy líèení</a></td> 
                             <td class="price">od 230 Kè</td></tr>
                     </table>
 

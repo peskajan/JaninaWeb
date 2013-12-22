@@ -41,15 +41,19 @@
                         <tr><td><span class="label label-highlight">NOVINKA</span> Rychlokurz aplikace tužky na oèi <span class="text-muted">(nìkolik typù aplikací)</span></td> 
                             <td class="price">230 Kè</td></tr>
                     </table>
-                    
+
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
-                    
+
                     <p class="afterlead">Doprava ve Slaném a po Praze je v cenì, ostatní za doplatek 3Kè/km.</p>
+                </div>
+            </div>
+            <br>
 
             <p class="afterlead">
                 Pokud budete s mojí prací spokojeni, mùžete využít i další služby, které nabízím, 
-                a to <a href="/vecerni-liceni/">veèerní líèení</a>, <a href="/svatební-liceni/">svatební líèení</a> èi <a href="/foto-makeup/">foto make-up</a>, 
-                <a href="/vlasovy-styling/">slavnostní úèesy a vlasový styling</a>.
+                a to <a title="Veèerní líèení, plesové líèení" href="/vecerni-liceni/">veèerní líèení</a>, 
+                <a title="Svatební líèení, líèení svatebèanù" href="/svatební-liceni/">svatební líèení</a> èi <a title="Foto make-up" href="/foto-makeup/">foto make-up</a>, 
+                <a title="Vlasový styling - úprava vlasù na focení, svatební, plesové a jiné slavnostní úèesy" href="/vlasovy-styling/">slavnostní úèesy a vlasový styling</a>.
             </p>
 
         </div>

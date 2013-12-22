@@ -80,12 +80,12 @@
                 </a>
             </p>
             
-            <a class="no-decor" title="Dárky - více informací, ceník" href="/darky/">
+            <a class="no-decor" title="Dárky, dárkové balíèky, dárkové poukázky - více informací, ceník" href="/darky/">
                 <h3 class="featurette-heading">Dárky</h3>
             </a>
             <p class="lead">
                 Darujte balíèek pøípravkù nebo poukázku na pøípravky, promìnu líèením, kurz líèení èi vizážistické služby -
-                <a class="btn-link" title="Dárky - více informací, ceník" href="/darky/">
+                <a class="btn-link" title="Dárky, dárkové balíèky, dárkové poukázky - více informací, ceník" href="/darky/">
                     více informací &raquo;
                 </a>
             </p>

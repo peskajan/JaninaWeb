@@ -36,7 +36,7 @@
                             <div class="carousel-caption">
                                 <h1>Hledáte vhodný dárek?</h1>
                                 <p>Darujte Vašim blízkým poukázku na vizážistické služby, kurz líèení, kosmetické pøípravky a jiné.</p>
-                                <p><a class="btn btn-lg btn-primary" href="/darky/" role="button">Více informací  &raquo;</a></p>
+                                <p><a class="btn btn-lg btn-primary" title="Dárky, dárkové balíèky, dárkové poukázky" href="/darky/" role="button">Více informací  &raquo;</a></p>
                             </div>
                         </div>
                     </div>
@@ -45,7 +45,7 @@
                             <div class="carousel-caption">
                                 <h1>AKCE: Plesové líèení</h1>
                                 <p>Dejte se se kamarádkami dohromady a nechte se spoleènì nalíèit nebo uèesat za výhodnìjší cenu!!</p>
-                                <p><a class="btn btn-lg btn-primary" href="/vecerni-liceni/" role="button">Více informací  &raquo;</a></p>
+                                <p><a class="btn btn-lg btn-primary" title="Veèerní líèení, plesové líèení" href="/vecerni-liceni/" role="button">Více informací  &raquo;</a></p>
                             </div>
                         </div>
                     </div>
@@ -55,7 +55,7 @@
                                 <h1>Svatební líèení</h1>
                                 <p>Volné zimní termíny svatebního líèení a dále také volné termíny na rok 2014!!
                                 </p>
-                                <p><a class="btn btn-lg btn-primary" href="/svatebni-liceni/" role="button">Více informací  &raquo;</a></p>
+                                <p><a class="btn btn-lg btn-primary" title="Svatební líèení, líèení svatebèanù" href="/svatebni-liceni/" role="button">Více informací  &raquo;</a></p>
                             </div>
                         </div>
                     </div>

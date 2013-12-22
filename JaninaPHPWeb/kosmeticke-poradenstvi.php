@@ -31,10 +31,10 @@
                 kosmetické poradenství zcela <span class="bold">ZDARMA!</span>
             </p>
 
-            <p class="afterlead bold">Zde Vás èeká:</p>
 
             <div class="row">
                 <div class="col-lg-6">
+                    <p class="afterlead bold">Zde Vás èeká:</p>
                     <ul class="afterlead">
                         <li>analıza pleti</li>
                         <li>sestavení individuálního programu v péèi o ple</li>
@@ -66,8 +66,12 @@
 
             <p class="afterlead">
                 Pokud budete s mojí prací spokojeni, mùete vyuít i další sluby, které nabízím, 
-                a to <a href="/svatebni-liceni/">svatební líèení</a>, <a href="/vecerni-liceni/">veèerní líèení</a> èi <a href="/foto-makeup/">foto make-up</a>, 
-                <a href="/vlasovy-styling/">slavnostní úèesy a vlasovı styling</a>. Dále nabízím <a href="/kurzy-liceni/">kurzy líèení</a> pro individuály i skupiny, základní kurzy i pokroèilé.
+                a to <a title="Svatební líèení, líèení svatebèanù" href="/svatebni-liceni/">svatební líèení</a>, 
+                <a title="Veèerní líèení, plesové líèení" href="/vecerni-liceni/">veèerní líèení</a> èi 
+                <a title="Foto make-up" href="/foto-makeup/">foto make-up</a>, 
+                <a title="Vlasovı styling - úprava vlasù na focení, svatební, plesové a jiné slavnostní úèesy" href="/vlasovy-styling/">slavnostní úèesy a vlasovı styling</a>. 
+                Dále nabízím <a title="Kurzy líèení - individuální kurzy, skupinové kurzy, kurz aplikace tuky na oèi" href="/kurzy-liceni/">kurzy líèení</a> 
+                pro individuály i skupiny, základní kurzy i pokroèilé.
             </p>
         </div>
 
