@@ -31,25 +31,25 @@
             <div class="image-row">
                 <div class="image-set">
                     <a class="example-image-link" href="/images/gallery/Zuzka-velka.jpg" data-lightbox="makeup-set" title="Foto make-up - budoucí maminka Zuzka">
-                        <img class="example-image" src="/images/gallery/Zuzka.nahled.jpg" alt="Foto make-up - budoucí maminka Zuzka" width="150" height="150"/>
+                        <img class="example-image" src="/images/gallery/Zuzka.nahled.jpg" title="Foto make-up - budoucí maminka Zuzka" alt="Foto make-up - budoucí maminka Zuzka" width="150" height="150"/>
                     </a>
                     <a class="example-image-link" href="/images/gallery/MD-velka.jpg" data-lightbox="makeup-set" title="Foto make-up - maminka s dcerou">
-                        <img class="example-image" src="/images/gallery/MD-nahled.jpg" alt="Foto make-up - maminka s dcerou" width="150" height="150"/>
+                        <img class="example-image" src="/images/gallery/MD-nahled.jpg" title="Foto make-up - maminka s dcerou" alt="Foto make-up - maminka s dcerou" width="150" height="150"/>
                     </a>
                     <a class="example-image-link" href="/images/gallery/M-velky.jpg" data-lightbox="makeup-set" title="Foto make-up - jemný foto make-up">
-                        <img class="example-image" src="/images/gallery/M-nahled.jpg" alt="Foto make-up - jemný foto make-up" width="150" height="150"/>
+                        <img class="example-image" src="/images/gallery/M-nahled.jpg" title="Foto make-up - jemný foto make-up" alt="Foto make-up - jemný foto make-up" width="150" height="150"/>
                     </a>
                     <a class="example-image-link" href="/images/gallery/D-velky.jpg" data-lightbox="makeup-set" title="Foto make-up - jemný foto make-up">
-                        <img class="example-image" src="/images/gallery/D-nahled.jpg" alt="Foto make-up - jemný foto make-up" width="150" height="150"/>
+                        <img class="example-image" src="/images/gallery/D-nahled.jpg" title="Foto make-up - jemný foto make-up" alt="Foto make-up - jemný foto make-up" width="150" height="150"/>
                     </a>
                     <a class="example-image-link" href="/images/gallery/glamour-velky_1.jpg" data-lightbox="makeup-set" title="Foto make-up - glamour focení">
-                        <img class="example-image" src="/images/gallery/glamour-nahled.jpg" alt="Foto make-up - glamour focení" width="150" height="150"/>
+                        <img class="example-image" src="/images/gallery/glamour-nahled.jpg" title="Foto make-up - glamour focení" alt="Foto make-up - glamour focení" width="150" height="150"/>
                     </a>
                     <a class="example-image-link" href="/images/gallery/santa1-velky.jpg" data-lightbox="makeup-set" title="Foto make-up - vánoèní focení">
-                        <img class="example-image" src="/images/gallery/santa1-nahled.jpg" alt="Foto make-up - vánoèní focení" width="150" height="150"/>
+                        <img class="example-image" src="/images/gallery/santa1-nahled.jpg" title="Foto make-up - vánoèní focení" alt="Foto make-up - vánoèní focení" width="150" height="150"/>
                     </a>
                     <a class="example-image-link" href="/images/gallery/santa2-velky.jpg" data-lightbox="makeup-set" title="Foto make-up - vánoèní focení">
-                        <img class="example-image" src="/images/gallery/santa2-nahled.jpg" alt="Foto make-up - vánoèní focení" width="150" height="150"/>
+                        <img class="example-image" src="/images/gallery/santa2-nahled.jpg" title="Foto make-up - vánoèní focení" alt="Foto make-up - vánoèní focení" width="150" height="150"/>
                     </a>
                 </div>
             </div>
@@ -58,16 +58,16 @@
             <div class="image-row">
                 <div class="image-set">
                     <a class="example-image-link" href="/images/gallery/nevestaTereza-velky.jpeg" data-lightbox="svatba-set" title="Svatební líèení - Nevìsta Terka">
-                        <img class="example-image" src="/images/gallery/nevestaTereza-nahled.jpeg" alt="Svatební líèení - Nevìsta Terka" width="150" height="150"/>
+                        <img class="example-image" src="/images/gallery/nevestaTereza-nahled.jpeg" title="Svatební líèení - Nevìsta Terka" alt="Svatební líèení - Nevìsta Terka" width="150" height="150"/>
                     </a>
                     <a class="example-image-link" href="/images/gallery/nevestaZuzka-velky.jpg" data-lightbox="svatba-set" title="Svatební líèení - Nevìsta Zuzka">
-                        <img class="example-image" src="/images/gallery/nevestaZuzka-nahled.jpg" alt="Svatební líèení - Nevìsta Zuzka" width="150" height="150"/>
+                        <img class="example-image" src="/images/gallery/nevestaZuzka-nahled.jpg" title="Svatební líèení - Nevìsta Zuzka" alt="Svatební líèení - Nevìsta Zuzka" width="150" height="150"/>
                     </a>
                     <a class="example-image-link" href="/images/gallery/nevestaPavla-velky.jpg" data-lightbox="svatba-set" title="Svatební líèení - Nevìsta Pavla">
-                        <img class="example-image" src="/images/gallery/nevestaPavla-nahled.jpg" alt="Svatební líèení - Nevìsta Pavla" width="150" height="150"/>
+                        <img class="example-image" src="/images/gallery/nevestaPavla-nahled.jpg" title="Svatební líèení - Nevìsta Pavla" alt="Svatební líèení - Nevìsta Pavla" width="150" height="150"/>
                     </a>
                     <a class="example-image-link" href="/images/gallery/nevestaJana-velky.jpg" data-lightbox="svatba-set" title="Svatební líèení - Nevìsta Jana">
-                        <img class="example-image" src="/images/gallery/nevestaJana-nahled.jpg" alt="Svatební líèení - Nevìsta Jana" width="150" height="150"/>
+                        <img class="example-image" src="/images/gallery/nevestaJana-nahled.jpg" title="Svatební líèení - Nevìsta Jana" alt="Svatební líèení - Nevìsta Jana" width="150" height="150"/>
                     </a>
                 </div>
             </div>
