@@ -52,7 +52,7 @@
             <p class="afterlead">
                 Pokud budete s mojí prací spokojeni, mùžete využít i další služby, které nabízím, 
                 a to <a title="Veèerní líèení, plesové líèení" href="/vecerni-liceni/">veèerní líèení</a>, 
-                <a title="Svatební líèení, líèení svatebèanù" href="/svatební-liceni/">svatební líèení</a> èi <a title="Foto make-up" href="/foto-makeup/">foto make-up</a>, 
+                <a title="Svatební líèení, líèení svatebèanù" href="/svatebni-liceni/">svatební líèení</a> èi <a title="Foto make-up" href="/foto-makeup/">foto make-up</a>, 
                 <a title="Vlasový styling - úprava vlasù na focení, svatební, plesové a jiné slavnostní úèesy" href="/vlasovy-styling/">slavnostní úèesy a vlasový styling</a>.
             </p>
 
