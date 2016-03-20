@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="CP1250">
+        <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Spolupráce | Jana Budková | Líčení | Praha, Slaný a okolí</title>
+        <title>SpoluprĂˇce | Jana BudkovĂˇ | LĂ­ÄŤenĂ­ | Praha, SlanĂ˝ a okolĂ­</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -24,27 +24,27 @@
 
         <div id="content" class="main_content container">
 
-            <h2 class="page-heading">Spolupráce</h2>
+            <h2 class="page-heading">SpoluprĂˇce</h2>
 
             <p class="afterlead bold">Pro firmy:</p>
 
-            <p class="afterlead">Pro Vaše zaměstnance, obchodní partnery a klienty nabízím: </p>
+            <p class="afterlead">Pro VaĹˇe zamÄ›stnance, obchodnĂ­ partnery a klienty nabĂ­zĂ­m: </p>
             <ul class="afterlead">
-                <li>dárkové poukázky na vizážistické služby či kurzy líčení</li>
-                <li>sestavení dárkových kosmetických balíčků</li>
-                <li>spolupráci na firemních večírcích a společenských akcích</li>
+                <li>dĂˇrkovĂ© poukĂˇzky na vizĂˇĹľistickĂ© sluĹľby ÄŤi kurzy lĂ­ÄŤenĂ­</li>
+                <li>sestavenĂ­ dĂˇrkovĂ˝ch kosmetickĂ˝ch balĂ­ÄŤkĹŻ</li>
+                <li>spoluprĂˇci na firemnĂ­ch veÄŤĂ­rcĂ­ch a spoleÄŤenskĂ˝ch akcĂ­ch</li>
             </ul>
                       
-            <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
+            <a class="btn btn-contactme btn-primary" href="/kontakty/">MĂˇte zĂˇjem? Kontaktujte mÄ›!</a>
 
             <p class="afterlead">
-                Pokud budete s mojí prací spokojeni, můžete využít i další služby, které nabízím, 
-                a to <a title="Večerní líčení, plesové líčení" href="/vecerni-liceni/">večerní líčení</a>, 
-                <a title="Svatební líčení, líčení svatebčanů" href="/svatebni-liceni/">svatební líčení</a> či 
+                Pokud budete s mojĂ­ pracĂ­ spokojeni, mĹŻĹľete vyuĹľĂ­t i dalĹˇĂ­ sluĹľby, kterĂ© nabĂ­zĂ­m, 
+                a to <a title="VeÄŤernĂ­ lĂ­ÄŤenĂ­, plesovĂ© lĂ­ÄŤenĂ­" href="/vecerni-liceni/">veÄŤernĂ­ lĂ­ÄŤenĂ­</a>, 
+                <a title="SvatebnĂ­ lĂ­ÄŤenĂ­, lĂ­ÄŤenĂ­ svatebÄŤanĹŻ" href="/svatebni-liceni/">svatebnĂ­ lĂ­ÄŤenĂ­</a> ÄŤi 
                 <a title="Foto make-up" href="/foto-makeup/">foto make-up</a>, 
-                <a title="Vlasový styling - úprava vlasů na focení, svatební, plesové a jiné slavnostní účesy" href="/vlasovy-styling/">slavnostní účesy a vlasový styling</a>. 
-                Dále nabízím <a title="Kurzy líčení - individuální kurzy, skupinové kurzy, kurz aplikace tužky na oči" href="/kurzy-liceni/">kurzy líčení</a> 
-                pro individuály i skupiny, základní kurzy i pokročilé.
+                <a title="VlasovĂ˝ styling - Ăşprava vlasĹŻ na focenĂ­, svatebnĂ­, plesovĂ© a jinĂ© slavnostnĂ­ ĂşÄŤesy" href="/vlasovy-styling/">slavnostnĂ­ ĂşÄŤesy a vlasovĂ˝ styling</a>. 
+                DĂˇle nabĂ­zĂ­m <a title="Kurzy lĂ­ÄŤenĂ­ - individuĂˇlnĂ­ kurzy, skupinovĂ© kurzy, kurz aplikace tuĹľky na oÄŤi" href="/kurzy-liceni/">kurzy lĂ­ÄŤenĂ­</a> 
+                pro individuĂˇly i skupiny, zĂˇkladnĂ­ kurzy i pokroÄŤilĂ©.
             </p>
 
         </div>

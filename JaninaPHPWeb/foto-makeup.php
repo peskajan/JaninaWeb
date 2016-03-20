@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="CP1250">
+        <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Foto make-up | Jana Budková | Líčení | Praha, Slaný a okolí</title>
+        <title>Foto make-up | Jana BudkovĂˇ | LĂ­ÄŤenĂ­ | Praha, SlanĂ˝ a okolĂ­</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -27,27 +27,27 @@
             <h2 class="page-heading">Foto make-up</h2>
             
             <p class="lead">
-                Make-up dle požadavků klienta a stylu focení. 
-                Dobrý make-up vypadá na fotografiích skvěle a pomáhá fotografovi při následné úpravě fotek.
+                Make-up dle poĹľadavkĹŻ klienta a stylu focenĂ­. 
+                DobrĂ˝ make-up vypadĂˇ na fotografiĂ­ch skvÄ›le a pomĂˇhĂˇ fotografovi pĹ™i nĂˇslednĂ© ĂşpravÄ› fotek.
             </p>
 
-            <p class="afterlead">Jemné líčení, glamour, výrazné či extravagantní líčení dle Vašeho přání. Vhodné pro reklamní fotografie a jiné projekty, pro modelky, ale i pro pěkné osobní či rodinné fotografie.
+            <p class="afterlead">JemnĂ© lĂ­ÄŤenĂ­, glamour, vĂ˝raznĂ© ÄŤi extravagantnĂ­ lĂ­ÄŤenĂ­ dle VaĹˇeho pĹ™ĂˇnĂ­. VhodnĂ© pro reklamnĂ­ fotografie a jinĂ© projekty, pro modelky, ale i pro pÄ›knĂ© osobnĂ­ ÄŤi rodinnĂ© fotografie.
            </p>
 
 
             <div class="row">
                 <div class="col-lg-6">
                     <table class="afterlead">
-                        <tr><th colspan="2" >Ceník</th></tr>
+                        <tr><th colspan="2" >CenĂ­k</th></tr>
                         <tr><td>Foto make-up</td> 
-                            <td class="price">od 450 Kč</td></tr>
-                         <tr><td>Přelíčení</td> 
+                            <td class="price">od 450 KÄŤ</td></tr>
+                         <tr><td>PĹ™elĂ­ÄŤenĂ­</td> 
                             <td class="price">dohodou</td></tr>
                     </table>
                     
-                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">MĂˇte zĂˇjem? Kontaktujte mÄ›!</a>
 
-                    <p class="afterlead">Líčení trvá přibližně 45 minut - dle náročnosti.</p>
+                    <p class="afterlead">LĂ­ÄŤenĂ­ trvĂˇ pĹ™ibliĹľnÄ› 45 minut - dle nĂˇroÄŤnosti.</p>
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-6">
                     <a class="" href="/galerie/" title="Galerie - Foto-make up">
@@ -59,26 +59,26 @@
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
 
-            <h3 class="featurette-heading">Vlasový styling</h3>
+            <h3 class="featurette-heading">VlasovĂ˝ styling</h3>
             <p class="lead">
-                Spojte líčení s úpravou vlasů a ušetřete tak čas i peníze. Udělám Vám jemné lokny i různé typy drdolů.</p>
+                Spojte lĂ­ÄŤenĂ­ s Ăşpravou vlasĹŻ a uĹˇetĹ™ete tak ÄŤas i penĂ­ze. UdÄ›lĂˇm VĂˇm jemnĂ© lokny i rĹŻznĂ© typy drdolĹŻ.</p>
 
             <table class="afterlead">
-                <tr><th colspan="2" >Ceník</th></tr>
-                <tr><td>Vlasový styling</td> 
-                    <td class="price">od 350 Kč</td></tr>
-                 <tr><td>Přečesání</td> 
+                <tr><th colspan="2" >CenĂ­k</th></tr>
+                <tr><td>VlasovĂ˝ styling</td> 
+                    <td class="price">od 350 KÄŤ</td></tr>
+                 <tr><td>PĹ™eÄŤesĂˇnĂ­</td> 
                     <td class="price">dohodou</td></tr>
             </table>
-            <p class="afterlead">Účes trvá přibližně 30-60 minut - dle náročnosti.</p>
+            <p class="afterlead">ĂšÄŤes trvĂˇ pĹ™ibliĹľnÄ› 30-60 minut - dle nĂˇroÄŤnosti.</p>
             <br>
             <p class="afterlead">
-                Pokud budete s mojí prací spokojeni, můžete využít i další služby, které nabízím, 
-                a to <a title="Večerní líčení, plesové líčení" href="/vecerni-liceni/">večerní líčení</a> či 
-                <a title="Svatební líčení, líčení svatebčanů" href="/svatebni-liceni/">svatební líčení</a>, 
-                <a title="Vlasový styling - úprava vlasů na focení, svatební, plesové a jiné slavnostní účesy" href="/vlasovy-styling/">slavnostní účesy a vlasový styling</a>. 
-                Dále nabízím <a title="Kurzy líčení - individuální kurzy, skupinové kurzy, kurz aplikace tužky na oči" href="/kurzy-liceni/">kurzy líčení</a> 
-                pro individuály i skupiny, základní kurzy i pokročilé.
+                Pokud budete s mojĂ­ pracĂ­ spokojeni, mĹŻĹľete vyuĹľĂ­t i dalĹˇĂ­ sluĹľby, kterĂ© nabĂ­zĂ­m, 
+                a to <a title="VeÄŤernĂ­ lĂ­ÄŤenĂ­, plesovĂ© lĂ­ÄŤenĂ­" href="/vecerni-liceni/">veÄŤernĂ­ lĂ­ÄŤenĂ­</a> ÄŤi 
+                <a title="SvatebnĂ­ lĂ­ÄŤenĂ­, lĂ­ÄŤenĂ­ svatebÄŤanĹŻ" href="/svatebni-liceni/">svatebnĂ­ lĂ­ÄŤenĂ­</a>, 
+                <a title="VlasovĂ˝ styling - Ăşprava vlasĹŻ na focenĂ­, svatebnĂ­, plesovĂ© a jinĂ© slavnostnĂ­ ĂşÄŤesy" href="/vlasovy-styling/">slavnostnĂ­ ĂşÄŤesy a vlasovĂ˝ styling</a>. 
+                DĂˇle nabĂ­zĂ­m <a title="Kurzy lĂ­ÄŤenĂ­ - individuĂˇlnĂ­ kurzy, skupinovĂ© kurzy, kurz aplikace tuĹľky na oÄŤi" href="/kurzy-liceni/">kurzy lĂ­ÄŤenĂ­</a> 
+                pro individuĂˇly i skupiny, zĂˇkladnĂ­ kurzy i pokroÄŤilĂ©.
             </p>
             
         </div>

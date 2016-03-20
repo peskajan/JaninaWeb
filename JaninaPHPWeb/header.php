@@ -7,30 +7,30 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/uvod/" title="Jana Budková - líèení, vizáistika, poradenství - Praha, Slanı a okolí"><img class="img-title" src="/images/title-final2.png" alt="Jana Budková"/></a>
+            <a class="navbar-brand" href="/uvod/" title="Jana BudkovÃ¡ - lÃ­ÄenÃ­, vizÃ¡Å¾istika, poradenstvÃ­ - Praha, SlanÃ½ a okolÃ­"><img class="img-title" src="/images/title-final2.png" alt="Jana BudkovÃ¡"/></a>
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-                <li><a title="Úvod, líèení, akèní nabídky" href="/uvod/"><span class="glyphicon glyphicon-home"></span> Úvod</a></li>
+                <li><a title="Ãšvod, lÃ­ÄenÃ­, akÄnÃ­ nabÃ­dky" href="/uvod/"><span class="glyphicon glyphicon-home"></span> Ãšvod</a></li>
                 <li class="dropdown">
-                    <a title="Líèení, pøehled slueb" href="/sluzby/" class="dropdown-toggle" data-toggle="dropdown">
-                        <span class="glyphicon glyphicon-gift"></span> Sluby <b class="caret"></b>
+                    <a title="LÃ­ÄenÃ­, pÅ™ehled sluÅ¾eb" href="/sluzby/" class="dropdown-toggle" data-toggle="dropdown">
+                        <span class="glyphicon glyphicon-gift"></span> SluÅ¾by <b class="caret"></b>
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a title="Pøehled všech poskytovanıch slueb" href="/sluzby/">Pøehled slueb</a></li>
-                        <li><a title="Svatební líèení, líèení svatebèanù" href="/svatebni-liceni/">Svatební líèení</a></li>
-                        <li><a title="Veèerní líèení, plesové líèení" href="/vecerni-liceni/">Veèerní líèení</a></li>
+                        <li><a title="PÅ™ehled vÅ¡ech poskytovanÃ½ch sluÅ¾eb" href="/sluzby/">PÅ™ehled sluÅ¾eb</a></li>
+                        <li><a title="SvatebnÃ­ lÃ­ÄenÃ­, lÃ­ÄenÃ­ svatebÄanÅ¯" href="/svatebni-liceni/">SvatebnÃ­ lÃ­ÄenÃ­</a></li>
+                        <li><a title="VeÄernÃ­ lÃ­ÄenÃ­, plesovÃ© lÃ­ÄenÃ­" href="/vecerni-liceni/">VeÄernÃ­ lÃ­ÄenÃ­</a></li>
                         <li><a title="Foto make-up" href="/foto-makeup/">Foto make-up</a></li>
-                        <li><a title="Vlasovı styling - úprava vlasù na focení, svatební, plesové a jiné slavnostní úèesy" href="/vlasovy-styling/">Vlasovı styling</a></li>
-                        <li><a title="Kurzy líèení - individuální kurzy, skupinové kurzy, kurz aplikace tuky na oèi" href="/kurzy-liceni/">Kurzy líèení</a></li>
-                        <li><a title="Dárky, dárkové balíèky, dárkové poukázky" href="/darky/">Dárkové poukázky</a></li>
-                         <li><a title="Kosmetické poradenství, analıza pleti, péèe o ple - vše zdarma" href="/kosmeticke-poradenstvi/">Kosmetické poradenství</a></li>
-                        <li><a title="Spolupráce pro firmy" href="/spoluprace/">Spolupráce</a></li>
+                        <li><a title="VlasovÃ½ styling - Ãºprava vlasÅ¯ na focenÃ­, svatebnÃ­, plesovÃ© a jinÃ© slavnostnÃ­ ÃºÄesy" href="/vlasovy-styling/">VlasovÃ½ styling</a></li>
+                        <li><a title="Kurzy lÃ­ÄenÃ­ - individuÃ¡lnÃ­ kurzy, skupinovÃ© kurzy, kurz aplikace tuÅ¾ky na oÄi" href="/kurzy-liceni/">Kurzy lÃ­ÄenÃ­</a></li>
+                        <li><a title="DÃ¡rky, dÃ¡rkovÃ© balÃ­Äky, dÃ¡rkovÃ© poukÃ¡zky" href="/darky/">DÃ¡rkovÃ© poukÃ¡zky</a></li>
+                         <li><a title="KosmetickÃ© poradenstvÃ­, analÃ½za pleti, pÃ©Äe o pleÅ¥ - vÅ¡e zdarma" href="/kosmeticke-poradenstvi/">KosmetickÃ© poradenstvÃ­</a></li>
+                        <li><a title="SpoluprÃ¡ce pro firmy" href="/spoluprace/">SpoluprÃ¡ce</a></li>
                     </ul>
                 </li>
-                <li><a title="Galerie - svatební líèení, foto make-up" href="/galerie/"><span class="glyphicon glyphicon-picture"></span> Fotogalerie</a></li>
+                <li><a title="Galerie - svatebnÃ­ lÃ­ÄenÃ­, foto make-up" href="/galerie/"><span class="glyphicon glyphicon-picture"></span> Fotogalerie</a></li>
                 <li><a title="Kontakty - email, telefon, facebook" href="/kontakty/"><span class="glyphicon glyphicon-envelope"></span> Kontakty</a></li>
-                <li><a title="Jana Budková - o mnì, reference" href="/omne/"><span class="glyphicon glyphicon-user"></span> O mnì</a></li>
+                <li><a title="Jana BudkovÃ¡ - o mnÄ›, reference" href="/omne/"><span class="glyphicon glyphicon-user"></span> O mnÄ›</a></li>
             </ul>
         </div>
 

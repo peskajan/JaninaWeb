@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="CP1250">
+        <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Vlasový styling | Jana Budková | Líčení | Praha, Slaný a okolí</title>
+        <title>VlasovĂ˝ styling | Jana BudkovĂˇ | LĂ­ÄŤenĂ­ | Praha, SlanĂ˝ a okolĂ­</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -24,48 +24,48 @@
 
         <div id="content" class="main_content container">
 
-            <h2 class="page-heading">Vlasový styling</h2>
+            <h2 class="page-heading">VlasovĂ˝ styling</h2>
 
-            <p class="lead">Úprava vlasů na focení, svatební, plesové a jiné slavnostní účesy.</p>
+            <p class="lead">Ăšprava vlasĹŻ na focenĂ­, svatebnĂ­, plesovĂ© a jinĂ© slavnostnĂ­ ĂşÄŤesy.</p>
 
             <div class="row">
                 <div class="col-lg-6">
                     <table class="afterlead">
-                        <tr><th colspan="2" >Ceník</th></tr>
-                        <tr><td>Svatební účes</td> 
-                            <td class="price">400 Kč</td></tr>
-                        <tr><td>Zkouška svatebního účesu</td> 
-                            <td class="price">300 Kč</td></tr>
-                        <tr><td>Česání svatebčanů</td> 
-                            <td class="price">250 Kč/osoba</td></tr>
-                        <tr><td>Slavnostní účes</td> 
-                            <td class="price">350 Kč</td></tr>
+                        <tr><th colspan="2" >CenĂ­k</th></tr>
+                        <tr><td>SvatebnĂ­ ĂşÄŤes</td> 
+                            <td class="price">400 KÄŤ</td></tr>
+                        <tr><td>ZkouĹˇka svatebnĂ­ho ĂşÄŤesu</td> 
+                            <td class="price">300 KÄŤ</td></tr>
+                        <tr><td>ÄŚesĂˇnĂ­ svatebÄŤanĹŻ</td> 
+                            <td class="price">250 KÄŤ/osoba</td></tr>
+                        <tr><td>SlavnostnĂ­ ĂşÄŤes</td> 
+                            <td class="price">350 KÄŤ</td></tr>
                     </table>
                     
-                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">MĂˇte zĂˇjem? Kontaktujte mÄ›!</a>
 
-                    <p class="afterlead">Účes trvá 30minut až 1 hodinu - dle náročnosti.</p>
-                    <p class="afterlead">Doprava ve Slaném a po Praze je v ceně, ostatní za doplatek 3Kč/km.</p>
+                    <p class="afterlead">ĂšÄŤes trvĂˇ 30minut aĹľ 1 hodinu - dle nĂˇroÄŤnosti.</p>
+                    <p class="afterlead">Doprava ve SlanĂ©m a po Praze je v cenÄ›, ostatnĂ­ za doplatek 3KÄŤ/km.</p>
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-6">
-                    <a href="/images/gallery/drdol-velka.jpg" data-lightbox="makeup-set" title="Vlasový styling - ukázka účesu">
-                        <img class="example-image-link parallelogram" src="/images/gallery/drdol-nahled.jpg" alt="Vlasový styling - ukázka účesu"/>
+                    <a href="/images/gallery/drdol-velka.jpg" data-lightbox="makeup-set" title="VlasovĂ˝ styling - ukĂˇzka ĂşÄŤesu">
+                        <img class="example-image-link parallelogram" src="/images/gallery/drdol-nahled.jpg" alt="VlasovĂ˝ styling - ukĂˇzka ĂşÄŤesu"/>
                     </a>
-                    <a href="/images/gallery/Katka4-velka.jpg" data-lightbox="makeup-set" title="Vlasový styling">
-                        <img class="example-image-link parallelogram" src="/images/gallery/Katka4-nahled.jpg" alt="Vlasový styling"/>
+                    <a href="/images/gallery/Katka4-velka.jpg" data-lightbox="makeup-set" title="VlasovĂ˝ styling">
+                        <img class="example-image-link parallelogram" src="/images/gallery/Katka4-nahled.jpg" alt="VlasovĂ˝ styling"/>
                     </a>
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
 
             <br>
             <p class="afterlead">
-                Pokud budete s mojí prací spokojeni, můžete využít i další služby, které nabízím, 
-                a to <a title="Večerní líčení, plesové líčení" href="/vecerni-liceni/">večerní líčení</a>, 
-                <a title="Svatební líčení, líčení svatebčanů" href="/svatebni-liceni/">svatební líčení</a> či 
-                <a title="Foto make-up" href="/foto-makeup/">foto make-up</a>. Dále nabízím 
-                <a title="Kurzy líčení - individuální kurzy, skupinové kurzy, kurz aplikace tužky na oči" href="/kurzy-liceni/">
-                    kurzy líčení
-                </a> pro individuály i skupiny, základní kurzy i pokročilé.
+                Pokud budete s mojĂ­ pracĂ­ spokojeni, mĹŻĹľete vyuĹľĂ­t i dalĹˇĂ­ sluĹľby, kterĂ© nabĂ­zĂ­m, 
+                a to <a title="VeÄŤernĂ­ lĂ­ÄŤenĂ­, plesovĂ© lĂ­ÄŤenĂ­" href="/vecerni-liceni/">veÄŤernĂ­ lĂ­ÄŤenĂ­</a>, 
+                <a title="SvatebnĂ­ lĂ­ÄŤenĂ­, lĂ­ÄŤenĂ­ svatebÄŤanĹŻ" href="/svatebni-liceni/">svatebnĂ­ lĂ­ÄŤenĂ­</a> ÄŤi 
+                <a title="Foto make-up" href="/foto-makeup/">foto make-up</a>. DĂˇle nabĂ­zĂ­m 
+                <a title="Kurzy lĂ­ÄŤenĂ­ - individuĂˇlnĂ­ kurzy, skupinovĂ© kurzy, kurz aplikace tuĹľky na oÄŤi" href="/kurzy-liceni/">
+                    kurzy lĂ­ÄŤenĂ­
+                </a> pro individuĂˇly i skupiny, zĂˇkladnĂ­ kurzy i pokroÄŤilĂ©.
             </p>
 
         </div>

@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="CP1250">
+        <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Kosmetické poradenství | Jana Budková | Líčení | Praha, Slaný a okolí</title>
+        <title>KosmetickĂ© poradenstvĂ­ | Jana BudkovĂˇ | LĂ­ÄŤenĂ­ | Praha, SlanĂ˝ a okolĂ­</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -24,46 +24,46 @@
 
         <div id="content" class="main_content container">
 
-            <h2 class="page-heading">Kosmetické poradenství</h2>
+            <h2 class="page-heading">KosmetickĂ© poradenstvĂ­</h2>
 
             <p class="lead">
-                Máte problémy s pletí? Chcete něco změnit a nevíte jak na to? Nechte si ode mě poradit a objednejte se na 
-                kosmetické poradenství zcela <span class="bold">ZDARMA!</span>
+                MĂˇte problĂ©my s pletĂ­? Chcete nÄ›co zmÄ›nit a nevĂ­te jak na to? Nechte si ode mÄ› poradit a objednejte se na 
+                kosmetickĂ© poradenstvĂ­ zcela <span class="bold">ZDARMA!</span>
             </p>
 
 
             <div class="row">
                 <div class="col-lg-6">
-                    <p class="afterlead bold">Zde Vás čeká:</p>
+                    <p class="afterlead bold">Zde VĂˇs ÄŤekĂˇ:</p>
                     <ul class="afterlead">
-                        <li>analýza pleti</li>
-                        <li>sestavení individuálního programu v péči o pleť</li>
-                        <li>ošetření pleti špičkovými přípravky, které jsou hypoalergenní, neparfémované a netestované na zvířatech</li>
-                        <li>odborné poradenství v péči o pleť</li>
-                        <li>poradenství v líčení + lehké denní líčení</li>
+                        <li>analĂ˝za pleti</li>
+                        <li>sestavenĂ­ individuĂˇlnĂ­ho programu v pĂ©ÄŤi o pleĹĄ</li>
+                        <li>oĹˇetĹ™enĂ­ pleti ĹˇpiÄŤkovĂ˝mi pĹ™Ă­pravky, kterĂ© jsou hypoalergennĂ­, neparfĂ©movanĂ© a netestovanĂ© na zvĂ­Ĺ™atech</li>
+                        <li>odbornĂ© poradenstvĂ­ v pĂ©ÄŤi o pleĹĄ</li>
+                        <li>poradenstvĂ­ v lĂ­ÄŤenĂ­ + lehkĂ© dennĂ­ lĂ­ÄŤenĂ­</li>
                     </ul>
                     
-                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">MĂˇte zĂˇjem? Kontaktujte mÄ›!</a>
 
-                    <p class="afterlead">Poradenství trvá přibližně 1 hodinu.</p>
-                    <p class="afterlead">Místo konání poradenství dle dohody v Praze nebo ve Slaném.</p>
+                    <p class="afterlead">PoradenstvĂ­ trvĂˇ pĹ™ibliĹľnÄ› 1 hodinu.</p>
+                    <p class="afterlead">MĂ­sto konĂˇnĂ­ poradenstvĂ­ dle dohody v Praze nebo ve SlanĂ©m.</p>
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-6">
-                    <a class="" href="/galerie/" title="Kosmetické poradenství">
-                        <img class="example-image-link parallelogram" src="/images/gallery/poradenstvi2.jpg" alt="Galerie - Svatební líčení"/>
+                    <a class="" href="/galerie/" title="KosmetickĂ© poradenstvĂ­">
+                        <img class="example-image-link parallelogram" src="/images/gallery/poradenstvi2.jpg" alt="Galerie - SvatebnĂ­ lĂ­ÄŤenĂ­"/>
                     </a>
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
 
           
             <p class="afterlead">
-                Pokud budete s mojí prací spokojeni, můžete využít i další služby, které nabízím, 
-                a to <a title="Svatební líčení, líčení svatebčanů" href="/svatebni-liceni/">svatební líčení</a>, 
-                <a title="Večerní líčení, plesové líčení" href="/vecerni-liceni/">večerní líčení</a> či 
+                Pokud budete s mojĂ­ pracĂ­ spokojeni, mĹŻĹľete vyuĹľĂ­t i dalĹˇĂ­ sluĹľby, kterĂ© nabĂ­zĂ­m, 
+                a to <a title="SvatebnĂ­ lĂ­ÄŤenĂ­, lĂ­ÄŤenĂ­ svatebÄŤanĹŻ" href="/svatebni-liceni/">svatebnĂ­ lĂ­ÄŤenĂ­</a>, 
+                <a title="VeÄŤernĂ­ lĂ­ÄŤenĂ­, plesovĂ© lĂ­ÄŤenĂ­" href="/vecerni-liceni/">veÄŤernĂ­ lĂ­ÄŤenĂ­</a> ÄŤi 
                 <a title="Foto make-up" href="/foto-makeup/">foto make-up</a>, 
-                <a title="Vlasový styling - úprava vlasů na focení, svatební, plesové a jiné slavnostní účesy" href="/vlasovy-styling/">slavnostní účesy a vlasový styling</a>. 
-                Dále nabízím <a title="Kurzy líčení - individuální kurzy, skupinové kurzy, kurz aplikace tužky na oči" href="/kurzy-liceni/">kurzy líčení</a> 
-                pro individuály i skupiny, základní kurzy i pokročilé.
+                <a title="VlasovĂ˝ styling - Ăşprava vlasĹŻ na focenĂ­, svatebnĂ­, plesovĂ© a jinĂ© slavnostnĂ­ ĂşÄŤesy" href="/vlasovy-styling/">slavnostnĂ­ ĂşÄŤesy a vlasovĂ˝ styling</a>. 
+                DĂˇle nabĂ­zĂ­m <a title="Kurzy lĂ­ÄŤenĂ­ - individuĂˇlnĂ­ kurzy, skupinovĂ© kurzy, kurz aplikace tuĹľky na oÄŤi" href="/kurzy-liceni/">kurzy lĂ­ÄŤenĂ­</a> 
+                pro individuĂˇly i skupiny, zĂˇkladnĂ­ kurzy i pokroÄŤilĂ©.
             </p>
         </div>
 

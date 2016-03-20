@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="CP1250">
+        <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>O mně | Jana Budková | Líčení | Praha, Slaný a okolí</title>
+        <title>O mnÄ› | Jana BudkovĂˇ | LĂ­ÄŤenĂ­ | Praha, SlanĂ˝ a okolĂ­</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -23,12 +23,12 @@
         ?>
 
         <div id="content" class="main_content container">
-            <h2 class="page-heading">O mně</h2>
+            <h2 class="page-heading">O mnÄ›</h2>
             <div class="row featurette">
                 <div class="col-md-7">
-                    <p class="lead">Pracuji jako vizážistka a kosmetická poradkyně již od roku 2010. Nejprve bylo líčení mým velkým koníčkem, potom se stalo zároveň i mou profesí.
-                        Specializuji se hlavně na foto-make up, svatební líčení, večerní líčení a vlasový styling. 
-                        Působím převážně v Praze a ve Slaném, po domluvě kdekoliv dle Vašeho přání.
+                    <p class="lead">Pracuji jako vizĂˇĹľistka a kosmetickĂˇ poradkynÄ› jiĹľ od roku 2010. Nejprve bylo lĂ­ÄŤenĂ­ mĂ˝m velkĂ˝m konĂ­ÄŤkem, potom se stalo zĂˇroveĹ i mou profesĂ­.
+                        Specializuji se hlavnÄ› na foto-make up, svatebnĂ­ lĂ­ÄŤenĂ­, veÄŤernĂ­ lĂ­ÄŤenĂ­ a vlasovĂ˝ styling. 
+                        PĹŻsobĂ­m pĹ™evĂˇĹľnÄ› v Praze a ve SlanĂ©m, po domluvÄ› kdekoliv dle VaĹˇeho pĹ™ĂˇnĂ­.
                     </p>
 
                     <p class="afterlead"></p>
@@ -36,10 +36,10 @@
                     <p class="afterlead bold">Reference:</p>
 
                     <ul class="afterlead">
-                        <li>ÓČKO TV</li>
-                        <li>MISS VŠE</li>
+                        <li>Ă“ÄŚKO TV</li>
+                        <li>MISS VĹ E</li>
                     </ul>
-                    <p class="afterlead bold">Partnerské weby:</p>
+                    <p class="afterlead bold">PartnerskĂ© weby:</p>
 
                     <ul class="afterlead">
                         <li>Studio Sunrise - foto a video - <a href="http://www.svatebnivideo.cz/">www.svatebnivideo.cz</a></li>
@@ -49,7 +49,7 @@
 
                 </div>
                 <div class="col-md-5">
-                    <img title="Jana Budková - vizážistka" class="myphoto img-responsive" src="/images/me.jpg" alt="Jana Budková"  width="250"/>
+                    <img title="Jana BudkovĂˇ - vizĂˇĹľistka" class="myphoto img-responsive" src="/images/me.jpg" alt="Jana BudkovĂˇ"  width="250"/>
                 </div>
             </div>
 

@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="CP1250">
+        <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Kurzy líčení | Jana Budková | Líčení | Praha, Slaný a okolí</title>
+        <title>Kurzy lĂ­ÄŤenĂ­ | Jana BudkovĂˇ | LĂ­ÄŤenĂ­ | Praha, SlanĂ˝ a okolĂ­</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -24,35 +24,35 @@
 
         <div id="content" class="main_content container">
 
-            <h2 class="page-heading">Kurzy líčení</h2>
+            <h2 class="page-heading">Kurzy lĂ­ÄŤenĂ­</h2>
 
             <p class="lead">
-                Individuální i skupinové kurzy líčení.  Pro začátečníky i pokročilé. Zjistíte, jak připravit pleť pro líčení, jak vybrat vhodný typ make-upu, jaké barvy Vám sluší, jaká používat líčidla, jak pracovat se štětci a naučíte se, jak se nalíčit pro každou příležitost.
+                IndividuĂˇlnĂ­ i skupinovĂ© kurzy lĂ­ÄŤenĂ­.  Pro zaÄŤĂˇteÄŤnĂ­ky i pokroÄŤilĂ©. ZjistĂ­te, jak pĹ™ipravit pleĹĄ pro lĂ­ÄŤenĂ­, jak vybrat vhodnĂ˝ typ make-upu, jakĂ© barvy VĂˇm sluĹˇĂ­, jakĂˇ pouĹľĂ­vat lĂ­ÄŤidla, jak pracovat se ĹˇtÄ›tci a nauÄŤĂ­te se, jak se nalĂ­ÄŤit pro kaĹľdou pĹ™Ă­leĹľitost.
             </p>
 
             <div class="row">
                 <div class="col-lg-8">
                     <table class="afterlead">
-                        <tr><th colspan="2" >Ceník</th></tr>
-                        <tr><td>Minikurz líčení <span class="text-muted">(základy líčení, cca 1 hodina)</span></td> 
-                            <td class="price">350 Kč</td></tr>
-                        <tr><td>Kurz pokročilého líčení <span class="text-muted">(večerní líčení, kouřové oči,..., cca 2 hodiny)</span></td> 
-                            <td class="price">750 Kč</td></tr>
+                        <tr><th colspan="2" >CenĂ­k</th></tr>
+                        <tr><td>Minikurz lĂ­ÄŤenĂ­ <span class="text-muted">(zĂˇklady lĂ­ÄŤenĂ­, cca 1 hodina)</span></td> 
+                            <td class="price">350 KÄŤ</td></tr>
+                        <tr><td>Kurz pokroÄŤilĂ©ho lĂ­ÄŤenĂ­ <span class="text-muted">(veÄŤernĂ­ lĂ­ÄŤenĂ­, kouĹ™ovĂ© oÄŤi,..., cca 2 hodiny)</span></td> 
+                            <td class="price">750 KÄŤ</td></tr>
                         
                     </table>
 
-                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">MĂˇte zĂˇjem? Kontaktujte mÄ›!</a>
 
-                    <p class="afterlead">Doprava ve Slaném a po Praze je v ceně, ostatní za doplatek 3Kč/km.</p>
+                    <p class="afterlead">Doprava ve SlanĂ©m a po Praze je v cenÄ›, ostatnĂ­ za doplatek 3KÄŤ/km.</p>
                 </div>
             </div>
             <br>
 
             <p class="afterlead">
-                Pokud budete s mojí prací spokojeni, můžete využít i další služby, které nabízím, 
-                a to <a title="Večerní líčení, plesové líčení" href="/vecerni-liceni/">večerní líčení</a>, 
-                <a title="Svatební líčení, líčení svatebčanů" href="/svatebni-liceni/">svatební líčení</a> či <a title="Foto make-up" href="/foto-makeup/">foto make-up</a>, 
-                <a title="Vlasový styling - úprava vlasů na focení, svatební, plesové a jiné slavnostní účesy" href="/vlasovy-styling/">slavnostní účesy a vlasový styling</a>.
+                Pokud budete s mojĂ­ pracĂ­ spokojeni, mĹŻĹľete vyuĹľĂ­t i dalĹˇĂ­ sluĹľby, kterĂ© nabĂ­zĂ­m, 
+                a to <a title="VeÄŤernĂ­ lĂ­ÄŤenĂ­, plesovĂ© lĂ­ÄŤenĂ­" href="/vecerni-liceni/">veÄŤernĂ­ lĂ­ÄŤenĂ­</a>, 
+                <a title="SvatebnĂ­ lĂ­ÄŤenĂ­, lĂ­ÄŤenĂ­ svatebÄŤanĹŻ" href="/svatebni-liceni/">svatebnĂ­ lĂ­ÄŤenĂ­</a> ÄŤi <a title="Foto make-up" href="/foto-makeup/">foto make-up</a>, 
+                <a title="VlasovĂ˝ styling - Ăşprava vlasĹŻ na focenĂ­, svatebnĂ­, plesovĂ© a jinĂ© slavnostnĂ­ ĂşÄŤesy" href="/vlasovy-styling/">slavnostnĂ­ ĂşÄŤesy a vlasovĂ˝ styling</a>.
             </p>
 
         </div>

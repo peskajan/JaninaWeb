@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="CP1250">
+        <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Vizážistka | Jana Budková | Líčení | Praha, Slaný a okolí</title>
+        <title>VizĂˇĹľistka | Jana BudkovĂˇ | LĂ­ÄŤenĂ­ | Praha, SlanĂ˝ a okolĂ­</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -30,32 +30,32 @@
 
             <div class="image-row">
                 <div class="image-set">
-                    <a class="example-image-link" href="/images/gallery/Zuzka-velka.jpg" data-lightbox="makeup-set" title="Foto make-up - budoucí maminka Zuzka">
-                        <img class="example-image" src="/images/gallery/Zuzka.nahled.jpg" title="Foto make-up - budoucí maminka Zuzka" alt="Foto make-up - budoucí maminka Zuzka" width="150" height="150"/>
+                    <a class="example-image-link" href="/images/gallery/Zuzka-velka.jpg" data-lightbox="makeup-set" title="Foto make-up - budoucĂ­ maminka Zuzka">
+                        <img class="example-image" src="/images/gallery/Zuzka.nahled.jpg" title="Foto make-up - budoucĂ­ maminka Zuzka" alt="Foto make-up - budoucĂ­ maminka Zuzka" width="150" height="150"/>
                     </a>
                     <a class="example-image-link" href="/images/gallery/MD-velka.jpg" data-lightbox="makeup-set" title="Foto make-up - maminka s dcerou">
                         <img class="example-image" src="/images/gallery/MD-nahled.jpg" title="Foto make-up - maminka s dcerou" alt="Foto make-up - maminka s dcerou" width="150" height="150"/>
                     </a>
-                    <a class="example-image-link" href="/images/gallery/M-velky.jpg" data-lightbox="makeup-set" title="Foto make-up - jemný foto make-up">
-                        <img class="example-image" src="/images/gallery/M-nahled.jpg" title="Foto make-up - jemný foto make-up" alt="Foto make-up - jemný foto make-up" width="150" height="150"/>
+                    <a class="example-image-link" href="/images/gallery/M-velky.jpg" data-lightbox="makeup-set" title="Foto make-up - jemnĂ˝ foto make-up">
+                        <img class="example-image" src="/images/gallery/M-nahled.jpg" title="Foto make-up - jemnĂ˝ foto make-up" alt="Foto make-up - jemnĂ˝ foto make-up" width="150" height="150"/>
                     </a>
-                    <a class="example-image-link" href="/images/gallery/D-velky.jpg" data-lightbox="makeup-set" title="Foto make-up - jemný foto make-up">
-                        <img class="example-image" src="/images/gallery/D-nahled.jpg" title="Foto make-up - jemný foto make-up" alt="Foto make-up - jemný foto make-up" width="150" height="150"/>
+                    <a class="example-image-link" href="/images/gallery/D-velky.jpg" data-lightbox="makeup-set" title="Foto make-up - jemnĂ˝ foto make-up">
+                        <img class="example-image" src="/images/gallery/D-nahled.jpg" title="Foto make-up - jemnĂ˝ foto make-up" alt="Foto make-up - jemnĂ˝ foto make-up" width="150" height="150"/>
                     </a>
-                    <a class="example-image-link" href="/images/gallery/glamour-velky_1.jpg" data-lightbox="makeup-set" title="Foto make-up - glamour focení">
-                        <img class="example-image" src="/images/gallery/glamour-nahled.jpg" title="Foto make-up - glamour focení" alt="Foto make-up - glamour focení" width="150" height="150"/>
+                    <a class="example-image-link" href="/images/gallery/glamour-velky_1.jpg" data-lightbox="makeup-set" title="Foto make-up - glamour focenĂ­">
+                        <img class="example-image" src="/images/gallery/glamour-nahled.jpg" title="Foto make-up - glamour focenĂ­" alt="Foto make-up - glamour focenĂ­" width="150" height="150"/>
                     </a>
-                    <a class="example-image-link" href="/images/gallery/Katka4-velka.jpg" data-lightbox="makeup-set" title="Foto make-up - usměvavá Katka">
-                        <img class="example-image" src="/images/gallery/Katka4-nahled.jpg" title="Foto make-up - usměvavá Katka" alt="Foto make-up - usměvavá Katka" width="150" height="150"/>
+                    <a class="example-image-link" href="/images/gallery/Katka4-velka.jpg" data-lightbox="makeup-set" title="Foto make-up - usmÄ›vavĂˇ Katka">
+                        <img class="example-image" src="/images/gallery/Katka4-nahled.jpg" title="Foto make-up - usmÄ›vavĂˇ Katka" alt="Foto make-up - usmÄ›vavĂˇ Katka" width="150" height="150"/>
                     </a>
-                     <a class="example-image-link" href="/images/gallery/Katka7-velka.jpg" data-lightbox="makeup-set" title="Foto make-up - usměvavá Katka">
-                         <img class="example-image" src="/images/gallery/Katka7-nahled.jpg" title="Foto make-up - usměvavá Katka" alt="Foto make-up - usměvavá Katka" width="150" height="150"/>
+                     <a class="example-image-link" href="/images/gallery/Katka7-velka.jpg" data-lightbox="makeup-set" title="Foto make-up - usmÄ›vavĂˇ Katka">
+                         <img class="example-image" src="/images/gallery/Katka7-nahled.jpg" title="Foto make-up - usmÄ›vavĂˇ Katka" alt="Foto make-up - usmÄ›vavĂˇ Katka" width="150" height="150"/>
                    </a>
-                    <a class="example-image-link" href="/images/gallery/kač-logo-velka.jpg" data-lightbox="makeup-set" title="Foto make-up">
-                        <img class="example-image" src="/images/gallery/kač-logo-nahled.jpg" title="Foto make-up" alt="Foto make-up" width="150" height="150"/>
+                    <a class="example-image-link" href="/images/gallery/kaÄŤ-logo-velka.jpg" data-lightbox="makeup-set" title="Foto make-up">
+                        <img class="example-image" src="/images/gallery/kaÄŤ-logo-nahled.jpg" title="Foto make-up" alt="Foto make-up" width="150" height="150"/>
                     </a>
-                    <a class="example-image-link" href="/images/gallery/kač2logo-velka.jpg" data-lightbox="makeup-set" title="Foto make-up">
-                        <img class="example-image" src="/images/gallery/kač2logo-nahled.jpg" title="Foto make-up" alt="Foto make-up" width="150" height="150"/>
+                    <a class="example-image-link" href="/images/gallery/kaÄŤ2logo-velka.jpg" data-lightbox="makeup-set" title="Foto make-up">
+                        <img class="example-image" src="/images/gallery/kaÄŤ2logo-nahled.jpg" title="Foto make-up" alt="Foto make-up" width="150" height="150"/>
                     </a>
                     <a class="example-image-link" href="/images/gallery/lucka-spojena-velka.jpg" data-lightbox="makeup-set" title="Foto make-up - modelka Lucka">
                         <img class="example-image" src="/images/gallery/lucka-spojena-nahled.jpg" title="Foto make-up - modelka Lucka" alt="Foto make-up - modelka Lucka" width="150" height="150"/>
@@ -89,27 +89,27 @@
                     </a>
                 </div>
             </div>
-            <h3 class=featurette-heading>Svatební líčení</h3>
+            <h3 class=featurette-heading>SvatebnĂ­ lĂ­ÄŤenĂ­</h3>
 
             <div class="image-row">
                 <div class="image-set">
-                    <a class="example-image-link" href="/images/gallery/nevestaTereza-velky.jpeg" data-lightbox="svatba-set" title="Svatební líčení - Nevěsta Terka">
-                        <img class="example-image" src="/images/gallery/nevestaTereza-nahled.jpeg" title="Svatební líčení - Nevěsta Terka" alt="Svatební líčení - Nevěsta Terka" width="150" height="150"/>
+                    <a class="example-image-link" href="/images/gallery/nevestaTereza-velky.jpeg" data-lightbox="svatba-set" title="SvatebnĂ­ lĂ­ÄŤenĂ­ - NevÄ›sta Terka">
+                        <img class="example-image" src="/images/gallery/nevestaTereza-nahled.jpeg" title="SvatebnĂ­ lĂ­ÄŤenĂ­ - NevÄ›sta Terka" alt="SvatebnĂ­ lĂ­ÄŤenĂ­ - NevÄ›sta Terka" width="150" height="150"/>
                     </a>
-                    <a class="example-image-link" href="/images/gallery/nevestaZuzka-velky.jpg" data-lightbox="svatba-set" title="Svatební líčení - Nevěsta Zuzka">
-                        <img class="example-image" src="/images/gallery/nevestaZuzka-nahled.jpg" title="Svatební líčení - Nevěsta Zuzka" alt="Svatební líčení - Nevěsta Zuzka" width="150" height="150"/>
+                    <a class="example-image-link" href="/images/gallery/nevestaZuzka-velky.jpg" data-lightbox="svatba-set" title="SvatebnĂ­ lĂ­ÄŤenĂ­ - NevÄ›sta Zuzka">
+                        <img class="example-image" src="/images/gallery/nevestaZuzka-nahled.jpg" title="SvatebnĂ­ lĂ­ÄŤenĂ­ - NevÄ›sta Zuzka" alt="SvatebnĂ­ lĂ­ÄŤenĂ­ - NevÄ›sta Zuzka" width="150" height="150"/>
                     </a>
-                    <a class="example-image-link" href="/images/gallery/nevestaPavla-velky.jpg" data-lightbox="svatba-set" title="Svatební líčení - Nevěsta Pavla">
-                        <img class="example-image" src="/images/gallery/nevestaPavla-nahled.jpg" title="Svatební líčení - Nevěsta Pavla" alt="Svatební líčení - Nevěsta Pavla" width="150" height="150"/>
+                    <a class="example-image-link" href="/images/gallery/nevestaPavla-velky.jpg" data-lightbox="svatba-set" title="SvatebnĂ­ lĂ­ÄŤenĂ­ - NevÄ›sta Pavla">
+                        <img class="example-image" src="/images/gallery/nevestaPavla-nahled.jpg" title="SvatebnĂ­ lĂ­ÄŤenĂ­ - NevÄ›sta Pavla" alt="SvatebnĂ­ lĂ­ÄŤenĂ­ - NevÄ›sta Pavla" width="150" height="150"/>
                     </a>
-                    <a class="example-image-link" href="/images/gallery/nevestaJana-velky.jpg" data-lightbox="svatba-set" title="Svatební líčení - Nevěsta Jana">
-                        <img class="example-image" src="/images/gallery/nevestaJana-nahled.jpg" title="Svatební líčení - Nevěsta Jana" alt="Svatební líčení - Nevěsta Jana" width="150" height="150"/>
+                    <a class="example-image-link" href="/images/gallery/nevestaJana-velky.jpg" data-lightbox="svatba-set" title="SvatebnĂ­ lĂ­ÄŤenĂ­ - NevÄ›sta Jana">
+                        <img class="example-image" src="/images/gallery/nevestaJana-nahled.jpg" title="SvatebnĂ­ lĂ­ÄŤenĂ­ - NevÄ›sta Jana" alt="SvatebnĂ­ lĂ­ÄŤenĂ­ - NevÄ›sta Jana" width="150" height="150"/>
                     </a>
-                    <a class="example-image-link" href="/images/gallery/svedkyne-mala.jpg" data-lightbox="svatba-set" title="Líčení svědkyně">
-                        <img class="example-image" src="/images/gallery/svedkyne-nahled.jpg" title="Líčení svědkyně" alt="Líčení svědkyně" width="150" height="150"/>
+                    <a class="example-image-link" href="/images/gallery/svedkyne-mala.jpg" data-lightbox="svatba-set" title="LĂ­ÄŤenĂ­ svÄ›dkynÄ›">
+                        <img class="example-image" src="/images/gallery/svedkyne-nahled.jpg" title="LĂ­ÄŤenĂ­ svÄ›dkynÄ›" alt="LĂ­ÄŤenĂ­ svÄ›dkynÄ›" width="150" height="150"/>
                     </a>
-                    <a class="example-image-link" href="/images/gallery/Bara-mala.jpg" data-lightbox="svatba-set" title="Svatební líčení - Nevěsta Bára">
-                        <img class="example-image" src="/images/gallery/Bara-nahled.jpg" title="Svatební líčení - Nevěsta Bára" alt="Svatební líčení - Nevěsta Bára" width="150" height="150"/>
+                    <a class="example-image-link" href="/images/gallery/Bara-mala.jpg" data-lightbox="svatba-set" title="SvatebnĂ­ lĂ­ÄŤenĂ­ - NevÄ›sta BĂˇra">
+                        <img class="example-image" src="/images/gallery/Bara-nahled.jpg" title="SvatebnĂ­ lĂ­ÄŤenĂ­ - NevÄ›sta BĂˇra" alt="SvatebnĂ­ lĂ­ÄŤenĂ­ - NevÄ›sta BĂˇra" width="150" height="150"/>
                     </a>
                 </div>
             </div>

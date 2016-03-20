@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="CP1250">
+        <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Vizážistka | Jana Budková | Líčení | Praha, Slaný a okolí | Praha, Slaný a okolí</title>
+        <title>VizĂˇĹľistka | Jana BudkovĂˇ | LĂ­ÄŤenĂ­ | Praha, SlanĂ˝ a okolĂ­ | Praha, SlanĂ˝ a okolĂ­</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -34,18 +34,18 @@
                     <div class="item active">
                         <div class="container">
                             <div class="carousel-caption">
-                                <h1>AKCE: Plesové a večerní líčení</h1>
-                                <p>Dejte se se kamarádkami dohromady a nechte se společně nalíčit za výhodnější cenu!!</p>
-                                <p><a class="btn btn-lg btn-primary" title="Večerní líčení, plesové líčení" href="/vecerni-liceni/" role="button">Více informací  &raquo;</a></p>
+                                <h1>AKCE: PlesovĂ© a veÄŤernĂ­ lĂ­ÄŤenĂ­</h1>
+                                <p>Dejte se se kamarĂˇdkami dohromady a nechte se spoleÄŤnÄ› nalĂ­ÄŤit za vĂ˝hodnÄ›jĹˇĂ­ cenu!!</p>
+                                <p><a class="btn btn-lg btn-primary" title="VeÄŤernĂ­ lĂ­ÄŤenĂ­, plesovĂ© lĂ­ÄŤenĂ­" href="/vecerni-liceni/" role="button">VĂ­ce informacĂ­  &raquo;</a></p>
                             </div>
                         </div>
                     </div>
                     <div class="item">
                         <div class="container">
                             <div class="carousel-caption">
-                               <h1>Svatební líčení</h1>
-                                <p>Volné termíny na rok 2016!</p>
-                                <p><a class="btn btn-lg btn-primary" title="Svatební líčení, líčení svatebčanů" href="/svatebni-liceni/" role="button">Více informací  &raquo;</a></p> 
+                               <h1>SvatebnĂ­ lĂ­ÄŤenĂ­</h1>
+                                <p>VolnĂ© termĂ­ny na rok 2016!</p>
+                                <p><a class="btn btn-lg btn-primary" title="SvatebnĂ­ lĂ­ÄŤenĂ­, lĂ­ÄŤenĂ­ svatebÄŤanĹŻ" href="/svatebni-liceni/" role="button">VĂ­ce informacĂ­  &raquo;</a></p> 
                             </div>
                         </div>
                     </div>
@@ -53,9 +53,9 @@
                         <div class="container">
                             <div class="carousel-caption">
                                 
-                           <h1>Hledáte vhodný dárek?</h1>
-                                <p>Darujte Vašim blízkým poukázku na vizážistické služby, kurz líčení, a jiné.</p>
-                                <p><a class="btn btn-lg btn-primary" title="Dárky, dárkové balíčky, dárkové poukázky" href="/darky/" role="button">Více informací  &raquo;</a></p> </div>
+                           <h1>HledĂˇte vhodnĂ˝ dĂˇrek?</h1>
+                                <p>Darujte VaĹˇim blĂ­zkĂ˝m poukĂˇzku na vizĂˇĹľistickĂ© sluĹľby, kurz lĂ­ÄŤenĂ­, a jinĂ©.</p>
+                                <p><a class="btn btn-lg btn-primary" title="DĂˇrky, dĂˇrkovĂ© balĂ­ÄŤky, dĂˇrkovĂ© poukĂˇzky" href="/darky/" role="button">VĂ­ce informacĂ­  &raquo;</a></p> </div>
                         </div>
                     </div>
                 </div>
@@ -68,28 +68,28 @@
                 <!-- Three columns of text below the carousel -->
                 <div class="row">
                     <div class="col-lg-4">
-                        <a class="no-decor" title="Kosmetické poradenství, analýza pleti, péče o pleť - vše zdarma" href="/kosmeticke-poradenstvi/">
-                            <img class="img-circle param-header" src="/images/gallery/poradenstvi2.jpg" alt="Kosmetické poradenství">
-                            <h2>Kosmetické poradenství</h2>
+                        <a class="no-decor" title="KosmetickĂ© poradenstvĂ­, analĂ˝za pleti, pĂ©ÄŤe o pleĹĄ - vĹˇe zdarma" href="/kosmeticke-poradenstvi/">
+                            <img class="img-circle param-header" src="/images/gallery/poradenstvi2.jpg" alt="KosmetickĂ© poradenstvĂ­">
+                            <h2>KosmetickĂ© poradenstvĂ­</h2>
                         </a>
-                        <p>Máte problémy s pletí? Chcete něco změnit a nevíte jak na to? Nechte si ode mě poradit a objednejte se na kosmetické poradenství zcela ZDARMA!</p>
-                        <p><a title="Kosmetické poradenství, analýza pleti, péče o pleť - vše zdarma" class="btn btn-default" href="/kosmeticke-poradenstvi/" role="button">Více informací &raquo;</a></p>
+                        <p>MĂˇte problĂ©my s pletĂ­? Chcete nÄ›co zmÄ›nit a nevĂ­te jak na to? Nechte si ode mÄ› poradit a objednejte se na kosmetickĂ© poradenstvĂ­ zcela ZDARMA!</p>
+                        <p><a title="KosmetickĂ© poradenstvĂ­, analĂ˝za pleti, pĂ©ÄŤe o pleĹĄ - vĹˇe zdarma" class="btn btn-default" href="/kosmeticke-poradenstvi/" role="button">VĂ­ce informacĂ­ &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                     <div class="col-lg-4">
-                        <a class="no-decor" title="Svatební líčení, večerní líčení, foto make-up a další" href="/sluzby/">
-                            <img class="img-circle param-header" src="/images/gallery/liceni.jpg" alt="Vizážistické služby">
-                            <h2>Vizážistické služby</h2>
+                        <a class="no-decor" title="SvatebnĂ­ lĂ­ÄŤenĂ­, veÄŤernĂ­ lĂ­ÄŤenĂ­, foto make-up a dalĹˇĂ­" href="/sluzby/">
+                            <img class="img-circle param-header" src="/images/gallery/liceni.jpg" alt="VizĂˇĹľistickĂ© sluĹľby">
+                            <h2>VizĂˇĹľistickĂ© sluĹľby</h2>
                         </a>
-                        <p>Buďte krásná při každé příležitosti! Svatební a slavnostní líčení, foto make up a další</p>
-                        <p><a title="Svatební líčení, večerní líčení, foto make-up a další" class="btn btn-default" href="/sluzby/" role="button">Více informací &raquo;</a></p>
+                        <p>BuÄŹte krĂˇsnĂˇ pĹ™i kaĹľdĂ© pĹ™Ă­leĹľitosti! SvatebnĂ­ a slavnostnĂ­ lĂ­ÄŤenĂ­, foto make up a dalĹˇĂ­</p>
+                        <p><a title="SvatebnĂ­ lĂ­ÄŤenĂ­, veÄŤernĂ­ lĂ­ÄŤenĂ­, foto make-up a dalĹˇĂ­" class="btn btn-default" href="/sluzby/" role="button">VĂ­ce informacĂ­ &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                     <div class="col-lg-4">
-                        <a class="no-decor" title="Kurzy líčení - individuální kurzy, skupinové kurzy, kurz aplikace tužky na oči" href="/kurzy-liceni/">
-                            <img class="img-circle param-header" src="/images/gallery/kurz2-nahled.jpeg" alt="Kurzy líčení">
-                            <h2>Kurzy líčení</h2>
+                        <a class="no-decor" title="Kurzy lĂ­ÄŤenĂ­ - individuĂˇlnĂ­ kurzy, skupinovĂ© kurzy, kurz aplikace tuĹľky na oÄŤi" href="/kurzy-liceni/">
+                            <img class="img-circle param-header" src="/images/gallery/kurz2-nahled.jpeg" alt="Kurzy lĂ­ÄŤenĂ­">
+                            <h2>Kurzy lĂ­ÄŤenĂ­</h2>
                         </a>
-                        <p>Kurzy pro začátečníky i pokročilé. Zjistíte, jak správně připravit pleť pro líčení, jak vybrat vhodný typ make-upu, jaké barvy Vás sluší, jaká používat líčidla, jak pracovat se štětci, atd.</p>
-                        <p><a title="Kurzy líčení - individuální kurzy, skupinové kurzy, kurz aplikace tužky na oči" class="btn btn-default" href="/kurzy-liceni/" role="button">Více informací &raquo;</a></p>
+                        <p>Kurzy pro zaÄŤĂˇteÄŤnĂ­ky i pokroÄŤilĂ©. ZjistĂ­te, jak sprĂˇvnÄ› pĹ™ipravit pleĹĄ pro lĂ­ÄŤenĂ­, jak vybrat vhodnĂ˝ typ make-upu, jakĂ© barvy VĂˇs sluĹˇĂ­, jakĂˇ pouĹľĂ­vat lĂ­ÄŤidla, jak pracovat se ĹˇtÄ›tci, atd.</p>
+                        <p><a title="Kurzy lĂ­ÄŤenĂ­ - individuĂˇlnĂ­ kurzy, skupinovĂ© kurzy, kurz aplikace tuĹľky na oÄŤi" class="btn btn-default" href="/kurzy-liceni/" role="button">VĂ­ce informacĂ­ &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                 </div><!-- /.row -->
             </div><!-- /.container -->

@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="CP1250">
+        <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Dárky, poukazy | Jana Budková | Líčení | Praha, Slaný a okolí</title>
+        <title>DĂˇrky, poukazy | Jana BudkovĂˇ | LĂ­ÄŤenĂ­ | Praha, SlanĂ˝ a okolĂ­</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -24,42 +24,42 @@
 
         <div id="content" class="main_content container">
 
-            <h2 class="page-heading">Dárkové poukazy</h2>
+            <h2 class="page-heading">DĂˇrkovĂ© poukazy</h2>
 
             <p class="lead">
-                Chcete udělat radost svým blízkým a sháníte dárek, který potěší? 
-                Tak již dál nehledejte - nabízím dárkové poukazy na své vizážistické služby či kurzy líčení. 
-                Nebo můžete darovat balíček kvalitních přípravků či dárkový poukaz na přípravky libovolné hodnoty.
+                Chcete udÄ›lat radost svĂ˝m blĂ­zkĂ˝m a shĂˇnĂ­te dĂˇrek, kterĂ˝ potÄ›ĹˇĂ­? 
+                Tak jiĹľ dĂˇl nehledejte - nabĂ­zĂ­m dĂˇrkovĂ© poukazy na svĂ© vizĂˇĹľistickĂ© sluĹľby ÄŤi kurzy lĂ­ÄŤenĂ­. 
+                Nebo mĹŻĹľete darovat balĂ­ÄŤek kvalitnĂ­ch pĹ™Ă­pravkĹŻ ÄŤi dĂˇrkovĂ˝ poukaz na pĹ™Ă­pravky libovolnĂ© hodnoty.
             </p>
 
             <div class="row">
                 <div class="col-lg-6">
                     <table class="afterlead">
-                        <tr><th colspan="2" >Nabídka dárkových poukazů</th></tr>
-                        <tr><td><a title="Večerní líčení - podrobnosti služby" href="/vecerni-liceni/">Večerní líčení</a></td> 
-                            <td class="price">450 Kč</td></tr>
-                        <tr><td><a title="Slavnostní účes - podrobnosti služby" href="/vlasovy-styling/">Slavnostní účes</a></td> 
-                            <td class="price">350 Kč</td></tr>
-                        <tr><td><a title="Svatební líčení, líčení svatebčanů" href="/svatebni-liceni/">Svatební líčení</a></td> 
-                            <td class="price">od 850 Kč</td></tr>
-                        <tr><td><a title="Svatební líčení, líčení svatebčanů" href="/svatebni-liceni/">Svatební účes</a></td> 
-                            <td class="price">od 400 Kč</td></tr>
-                        <tr><td><a title="Kurzy líčení - individuální kurzy, skupinové kurzy, kurz aplikace tužky na oči" href="/kurzy-liceni/">Kurzy líčení</a></td> 
-                            <td class="price">od 230 Kč</td></tr>
+                        <tr><th colspan="2" >NabĂ­dka dĂˇrkovĂ˝ch poukazĹŻ</th></tr>
+                        <tr><td><a title="VeÄŤernĂ­ lĂ­ÄŤenĂ­ - podrobnosti sluĹľby" href="/vecerni-liceni/">VeÄŤernĂ­ lĂ­ÄŤenĂ­</a></td> 
+                            <td class="price">450 KÄŤ</td></tr>
+                        <tr><td><a title="SlavnostnĂ­ ĂşÄŤes - podrobnosti sluĹľby" href="/vlasovy-styling/">SlavnostnĂ­ ĂşÄŤes</a></td> 
+                            <td class="price">350 KÄŤ</td></tr>
+                        <tr><td><a title="SvatebnĂ­ lĂ­ÄŤenĂ­, lĂ­ÄŤenĂ­ svatebÄŤanĹŻ" href="/svatebni-liceni/">SvatebnĂ­ lĂ­ÄŤenĂ­</a></td> 
+                            <td class="price">od 850 KÄŤ</td></tr>
+                        <tr><td><a title="SvatebnĂ­ lĂ­ÄŤenĂ­, lĂ­ÄŤenĂ­ svatebÄŤanĹŻ" href="/svatebni-liceni/">SvatebnĂ­ ĂşÄŤes</a></td> 
+                            <td class="price">od 400 KÄŤ</td></tr>
+                        <tr><td><a title="Kurzy lĂ­ÄŤenĂ­ - individuĂˇlnĂ­ kurzy, skupinovĂ© kurzy, kurz aplikace tuĹľky na oÄŤi" href="/kurzy-liceni/">Kurzy lĂ­ÄŤenĂ­</a></td> 
+                            <td class="price">od 230 KÄŤ</td></tr>
                     </table>
 
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-6">
-                    <a href="/images/gallery/poukaz-vecerni-liceni.jpg" data-lightbox="makeup-set" title="Ukázka dárkového poukazu - Večerní líčení">
-                        <img class="example-image-link" src="/images/gallery/poukaz-vecerni-liceni-nahled.jpg" alt="Ukázka dárkového poukazu - Večerní líčení" width="300"/>
+                    <a href="/images/gallery/poukaz-vecerni-liceni.jpg" data-lightbox="makeup-set" title="UkĂˇzka dĂˇrkovĂ©ho poukazu - VeÄŤernĂ­ lĂ­ÄŤenĂ­">
+                        <img class="example-image-link" src="/images/gallery/poukaz-vecerni-liceni-nahled.jpg" alt="UkĂˇzka dĂˇrkovĂ©ho poukazu - VeÄŤernĂ­ lĂ­ÄŤenĂ­" width="300"/>
                     </a>
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
 
             <br>
             <p class="afterlead">
-                Pokud jste si vybrali, neváhejte mě <a class="label label-highlight" title="Kontakty - email, telefon, facebook" href="/kontakty/">kontaktovat</a>. 
-                V případě specifičtějšího požadavku můžeme poukazy libovolně kombinovat či upravovat dle Vašeho přání.
+                Pokud jste si vybrali, nevĂˇhejte mÄ› <a class="label label-highlight" title="Kontakty - email, telefon, facebook" href="/kontakty/">kontaktovat</a>. 
+                V pĹ™Ă­padÄ› specifiÄŤtÄ›jĹˇĂ­ho poĹľadavku mĹŻĹľeme poukazy libovolnÄ› kombinovat ÄŤi upravovat dle VaĹˇeho pĹ™ĂˇnĂ­.
             </p>
 
         </div>

@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="CP1250">
+        <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Svatební líčení | Jana Budková | Líčení | Praha, Slaný a okolí</title>
+        <title>SvatebnĂ­ lĂ­ÄŤenĂ­ | Jana BudkovĂˇ | LĂ­ÄŤenĂ­ | Praha, SlanĂ˝ a okolĂ­</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -24,75 +24,75 @@
 
         <div id="content" class="main_content container">
             
-            <h2 class="page-heading">Svatební líčení</h2>
+            <h2 class="page-heading">SvatebnĂ­ lĂ­ÄŤenĂ­</h2>
 
             <p class="lead">
-                Nechte se ve svůj výjimečný den hýčkat a veškerou práci nechejte na mně. 
-                Díky profesionálnímu líčení budete vypadat skvěle.
+                Nechte se ve svĹŻj vĂ˝jimeÄŤnĂ˝ den hĂ˝ÄŤkat a veĹˇkerou prĂˇci nechejte na mnÄ›. 
+                DĂ­ky profesionĂˇlnĂ­mu lĂ­ÄŤenĂ­ budete vypadat skvÄ›le.
             </p>
 
-            <p class="afterlead">Základem pro svatební líčení je dokonalý podklad, Vaše pleť musí vypadat sjednocenně a zářivě. 
-                Svatební líčení musí být pro fotografie a video výrazné, ale zároveň musí být přirozené při pohlednu na denním světle. 
-                Díky kvalitním přípravkům Vám svatební líčení vydrží celý náročný den i protančenou noc.
+            <p class="afterlead">ZĂˇkladem pro svatebnĂ­ lĂ­ÄŤenĂ­ je dokonalĂ˝ podklad, VaĹˇe pleĹĄ musĂ­ vypadat sjednocennÄ› a zĂˇĹ™ivÄ›. 
+                SvatebnĂ­ lĂ­ÄŤenĂ­ musĂ­ bĂ˝t pro fotografie a video vĂ˝raznĂ©, ale zĂˇroveĹ musĂ­ bĂ˝t pĹ™irozenĂ© pĹ™i pohlednu na dennĂ­m svÄ›tle. 
+                DĂ­ky kvalitnĂ­m pĹ™Ă­pravkĹŻm VĂˇm svatebnĂ­ lĂ­ÄŤenĂ­ vydrĹľĂ­ celĂ˝ nĂˇroÄŤnĂ˝ den i protanÄŤenou noc.
             </p>
 
             <p class="afterlead">
-                Aby jste měla perfektní představu, jak ve Váš den budete vypadat, doporučuji zkoušku svatebního líčení, kde zjistím Vaše představy a vybereme líčení, které se bude hodit Vám a k Vašim šatům.
+                Aby jste mÄ›la perfektnĂ­ pĹ™edstavu, jak ve VĂˇĹˇ den budete vypadat, doporuÄŤuji zkouĹˇku svatebnĂ­ho lĂ­ÄŤenĂ­, kde zjistĂ­m VaĹˇe pĹ™edstavy a vybereme lĂ­ÄŤenĂ­, kterĂ© se bude hodit VĂˇm a k VaĹˇim ĹˇatĹŻm.
             </p>
 
             <div class="row">
                 <div class="col-lg-6">
                     <table class="afterlead">
-                        <tr><th colspan="2" >Ceník</th></tr>
-                        <tr><td>Svatební líčení</td> 
-                            <td class="price">850 Kč</td></tr>
-                        <tr><td>Zkouška svatebního líčení</td> 
-                            <td class="price">450 Kč</td></tr>
-                        <tr><td>Líčení svatebčanů</td> 
-                            <td class="price">350 Kč</td></tr>
+                        <tr><th colspan="2" >CenĂ­k</th></tr>
+                        <tr><td>SvatebnĂ­ lĂ­ÄŤenĂ­</td> 
+                            <td class="price">850 KÄŤ</td></tr>
+                        <tr><td>ZkouĹˇka svatebnĂ­ho lĂ­ÄŤenĂ­</td> 
+                            <td class="price">450 KÄŤ</td></tr>
+                        <tr><td>LĂ­ÄŤenĂ­ svatebÄŤanĹŻ</td> 
+                            <td class="price">350 KÄŤ</td></tr>
                     </table>
                     
-                    <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
+                    <a class="btn btn-contactme btn-primary" href="/kontakty/">MĂˇte zĂˇjem? Kontaktujte mÄ›!</a>
 
-                    <p class="afterlead">Líčení trvá přibližně 45 minut.</p>
-                    <p class="afterlead">Doprava ve Slaném a po Praze je v ceně, ostatní za doplatek 3Kč/km.</p>
+                    <p class="afterlead">LĂ­ÄŤenĂ­ trvĂˇ pĹ™ibliĹľnÄ› 45 minut.</p>
+                    <p class="afterlead">Doprava ve SlanĂ©m a po Praze je v cenÄ›, ostatnĂ­ za doplatek 3KÄŤ/km.</p>
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-6">
-                    <a class="" href="/galerie/" title="Galerie - Svatební líčení">
-                        <img class="example-image-link parallelogram" src="/images/gallery/nevestaTereza-nahled.jpeg" alt="Galerie - Svatební líčení"/>
+                    <a class="" href="/galerie/" title="Galerie - SvatebnĂ­ lĂ­ÄŤenĂ­">
+                        <img class="example-image-link parallelogram" src="/images/gallery/nevestaTereza-nahled.jpeg" alt="Galerie - SvatebnĂ­ lĂ­ÄŤenĂ­"/>
                     </a>
-                    <a class="" href="/galerie/" title="Galerie - Svatební líčení">
-                        <img class="example-image-link parallelogram" src="/images/gallery/nevestaZuzka-nahled.jpg" alt="Galerie - Svatební líčení"/>
+                    <a class="" href="/galerie/" title="Galerie - SvatebnĂ­ lĂ­ÄŤenĂ­">
+                        <img class="example-image-link parallelogram" src="/images/gallery/nevestaZuzka-nahled.jpg" alt="Galerie - SvatebnĂ­ lĂ­ÄŤenĂ­"/>
                     </a>
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
 
-            <h3 class="featurette-heading">Svatební učesy</h3>
+            <h3 class="featurette-heading">SvatebnĂ­ uÄŤesy</h3>
             <p class="lead">
-                Spojte líčení s účesem a ušetřete si tak čas i peníze. Nabízím česání nevěsty i ostatních svatebčanů.
+                Spojte lĂ­ÄŤenĂ­ s ĂşÄŤesem a uĹˇetĹ™ete si tak ÄŤas i penĂ­ze. NabĂ­zĂ­m ÄŤesĂˇnĂ­ nevÄ›sty i ostatnĂ­ch svatebÄŤanĹŻ.
             </p>
 
             <table class="afterlead">
-                <tr><th colspan="2" >Ceník</th></tr>
-                <tr><td>Svatební účes</td> 
-                    <td class="price">400 Kč</td></tr>
-                <tr><td>Zkouška svatebního účesu</td> 
-                    <td class="price">300 Kč</td></tr>
-                <tr><td>Česání svatebčanů</td> 
-                    <td class="price">250 Kč</td></tr>
+                <tr><th colspan="2" >CenĂ­k</th></tr>
+                <tr><td>SvatebnĂ­ ĂşÄŤes</td> 
+                    <td class="price">400 KÄŤ</td></tr>
+                <tr><td>ZkouĹˇka svatebnĂ­ho ĂşÄŤesu</td> 
+                    <td class="price">300 KÄŤ</td></tr>
+                <tr><td>ÄŚesĂˇnĂ­ svatebÄŤanĹŻ</td> 
+                    <td class="price">250 KÄŤ</td></tr>
             </table>
 
-            <p class="afterlead">Účes trvá přibližně 30-60 minut - dle náročnosti.</p>
-            <p class="afterlead">Zkouška svatebního líčení a účesu se bude konat dohromady, abyste měla kompletní představu.</p>
+            <p class="afterlead">ĂšÄŤes trvĂˇ pĹ™ibliĹľnÄ› 30-60 minut - dle nĂˇroÄŤnosti.</p>
+            <p class="afterlead">ZkouĹˇka svatebnĂ­ho lĂ­ÄŤenĂ­ a ĂşÄŤesu se bude konat dohromady, abyste mÄ›la kompletnĂ­ pĹ™edstavu.</p>
 
   <br>
             <p class="afterlead">
-                Pokud budete s mojí prací spokojeni, můžete využít i další služby, které nabízím, 
-                a to <a title="Večerní líčení, plesové líčení" href="/vecerni-liceni/">večerní líčení</a> či 
+                Pokud budete s mojĂ­ pracĂ­ spokojeni, mĹŻĹľete vyuĹľĂ­t i dalĹˇĂ­ sluĹľby, kterĂ© nabĂ­zĂ­m, 
+                a to <a title="VeÄŤernĂ­ lĂ­ÄŤenĂ­, plesovĂ© lĂ­ÄŤenĂ­" href="/vecerni-liceni/">veÄŤernĂ­ lĂ­ÄŤenĂ­</a> ÄŤi 
                 <a title="Foto make-up" href="/foto-makeup/">foto make-up</a>, 
-                <a title="Vlasový styling - úprava vlasů na focení, svatební, plesové a jiné slavnostní účesy" href="/vlasovy-styling/">slavnostní účesy a vlasový styling</a>. 
-                Dále nabízím <a title="Kurzy líčení - individuální kurzy, skupinové kurzy, kurz aplikace tužky na oči" href="/kurzy-liceni/">kurzy líčení</a> 
-                pro individuály i skupiny, základní kurzy i pokročilé.
+                <a title="VlasovĂ˝ styling - Ăşprava vlasĹŻ na focenĂ­, svatebnĂ­, plesovĂ© a jinĂ© slavnostnĂ­ ĂşÄŤesy" href="/vlasovy-styling/">slavnostnĂ­ ĂşÄŤesy a vlasovĂ˝ styling</a>. 
+                DĂˇle nabĂ­zĂ­m <a title="Kurzy lĂ­ÄŤenĂ­ - individuĂˇlnĂ­ kurzy, skupinovĂ© kurzy, kurz aplikace tuĹľky na oÄŤi" href="/kurzy-liceni/">kurzy lĂ­ÄŤenĂ­</a> 
+                pro individuĂˇly i skupiny, zĂˇkladnĂ­ kurzy i pokroÄŤilĂ©.
             </p>
         </div>
 
