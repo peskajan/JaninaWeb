@@ -40,9 +40,9 @@
                     <table class="afterlead">
                         <tr><th colspan="2" >Ceník</th></tr>
                         <tr><td>Foto make-up</td> 
-                            <td class="price">500 Kè</td></tr>
+                            <td class="price">od 450 Kè</td></tr>
                          <tr><td>Pøelíèení</td> 
-                            <td class="price">350 Kè</td></tr>
+                            <td class="price">dohodou</td></tr>
                     </table>
                     
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
@@ -51,10 +51,10 @@
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-6">
                     <a class="" href="/galerie/" title="Galerie - Foto-make up">
-                        <img class="example-image-link parallelogram" src="/images/gallery/glamour-nahled.jpg" alt="Galerie - Foto make-up"/>
+                        <img class="example-image-link parallelogram" src="/images/gallery/lucka-spojena-nahled.jpg" alt="Galerie - Foto make-up"/>
                     </a>
                     <a class="" href="/galerie/" title="Galerie - Foto make-up">
-                        <img class="example-image-link parallelogram" src="/images/gallery/santa2-nahled.jpg" alt="Galerie - Foto make-up"/>
+                        <img class="example-image-link parallelogram" src="/images/gallery/M8-nahled.jpg" alt="Galerie - Foto make-up"/>
                     </a>
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
@@ -66,9 +66,9 @@
             <table class="afterlead">
                 <tr><th colspan="2" >Ceník</th></tr>
                 <tr><td>Vlasový styling</td> 
-                    <td class="price">400 Kè</td></tr>
+                    <td class="price">od 350 Kè</td></tr>
                  <tr><td>Pøeèesání</td> 
-                    <td class="price">250 Kè</td></tr>
+                    <td class="price">dohodou</td></tr>
             </table>
             <p class="afterlead">Úèes trvá pøibližnì 30-60 minut - dle nároènosti.</p>
             <br>

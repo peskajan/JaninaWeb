@@ -45,11 +45,47 @@
                     <a class="example-image-link" href="/images/gallery/glamour-velky_1.jpg" data-lightbox="makeup-set" title="Foto make-up - glamour focení">
                         <img class="example-image" src="/images/gallery/glamour-nahled.jpg" title="Foto make-up - glamour focení" alt="Foto make-up - glamour focení" width="150" height="150"/>
                     </a>
-                    <a class="example-image-link" href="/images/gallery/santa1-velky.jpg" data-lightbox="makeup-set" title="Foto make-up - vánoèní focení">
-                        <img class="example-image" src="/images/gallery/santa1-nahled.jpg" title="Foto make-up - vánoèní focení" alt="Foto make-up - vánoèní focení" width="150" height="150"/>
+                    <a class="example-image-link" href="/images/gallery/Katka4-velka.jpg" data-lightbox="makeup-set" title="Foto make-up - usmìvavá Katka">
+                        <img class="example-image" src="/images/gallery/Katka4-nahled.jpg" title="Foto make-up - usmìvavá Katka" alt="Foto make-up - usmìvavá Katka" width="150" height="150"/>
                     </a>
-                    <a class="example-image-link" href="/images/gallery/santa2-velky.jpg" data-lightbox="makeup-set" title="Foto make-up - vánoèní focení">
-                        <img class="example-image" src="/images/gallery/santa2-nahled.jpg" title="Foto make-up - vánoèní focení" alt="Foto make-up - vánoèní focení" width="150" height="150"/>
+                     <a class="example-image-link" href="/images/gallery/Katka7-velka.jpg" data-lightbox="makeup-set" title="Foto make-up - usmìvavá Katka">
+                         <img class="example-image" src="/images/gallery/Katka7-nahled.jpg" title="Foto make-up - usmìvavá Katka" alt="Foto make-up - usmìvavá Katka" width="150" height="150"/>
+                   </a>
+                    <a class="example-image-link" href="/images/gallery/kaè-logo-velka.jpg" data-lightbox="makeup-set" title="Foto make-up">
+                        <img class="example-image" src="/images/gallery/kaè-logo-nahled.jpg" title="Foto make-up" alt="Foto make-up" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/kaè2logo-velka.jpg" data-lightbox="makeup-set" title="Foto make-up">
+                        <img class="example-image" src="/images/gallery/kaè2logo-nahled.jpg" title="Foto make-up" alt="Foto make-up" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/lucka-spojena-velka.jpg" data-lightbox="makeup-set" title="Foto make-up - modelka Lucka">
+                        <img class="example-image" src="/images/gallery/lucka-spojena-nahled.jpg" title="Foto make-up - modelka Lucka" alt="Foto make-up - modelka Lucka" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/M8-velka.jpg" data-lightbox="makeup-set" title="Foto make-up">
+                        <img class="example-image" src="/images/gallery/M8-nahled.jpg" title="Foto make-up" alt="Foto make-up" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/retro - mala.jpg" data-lightbox="makeup-set" title="Foto make-up">
+                        <img class="example-image" src="/images/gallery/retro -nahled.jpg" title="Foto make-up" alt="Foto make-up" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/retro2 - mala.jpg" data-lightbox="makeup-set" title="Foto make-up">
+                        <img class="example-image" src="/images/gallery/retro2 - nahled.jpg" title="Foto make-up" alt="Foto make-up" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/M+R - mala.jpg" data-lightbox="makeup-set" title="Foto make-up">
+                        <img class="example-image" src="/images/gallery/M+R - nahled.jpg" title="Foto make-up" alt="Foto make-up" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/Kata - mala.jpg" data-lightbox="makeup-set" title="Foto make-up">
+                        <img class="example-image" src="/images/gallery/Kata - nahled.jpg" title="Foto make-up" alt="Foto make-up" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/Kata_plavky - mala.jpg" data-lightbox="makeup-set" title="Foto make-up">
+                        <img class="example-image" src="/images/gallery/Kata_plavky - Nahled.jpg" title="Foto make-up" alt="Foto make-up" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/Kata_plavky2 - mala).jpg" data-lightbox="makeup-set" title="Foto make-up">
+                        <img class="example-image" src="/images/gallery/Kata_plavky2 - nahled.jpg" title="Foto make-up" alt="Foto make-up" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/terka2 - mala.jpg" data-lightbox="makeup-set" title="Foto make-up">
+                        <img class="example-image" src="/images/gallery/terka2 - nahled.jpg" title="Foto make-up" alt="Foto make-up" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/terka4 - mala.jpg" data-lightbox="makeup-set" title="Foto make-up">
+                        <img class="example-image" src="/images/gallery/terka4 -nahled.jpg" title="Foto make-up" alt="Foto make-up" width="150" height="150"/>
                     </a>
                 </div>
             </div>
@@ -68,6 +104,12 @@
                     </a>
                     <a class="example-image-link" href="/images/gallery/nevestaJana-velky.jpg" data-lightbox="svatba-set" title="Svatební líèení - Nevìsta Jana">
                         <img class="example-image" src="/images/gallery/nevestaJana-nahled.jpg" title="Svatební líèení - Nevìsta Jana" alt="Svatební líèení - Nevìsta Jana" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/svedkyne-mala.jpg" data-lightbox="svatba-set" title="Líèení svìdkynì">
+                        <img class="example-image" src="/images/gallery/svedkyne-nahled.jpg" title="Líèení svìdkynì" alt="Líèení svìdkynì" width="150" height="150"/>
+                    </a>
+                    <a class="example-image-link" href="/images/gallery/Bara-mala.jpg" data-lightbox="svatba-set" title="Svatební líèení - Nevìsta Bára">
+                        <img class="example-image" src="/images/gallery/Bara-nahled.jpg" title="Svatební líèení - Nevìsta Bára" alt="Svatební líèení - Nevìsta Bára" width="150" height="150"/>
                     </a>
                 </div>
             </div>

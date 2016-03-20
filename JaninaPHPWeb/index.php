@@ -34,17 +34,8 @@
                     <div class="item active">
                         <div class="container">
                             <div class="carousel-caption">
-                                <h1>Hledáte vhodnı dárek?</h1>
-                                <p>Darujte Vašim blízkım poukázku na vizáistické sluby, kurz líèení, kosmetické pøípravky a jiné.</p>
-                                <p><a class="btn btn-lg btn-primary" title="Dárky, dárkové balíèky, dárkové poukázky" href="/darky/" role="button">Více informací  &raquo;</a></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="container">
-                            <div class="carousel-caption">
-                                <h1>AKCE: Plesové líèení</h1>
-                                <p>Dejte se se kamarádkami dohromady a nechte se spoleènì nalíèit nebo uèesat za vıhodnìjší cenu!!</p>
+                                <h1>AKCE: Plesové a veèerní líèení</h1>
+                                <p>Dejte se se kamarádkami dohromady a nechte se spoleènì nalíèit za vıhodnìjší cenu!!</p>
                                 <p><a class="btn btn-lg btn-primary" title="Veèerní líèení, plesové líèení" href="/vecerni-liceni/" role="button">Více informací  &raquo;</a></p>
                             </div>
                         </div>
@@ -52,11 +43,19 @@
                     <div class="item">
                         <div class="container">
                             <div class="carousel-caption">
-                                <h1>Svatební líèení</h1>
-                                <p>Volné zimní termíny svatebního líèení a dále také volné termíny na rok 2014!!
-                                </p>
-                                <p><a class="btn btn-lg btn-primary" title="Svatební líèení, líèení svatebèanù" href="/svatebni-liceni/" role="button">Více informací  &raquo;</a></p>
+                               <h1>Svatební líèení</h1>
+                                <p>Volné termíny na rok 2016!</p>
+                                <p><a class="btn btn-lg btn-primary" title="Svatební líèení, líèení svatebèanù" href="/svatebni-liceni/" role="button">Více informací  &raquo;</a></p> 
                             </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="container">
+                            <div class="carousel-caption">
+                                
+                           <h1>Hledáte vhodnı dárek?</h1>
+                                <p>Darujte Vašim blízkım poukázku na vizáistické sluby, kurz líèení, a jiné.</p>
+                                <p><a class="btn btn-lg btn-primary" title="Dárky, dárkové balíèky, dárkové poukázky" href="/darky/" role="button">Více informací  &raquo;</a></p> </div>
                         </div>
                     </div>
                 </div>
@@ -86,7 +85,7 @@
                     </div><!-- /.col-lg-4 -->
                     <div class="col-lg-4">
                         <a class="no-decor" title="Kurzy líèení - individuální kurzy, skupinové kurzy, kurz aplikace tuky na oèi" href="/kurzy-liceni/">
-                            <img class="img-circle param-header" src="/images/gallery/kurz5-nahled.jpg" alt="Kurzy líèení">
+                            <img class="img-circle param-header" src="/images/gallery/kurz2-nahled.jpeg" alt="Kurzy líèení">
                             <h2>Kurzy líèení</h2>
                         </a>
                         <p>Kurzy pro zaèáteèníky i pokroèilé. Zjistíte, jak správnì pøipravit ple pro líèení, jak vybrat vhodnı typ make-upu, jaké barvy Vás sluší, jaká pouívat líèidla, jak pracovat se štìtci, atd.</p>

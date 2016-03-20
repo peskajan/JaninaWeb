@@ -39,6 +39,13 @@
                         <li>ÓÈKO TV</li>
                         <li>MISS VŠE</li>
                     </ul>
+                    <p class="afterlead bold">Partnerské weby:</p>
+
+                    <ul class="afterlead">
+                        <li>Studio Sunrise - foto a video - <a href="http://www.svatebnivideo.cz/">www.svatebnivideo.cz</a></li>
+                  
+                    </ul>
+                    
 
                 </div>
                 <div class="col-md-5">

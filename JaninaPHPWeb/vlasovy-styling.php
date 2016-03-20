@@ -48,8 +48,11 @@
                     <p class="afterlead">Doprava ve Slaném a po Praze je v cenì, ostatní za doplatek 3Kè/km.</p>
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-6">
-                    <a href="/images/gallery/drdol-velka.jpg" data-lightbox="makeup-set" title="Vlasový styling - Ukázka úèesu">
-                        <img class="example-image-link parallelogram" src="/images/gallery/drdol-nahled.jpg" alt="Vlasový styling - Ukázka úèesu"/>
+                    <a href="/images/gallery/drdol-velka.jpg" data-lightbox="makeup-set" title="Vlasový styling - ukázka úèesu">
+                        <img class="example-image-link parallelogram" src="/images/gallery/drdol-nahled.jpg" alt="Vlasový styling - ukázka úèesu"/>
+                    </a>
+                    <a href="/images/gallery/Katka4-velka.jpg" data-lightbox="makeup-set" title="Vlasový styling">
+                        <img class="example-image-link parallelogram" src="/images/gallery/Katka4-nahled.jpg" alt="Vlasový styling"/>
                     </a>
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->

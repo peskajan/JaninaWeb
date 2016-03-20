@@ -25,7 +25,7 @@
                         <li><a title="Kurzy líèení - individuální kurzy, skupinové kurzy, kurz aplikace tužky na oèi" href="/kurzy-liceni/">Kurzy líèení</a></li>
                         <li><a title="Dárky, dárkové balíèky, dárkové poukázky" href="/darky/">Dárkové poukázky</a></li>
                          <li><a title="Kosmetické poradenství, analýza pleti, péèe o ple - vše zdarma" href="/kosmeticke-poradenstvi/">Kosmetické poradenství</a></li>
-                        <li><a title="Spolupráce pro firmy, spolupráce pro budoucí vizážistky - pøidejte se k nám" href="/spoluprace/">Spolupráce</a></li>
+                        <li><a title="Spolupráce pro firmy" href="/spoluprace/">Spolupráce</a></li>
                     </ul>
                 </li>
                 <li><a title="Galerie - svatební líèení, foto make-up" href="/galerie/"><span class="glyphicon glyphicon-picture"></span> Fotogalerie</a></li>

@@ -30,19 +30,11 @@
 
             <p class="afterlead">Pro Vaše zamìstnance, obchodní partnery a klienty nabízím: </p>
             <ul class="afterlead">
-                <li>kosmetická poradenství v péèi o ple a líèení</li>
-                <li>sestavení dárkovıch balíèkù</li>
-                <li>spolupráci a partnerství na firemních veèírcích a spoleèenskıch akcích</li>
+                <li>dárkové poukázky na vizáistické sluby èi kurzy líèení</li>
+                <li>sestavení dárkovıch kosmetickıch balíèkù</li>
+                <li>spolupráci na firemních veèírcích a spoleèenskıch akcích</li>
             </ul>
-
-            <p class="afterlead bold">Pro budoucí vizáistky:</p>
-            <ul class="afterlead">
-                <li>Zajímáte se o kosmetiku a líèení?</li>
-                <li>Chcete se více zdokonalit a vzdìlávat?</li>
-                <li>Chcete to mít jako koníèka, pøivıdìlek nebo práci?</li>
-                <li class="bold">Pøidejte se k nám!</li>
-            </ul>
-            
+                      
             <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mì!</a>
 
             <p class="afterlead">

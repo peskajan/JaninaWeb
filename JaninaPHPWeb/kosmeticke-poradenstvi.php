@@ -55,15 +55,7 @@
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
 
-            <br>
-            <p class="afterlead bold">Pro budoucí vizážistky:</p>
-            <ul class="afterlead">
-                <li>Zajímáte se o kosmetiku a líèení?</li>
-                <li>Chcete se více zdokonalit a vzdìlávat?</li>
-                <li>Chcete to mít jako koníèka, pøivýdìlek nebo práci?</li>
-                <li class="bold">Pøidejte se k nám!</li>
-            </ul>
-
+          
             <p class="afterlead">
                 Pokud budete s mojí prací spokojeni, mùžete využít i další služby, které nabízím, 
                 a to <a title="Svatební líèení, líèení svatebèanù" href="/svatebni-liceni/">svatební líèení</a>, 
