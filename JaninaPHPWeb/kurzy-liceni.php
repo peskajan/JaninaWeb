@@ -34,16 +34,16 @@
                 <div class="col-lg-8">
                     <table class="afterlead">
                         <tr><th colspan="2" >Ceník</th></tr>
-                        <tr><td>Minikurz líčení <span class="text-muted">(základy líčení, cca 1 hodina)</span></td> 
-                            <td class="price">350 Kč</td></tr>
-                        <tr><td>Kurz pokročilého líčení <span class="text-muted">(večerní líčení, kouřové oči,..., cca 2 hodiny)</span></td> 
+                        <tr><td>Kurz základního líčení <span class="text-muted">(příprava pleti, základy líčení, denní líčení, cca 2 hodiny)</span></td> 
                             <td class="price">750 Kč</td></tr>
+                        <tr><td>Kurz pokročilého líčení <span class="text-muted">(příprava pleti, večerní líčení, kouřové oči,..., cca 3 hodiny)</span></td> 
+                            <td class="price">1000 Kč</td></tr>
                         
                     </table>
 
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
 
-                    <p class="afterlead">Doprava ve Slaném a po Praze je v ceně, ostatní za doplatek 3Kč/km.</p>
+                    <p class="afterlead">Doprava ve Slaném a po Praze je v ceně, ostatní za doplatek 3 Kč/km.</p>
                 </div>
             </div>
             <br>
