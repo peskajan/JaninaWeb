@@ -28,7 +28,7 @@
 
             <p class="lead">
                 Máte problémy s pletí? Chcete něco změnit a nevíte jak na to? Nechte si ode mě poradit a objednejte se na 
-                kosmetické poradenství zcela <span class="bold">ZDARMA!</span>
+                kosmetické poradenství.
             </p>
 
 

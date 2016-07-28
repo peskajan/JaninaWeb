@@ -24,7 +24,7 @@
 
         <div id="content" class="main_content container">
             
-            <h2 class="page-heading">Svatební líčení</h2>
+            <h2 class="page-heading">aSvatební líčení</h2>
 
             <p class="lead">
                 Nechte se ve svůj výjimečný den hýčkat a veškerou práci nechejte na mně. 
