@@ -9,5 +9,5 @@ RewriteRule ^([^/\.]+)/$ /$1.php [L,QSA]
 RewriteRule ^([^/\.]+)$ /$1.php [L,QSA]
 RewriteRule ^([^/\.]+).html$ /$1.php [L,QSA]
 
-
-
+RewriteCond %{HTTP_HOST} ^liceniprotebe.cz [NC]
+RewriteRule ^(.*)$ http://www.liceniprotebe.cz/$1 [L,R=301,NC]
