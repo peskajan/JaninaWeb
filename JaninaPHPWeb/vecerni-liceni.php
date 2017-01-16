@@ -44,8 +44,8 @@
             
             <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
 
-            <p class="afterlead">Líčení trvá přibližně 45 minut.</p>
-            <p class="afterlead">Doprava ve Slaném a po Praze je v ceně, ostatní za doplatek 3Kč/km.</p>
+            <p class="afterlead">Líčení trvá přibližně 45 minut, dle náročnosti.</p>
+            <p class="afterlead">Doprava ve Slaném a po Praze je v ceně, ostatní za doplatek 5 Kč/km.</p>
 
 
             <h3 class="featurette-heading">Slavnostní účesy a vlasový styling</h3>
@@ -59,7 +59,7 @@
                     <td class="price">350 Kč</td></tr>
             </table>
 
-            <p class="afterlead">Účes trvá přibližně 30-60 minut - dle náročnosti.</p>
+            <p class="afterlead">Účes trvá přibližně 30-90 minut - dle náročnosti.</p>
 
             <br>
             <p class="afterlead">

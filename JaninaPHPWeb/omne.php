@@ -26,8 +26,8 @@
             <h2 class="page-heading">O mně</h2>
             <div class="row featurette">
                 <div class="col-md-7">
-                    <p class="lead">Pracuji jako vizážistka a kosmetická poradkyně již od roku 2010. Nejprve bylo líčení mým velkým koníčkem, potom se stalo zároveň i mou profesí.
-                        Specializuji se hlavně na foto-make up, svatební líčení, večerní líčení a vlasový styling. 
+                    <p class="lead">Pracuji jako vizážistka již od roku 2010. Nejprve bylo líčení mým velkým koníčkem, potom se stalo zároveň i mou profesí.
+                        Specializuji se hlavně na svatební líčení, večerní líčení, foto-make up a vlasový styling. 
                         Působím převážně v Praze a ve Slaném, po domluvě kdekoliv dle Vašeho přání.
                     </p>
 
@@ -36,8 +36,9 @@
                     <p class="afterlead bold">Reference:</p>
 
                     <ul class="afterlead">
-                        <li>ÓČKO TV</li>
-                        <li>MISS VŠE</li>
+                        <li>Óčko TV</li>
+                        <li>Miss VŠE</li>
+                        <li>Doctor Optic</li>
                     </ul>
                     <p class="afterlead bold">Partnerské weby:</p>
 

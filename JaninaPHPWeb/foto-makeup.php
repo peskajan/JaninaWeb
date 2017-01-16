@@ -70,7 +70,7 @@
                  <tr><td>Přečesání</td> 
                     <td class="price">dohodou</td></tr>
             </table>
-            <p class="afterlead">Účes trvá přibližně 30-60 minut - dle náročnosti.</p>
+            <p class="afterlead">Účes trvá přibližně 30-90 minut - dle náročnosti.</p>
             <br>
             <p class="afterlead">
                 Pokud budete s mojí prací spokojeni, můžete využít i další služby, které nabízím, 

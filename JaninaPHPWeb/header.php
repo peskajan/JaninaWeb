@@ -24,7 +24,6 @@
                         <li><a title="Vlasový styling - úprava vlasů na focení, svatební, plesové a jiné slavnostní účesy" href="/vlasovy-styling/">Vlasový styling</a></li>
                         <li><a title="Kurzy líčení - individuální kurzy, skupinové kurzy, kurz aplikace tužky na oči" href="/kurzy-liceni/">Kurzy líčení</a></li>
                         <li><a title="Dárky, dárkové balíčky, dárkové poukázky" href="/darky/">Dárkové poukázky</a></li>
-                         <li><a title="Kosmetické poradenství, analýza pleti, péče o pleť - vše zdarma" href="/kosmeticke-poradenstvi/">Kosmetické poradenství</a></li>
                         <li><a title="Spolupráce pro firmy" href="/spoluprace/">Spolupráce</a></li>
                     </ul>
                 </li>

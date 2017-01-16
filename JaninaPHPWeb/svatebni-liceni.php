@@ -24,7 +24,7 @@
 
         <div id="content" class="main_content container">
             
-            <h2 class="page-heading">aSvatební líčení</h2>
+            <h2 class="page-heading">Svatební líčení</h2>
 
             <p class="lead">
                 Nechte se ve svůj výjimečný den hýčkat a veškerou práci nechejte na mně. 
@@ -54,15 +54,15 @@
                     
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
 
-                    <p class="afterlead">Líčení trvá přibližně 45 minut.</p>
-                    <p class="afterlead">Doprava ve Slaném a po Praze je v ceně, ostatní za doplatek 3Kč/km.</p>
+                    <p class="afterlead">Líčení trvá přibližně 45 minut, dle náročnosti.</p>
+                    <p class="afterlead">Doprava ve Slaném a po Praze je v ceně, ostatní za doplatek 5 Kč/km.</p>
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-6">
                     <a class="" href="/galerie/" title="Galerie - Svatební líčení">
                         <img class="example-image-link parallelogram" src="/images/gallery/nevestaTereza-nahled.jpeg" alt="Galerie - Svatební líčení"/>
                     </a>
                     <a class="" href="/galerie/" title="Galerie - Svatební líčení">
-                        <img class="example-image-link parallelogram" src="/images/gallery/nevestaZuzka-nahled.jpg" alt="Galerie - Svatební líčení"/>
+                        <img class="example-image-link parallelogram" src="/images/gallery/Marta2-nahled.jpg" alt="Galerie - Svatební líčení"/>
                     </a>
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
@@ -82,7 +82,7 @@
                     <td class="price">250 Kč</td></tr>
             </table>
 
-            <p class="afterlead">Účes trvá přibližně 30-60 minut - dle náročnosti.</p>
+            <p class="afterlead">Účes trvá přibližně 30-90 minut - dle náročnosti.</p>
             <p class="afterlead">Zkouška svatebního líčení a účesu se bude konat dohromady, abyste měla kompletní představu.</p>
 
   <br>

@@ -31,8 +31,8 @@
             <p class="afterlead">Pro Vaše zaměstnance, obchodní partnery a klienty nabízím: </p>
             <ul class="afterlead">
                 <li>dárkové poukázky na vizážistické služby či kurzy líčení</li>
-                <li>sestavení dárkových kosmetických balíčků</li>
                 <li>spolupráci na firemních večírcích a společenských akcích</li>
+                <li>líčení zaměstnanců při fotografování do firemního portfolia</li>
             </ul>
                       
             <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>

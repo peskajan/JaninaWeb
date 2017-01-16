@@ -42,17 +42,19 @@
                             <td class="price">350 Kč</td></tr>
                     </table>
                     
+                    
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
-
-                    <p class="afterlead">Účes trvá 30minut až 1 hodinu - dle náročnosti.</p>
-                    <p class="afterlead">Doprava ve Slaném a po Praze je v ceně, ostatní za doplatek 3Kč/km.</p>
+                    
+                    <p class="afterlead">Účes trvá 30 - 90 minut - dle náročnosti.</p>
+                    <p class="afterlead">Na styling používám kvalitní vlasovou kosmetiku značky Paul Mitchell.</p>
+                    <p class="afterlead">Doprava ve Slaném a po Praze je v ceně, ostatní za doplatek 5 Kč/km.</p>
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-6">
                     <a href="/images/gallery/drdol-velka.jpg" data-lightbox="makeup-set" title="Vlasový styling - ukázka účesu">
                         <img class="example-image-link parallelogram" src="/images/gallery/drdol-nahled.jpg" alt="Vlasový styling - ukázka účesu"/>
                     </a>
-                    <a href="/images/gallery/Katka4-velka.jpg" data-lightbox="makeup-set" title="Vlasový styling">
-                        <img class="example-image-link parallelogram" src="/images/gallery/Katka4-nahled.jpg" alt="Vlasový styling"/>
+                    <a href="/images/gallery/J2-mala.jpg" data-lightbox="makeup-set" title="Vlasový styling">
+                        <img class="example-image-link parallelogram" src="/images/gallery/J2-nahled.jpg" alt="Vlasový styling"/>
                     </a>
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->

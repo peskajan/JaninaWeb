@@ -27,7 +27,7 @@
             <h2 class="page-heading">Kurzy líčení</h2>
 
             <p class="lead">
-                Individuální i skupinové kurzy líčení.  Pro začátečníky i pokročilé. Zjistíte, jak připravit pleť pro líčení, jak vybrat vhodný typ make-upu, jaké barvy Vám sluší, jaká používat líčidla, jak pracovat se štětci a naučíte se, jak se nalíčit pro každou příležitost.
+                Individuální i skupinové kurzy líčení. Pro začátečníky i pokročilé. Zjistíte, jak připravit pleť pro líčení, jak vybrat vhodný typ make-upu, jaké barvy Vám sluší, jaká používat líčidla, jak pracovat se štětci a naučíte se, jak se nalíčit pro každou příležitost.
             </p>
 
             <div class="row">
@@ -36,6 +36,8 @@
                         <tr><th colspan="2" >Ceník</th></tr>
                         <tr><td>Kurz základního líčení <span class="text-muted">(příprava pleti, základy líčení, denní líčení, cca 2 hodiny)</span></td> 
                             <td class="price">750 Kč</td></tr>
+                        <tr><td><span class="label label-highlight">AKCE</span> Kurz základního líčení pro dvě osoby</td> 
+                    <td class="price">650 Kč/osoba</td></tr>
                         <tr><td>Kurz pokročilého líčení <span class="text-muted">(příprava pleti, večerní líčení, kouřové oči,..., cca 3 hodiny)</span></td> 
                             <td class="price">1000 Kč</td></tr>
                         
@@ -43,7 +45,7 @@
 
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
 
-                    <p class="afterlead">Doprava ve Slaném a po Praze je v ceně, ostatní za doplatek 3 Kč/km.</p>
+                    <p class="afterlead">Doprava ve Slaném a po Praze je v ceně, ostatní za doplatek 5 Kč/km.</p>
                 </div>
             </div>
             <br>

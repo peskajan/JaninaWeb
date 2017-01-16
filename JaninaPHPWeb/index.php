@@ -44,7 +44,7 @@
                         <div class="container">
                             <div class="carousel-caption">
                                <h1>Svatební líčení</h1>
-                                <p>Volné termíny na rok 2016!</p>
+                                <p>Volné termíny na rok 2017!
                                 <p><a class="btn btn-lg btn-primary" title="Svatební líčení, líčení svatebčanů" href="/svatebni-liceni/" role="button">Více informací  &raquo;</a></p> 
                             </div>
                         </div>
@@ -68,24 +68,25 @@
                 <!-- Three columns of text below the carousel -->
                 <div class="row">
                     <div class="col-lg-4">
-                        <a class="no-decor" title="Kosmetické poradenství, analýza pleti, péče o pleť - vše zdarma" href="/kosmeticke-poradenstvi/">
-                            <img class="img-circle param-header" src="/images/gallery/poradenstvi2.jpg" alt="Kosmetické poradenství">
-                            <h2>Kosmetické poradenství</h2>
-                        </a>
-                        <p>Máte problémy s pletí? Chcete něco změnit a nevíte jak na to? Nechte si ode mě poradit a objednejte se na kosmetické poradenství zcela ZDARMA!</p>
-                        <p><a title="Kosmetické poradenství, analýza pleti, péče o pleť - vše zdarma" class="btn btn-default" href="/kosmeticke-poradenstvi/" role="button">Více informací &raquo;</a></p>
-                    </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-4">
                         <a class="no-decor" title="Svatební líčení, večerní líčení, foto make-up a další" href="/sluzby/">
-                            <img class="img-circle param-header" src="/images/gallery/liceni.jpg" alt="Vizážistické služby">
+                            <img class="img-circle param-header" src="/images/gallery/stetce_1.JPG" alt="Vizážistické služby">
                             <h2>Vizážistické služby</h2>
                         </a>
                         <p>Buďte krásná při každé příležitosti! Svatební a slavnostní líčení, foto make up a další</p>
                         <p><a title="Svatební líčení, večerní líčení, foto make-up a další" class="btn btn-default" href="/sluzby/" role="button">Více informací &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                     <div class="col-lg-4">
+                        <a class="no-decor" title="Mé profesionální facebookové stránky" href="https://www.facebook.com/Jana-Budkov%C3%A1-viz%C3%A1%C5%BEistka-277499939054552/?fref=ts">
+                            <img class="img-circle param-header" src="/images/gallery/facebook – kopie.jpg" alt="facebook">
+                            <h2>Facebook</h2>
+                        </a>
+                        <p>Buďte se mnou v kontaktu na facebooku a podívejte se na mou aktuální práci:)</p>
+                        <p><a title="Facebook" class="btn btn-default" href="https://www.facebook.com/Jana-Budkov%C3%A1-viz%C3%A1%C5%BEistka-277499939054552/?fref=ts" role="button">Více informací &raquo;</a></p>
+                    </div><!-- /.col-lg-4 -->
+                    
+                    <div class="col-lg-4">
                         <a class="no-decor" title="Kurzy líčení - individuální kurzy, skupinové kurzy, kurz aplikace tužky na oči" href="/kurzy-liceni/">
-                            <img class="img-circle param-header" src="/images/gallery/kurz2-nahled.jpeg" alt="Kurzy líčení">
+                            <img class="img-circle param-header" src="/images/gallery/liceni.jpg" alt="Kurzy líčení">
                             <h2>Kurzy líčení</h2>
                         </a>
                         <p>Kurzy pro začátečníky i pokročilé. Zjistíte, jak správně připravit pleť pro líčení, jak vybrat vhodný typ make-upu, jaké barvy Vás sluší, jaká používat líčidla, jak pracovat se štětci, atd.</p>

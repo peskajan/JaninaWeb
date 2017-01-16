@@ -29,7 +29,7 @@
             <p class="lead">
                 Chcete udělat radost svým blízkým a sháníte dárek, který potěší? 
                 Tak již dál nehledejte - nabízím dárkové poukazy na své vizážistické služby či kurzy líčení. 
-                Nebo můžete darovat balíček kvalitních přípravků či dárkový poukaz na přípravky libovolné hodnoty.
+                Nebo můžete darovat poukaz na služby libovolné hodnoty.
             </p>
 
             <div class="row">
@@ -45,7 +45,7 @@
                         <tr><td><a title="Svatební líčení, líčení svatebčanů" href="/svatebni-liceni/">Svatební účes</a></td> 
                             <td class="price">od 400 Kč</td></tr>
                         <tr><td><a title="Kurzy líčení - individuální kurzy, skupinové kurzy, kurz aplikace tužky na oči" href="/kurzy-liceni/">Kurzy líčení</a></td> 
-                            <td class="price">od 230 Kč</td></tr>
+                            <td class="price">od 750 Kč</td></tr>
                     </table>
 
                 </div><!-- /.col-lg-4 -->

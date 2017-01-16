@@ -369,6 +369,7 @@ img {
 
 .img-circle {
   border-radius: 50%;
+  height: 162px; 
 }
 
 hr {
