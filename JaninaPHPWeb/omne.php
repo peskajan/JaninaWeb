@@ -51,7 +51,7 @@
 
                 </div>
                 <div class="col-md-5">
-                    <img title="Jana Budková - vizážistka" class="myphoto img-responsive" src="/images/me.jpg" alt="Jana Budková"  width="250"/>
+                    <img title="Jana Pešková - vizážistka" class="myphoto img-responsive" src="/images/me.jpg" alt="Jana Pešková"  width="250"/>
                 </div>
             </div>
 

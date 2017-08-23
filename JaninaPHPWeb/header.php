@@ -7,7 +7,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/uvod/" title="Jana Budková - líčení, vizážistika, poradenství - Praha, Slaný a okolí"><img class="img-title" src="/images/title-final2.png" alt="Jana Budková"/></a>
+            <a class="navbar-brand" href="/uvod/" title="Jana Pešková - líčení, vizážistika, poradenství - Praha, Slaný a okolí"><img class="img-title" src="/images/title-final2.png" alt="Jana Pešková"/></a>
         </div>
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
@@ -29,7 +29,7 @@
                 </li>
                 <li><a title="Galerie - svatební líčení, foto make-up" href="/galerie/"><span class="glyphicon glyphicon-picture"></span> Fotogalerie</a></li>
                 <li><a title="Kontakty - email, telefon, facebook" href="/kontakty/"><span class="glyphicon glyphicon-envelope"></span> Kontakty</a></li>
-                <li><a title="Jana Budková - o mně, reference" href="/omne/"><span class="glyphicon glyphicon-user"></span> O mně</a></li>
+                <li><a title="Jana Pešková - o mně, reference" href="/omne/"><span class="glyphicon glyphicon-user"></span> O mně</a></li>
             </ul>
         </div>
 
