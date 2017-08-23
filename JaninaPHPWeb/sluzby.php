@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Služby | Jana Budková | Líčení | Praha, Slaný a okolí</title>
+        <title>Služby | Jana Pešková | Líčení | Praha, Slaný a okolí</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -64,7 +64,7 @@
                 <h3 class="featurette-heading">Vlasový styling</h3>
             </a>
             <p class="lead">
-                Úprava vlasů na focení, svatební, plesové a jiné slavnostní účesy -
+                Úprava vlasů na focení. Svatební, plesové a jiné slavnostní účesy -
                 <a class="btn-link" title="Vlasový styling - více informací, ceník" href="/vlasovy-styling/">
                     více informací &raquo;
                 </a>
@@ -84,23 +84,12 @@
                 <h3 class="featurette-heading">Dárky</h3>
             </a>
             <p class="lead">
-                Darujte balíček přípravků nebo poukázku na přípravky, proměnu líčením, kurz líčení či vizážistické služby -
+                Darujte svým blízkým poukaz na vizážistické služby či kurz líčení -
                 <a class="btn-link" title="Dárky, dárkové balíčky, dárkové poukázky - více informací, ceník" href="/darky/">
                     více informací &raquo;
                 </a>
             </p>
-            
-            <a class="no-decor" title="Kosmetické poradenství - více informací, ceník" href="/kosmeticke-poradenstvi/">
-                <h3 class="featurette-heading">Kosmetické poradenství</h3>
-            </a>
-            <p class="lead">
-                Máte problémy s pletí? Chcete něco změnit a nevíte jak na to? 
-                Nechte si ode mě poradit a objednejte se na kosmetické poradenství zcela ZDARMA -
-                <a class="btn-link" title="Kosmetické poradenství - více informací, ceník" href="/kosmeticke-poradenstvi/">
-                    více informací &raquo;
-                </a>
-            </p>
-            
+                       
             <a class="no-decor" title="Spolupráce - více informací" href="/spoluprace/">
                 <h3 class="featurette-heading">Spolupráce</h3>
             </a>

@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>O mně | Jana Budková | Líčení | Praha, Slaný a okolí</title>
+        <title>O mně | Jana Pešková | Líčení | Praha, Slaný a okolí</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -26,7 +26,7 @@
             <h2 class="page-heading">O mně</h2>
             <div class="row featurette">
                 <div class="col-md-7">
-                    <p class="lead">Pracuji jako vizážistka již od roku 2010. Nejprve bylo líčení mým velkým koníčkem, potom se stalo zároveň i mou profesí.
+                    <p class="lead">Jmenuji se Jana Pešková (Budková) a  pracuji jako vizážistka již od roku 2010. Nejprve bylo líčení mým velkým koníčkem, potom se stalo zároveň i mou profesí.
                         Specializuji se hlavně na svatební líčení, večerní líčení, foto-make up a vlasový styling. 
                         Působím převážně v Praze a ve Slaném, po domluvě kdekoliv dle Vašeho přání.
                     </p>
@@ -36,6 +36,7 @@
                     <p class="afterlead bold">Reference:</p>
 
                     <ul class="afterlead">
+                        <li>Oracle</li>
                         <li>Óčko TV</li>
                         <li>Miss VŠE</li>
                         <li>Doctor Optic</li>

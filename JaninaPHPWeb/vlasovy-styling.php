@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Vlasový styling | Jana Budková | Líčení | Praha, Slaný a okolí</title>
+        <title>Vlasový styling | Jana Pešková | Líčení | Praha, Slaný a okolí</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -45,9 +45,7 @@
                     
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
                     
-                    <p class="afterlead">Účes trvá 30 - 90 minut - dle náročnosti.</p>
-                    <p class="afterlead">Na styling používám kvalitní vlasovou kosmetiku značky Paul Mitchell.</p>
-                    <p class="afterlead">Doprava ve Slaném a po Praze je v ceně, ostatní za doplatek 5 Kč/km.</p>
+             
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-6">
                     <a href="/images/gallery/drdol-velka.jpg" data-lightbox="makeup-set" title="Vlasový styling - ukázka účesu">
@@ -58,6 +56,9 @@
                     </a>
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
+            <p class="afterlead">Účes trvá 30 - 90 minut - dle náročnosti.</p>
+            <p class="afterlead">Na styling používám kvalitní vlasovou kosmetiku značky Paul Mitchell.</p>
+            <p class="afterlead">Doprava ve Slaném a po Praze je v ceně, ostatní za doplatek 5 Kč/km.</p>
 
             <br>
             <p class="afterlead">

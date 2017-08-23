@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Kurzy líčení | Jana Budková | Líčení | Praha, Slaný a okolí</title>
+        <title>Kurzy líčení | Jana Pešková | Líčení | Praha, Slaný a okolí</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -36,18 +36,19 @@
                         <tr><th colspan="2" >Ceník</th></tr>
                         <tr><td>Kurz základního líčení <span class="text-muted">(příprava pleti, základy líčení, denní líčení, cca 2 hodiny)</span></td> 
                             <td class="price">750 Kč</td></tr>
-                        <tr><td><span class="label label-highlight">AKCE</span> Kurz základního líčení pro dvě osoby</td> 
-                    <td class="price">650 Kč/osoba</td></tr>
+                        <tr><td><span class="label label-highlight">AKCE</span> Kurz základního líčení pro dvě a více osob</td> 
+                    <td class="price">600 Kč/osoba</td></tr>
                         <tr><td>Kurz pokročilého líčení <span class="text-muted">(příprava pleti, večerní líčení, kouřové oči,..., cca 3 hodiny)</span></td> 
                             <td class="price">1000 Kč</td></tr>
                         
                     </table>
 
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
-
-                    <p class="afterlead">Doprava ve Slaném a po Praze je v ceně, ostatní za doplatek 5 Kč/km.</p>
+                    
                 </div>
             </div>
+            <p class="afterlead">Kurz probíhá v pohodlí Vašeho domova, můžete ho absolvovat sama nebo s rodinou či kamarádkami. </p>
+            <p class="afterlead">Doprava ve Slaném a po Praze je v ceně, ostatní za doplatek 5 Kč/km.</p>
             <br>
 
             <p class="afterlead">

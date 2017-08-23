@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Svatební líčení | Jana Budková | Líčení | Praha, Slaný a okolí</title>
+        <title>Svatební líčení | Jana Pešková | Líčení | Praha, Slaný a okolí</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -54,8 +54,7 @@
                     
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
 
-                    <p class="afterlead">Líčení trvá přibližně 45 minut, dle náročnosti.</p>
-                    <p class="afterlead">Doprava ve Slaném a po Praze je v ceně, ostatní za doplatek 5 Kč/km.</p>
+                  
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-6">
                     <a class="" href="/galerie/" title="Galerie - Svatební líčení">
@@ -66,6 +65,8 @@
                     </a>
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
+              <p class="afterlead">Líčení trvá přibližně 45 minut, dle náročnosti.</p>
+              <p class="afterlead">Doprava ve Slaném a po Praze je v ceně, ostatní za doplatek 5 Kč/km.</p>
 
             <h3 class="featurette-heading">Svatební učesy</h3>
             <p class="lead">

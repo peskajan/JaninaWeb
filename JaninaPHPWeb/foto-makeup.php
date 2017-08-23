@@ -46,8 +46,7 @@
                     </table>
                     
                     <a class="btn btn-contactme btn-primary" href="/kontakty/">Máte zájem? Kontaktujte mě!</a>
-
-                    <p class="afterlead">Líčení trvá přibližně 45 minut - dle náročnosti.</p>
+                   
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-6">
                     <a class="" href="/galerie/" title="Galerie - Foto-make up">
@@ -58,6 +57,8 @@
                     </a>
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->
+             <p class="afterlead">Doprava ve Slaném a po Praze je v ceně, ostatní za doplatek 5 Kč/km.</p>
+             <p class="afterlead">Líčení trvá přibližně 45 minut - dle náročnosti.</p>
 
             <h3 class="featurette-heading">Vlasový styling</h3>
             <p class="lead">

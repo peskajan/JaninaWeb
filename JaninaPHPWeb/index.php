@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Vizážistka | Jana Budková | Líčení | Praha, Slaný a okolí | Praha, Slaný a okolí</title>
+        <title>Vizážistka | Jana Pešková | Líčení | Praha, Slaný a okolí | Praha, Slaný a okolí</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -32,22 +32,22 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="item active">
-                        <div class="container">
+                       <div class="container">
                             <div class="carousel-caption">
-                                <h1>AKCE: Plesové a večerní líčení</h1>
-                                <p>Dejte se se kamarádkami dohromady a nechte se společně nalíčit za výhodnější cenu!!</p>
-                                <p><a class="btn btn-lg btn-primary" title="Večerní líčení, plesové líčení" href="/vecerni-liceni/" role="button">Více informací  &raquo;</a></p>
-                            </div>
+                               <h1>Svatební líčení</h1>
+                                <p>Volné termíny na rok 2017 a 2018! Rezervujte si svůj termín včas!
+                                <p><a class="btn btn-lg btn-primary" title="Svatební líčení, líčení svatebčanů" href="/svatebni-liceni/" role="button">Více informací  &raquo;</a></p> 
+                            </div> 
                         </div>
                     </div>
                     <div class="item">
+                        
                         <div class="container">
                             <div class="carousel-caption">
-                               <h1>Svatební líčení</h1>
-                                <p>Volné termíny na rok 2017!
-                                <p><a class="btn btn-lg btn-primary" title="Svatební líčení, líčení svatebčanů" href="/svatebni-liceni/" role="button">Více informací  &raquo;</a></p> 
-                            </div>
-                        </div>
+                                <h1>Líčení pro slavnostní příležitost</h1>
+                                <p>Dejte se se kamarádkami dohromady a nechte se společně nalíčit za výhodnější cenu!!</p>
+                                <p><a class="btn btn-lg btn-primary" title="Večerní líčení, plesové líčení, slavnostní líčení" href="/vecerni-liceni/" role="button">Více informací  &raquo;</a></p>
+                            </div></div>
                     </div>
                     <div class="item">
                         <div class="container">
@@ -81,7 +81,7 @@
                             <h2>Facebook</h2>
                         </a>
                         <p>Buďte se mnou v kontaktu na facebooku a podívejte se na mou aktuální práci:)</p>
-                        <p><a title="Facebook" class="btn btn-default" href="https://www.facebook.com/Jana-Budkov%C3%A1-viz%C3%A1%C5%BEistka-277499939054552/?fref=ts" role="button">Více informací &raquo;</a></p>
+                        <p><a title="Facebook" class="btn btn-default" href="https://www.facebook.com/janapeskovavizazistka/?ref=bookmarks" role="button">Více informací &raquo;</a></p>
                     </div><!-- /.col-lg-4 -->
                     
                     <div class="col-lg-4">

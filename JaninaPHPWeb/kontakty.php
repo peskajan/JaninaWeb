@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="/icons/title-icon.png">
 
-        <title>Kontakty | Jana Budková | Líčení | Praha, Slaný a okolí</title>
+        <title>Kontakty | Jana Pešková | Líčení | Praha, Slaný a okolí</title>
 
         <!-- Bootstrap core CSS -->
         <link href="/js/libs/twitter-bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -33,11 +33,11 @@
             <h2 class="page-heading">Kontakty</h2>
             <p class="lead">V případě, že máte zájem o mé služby a chtěli byste si domluvit termín nebo máte jakýkoliv dotaz, neváhejte mě kontaktovat buď přímo:</p>
             <table class="afterlead">
-                <tr><td>Jana Budková</td></tr>
+                <tr><td>Jana Pešková</td></tr>
                 <tr><td><a href="tel:+420 736 651 141" target="_top"><img class="contact-icon" src="/images/phone.png" alt="facebook"/>+420 736 651 141</a></td></tr>
-                <tr><td><a href="mailto:budkova.jana@email.cz"><img class="contact-icon" src="/images/mail.png" alt="facebook"/>budkova.jana@email.cz</a></td></tr>
-                <tr><td><a title="Líčení, vizážistika - Jana Budková - Facebook" href="https://www.facebook.com/pages/Jana-Budkov%C3%A1-viz%C3%A1%C5%BEistka-a-kosmetick%C3%A1-poradkyn%C4%9B/277499939054552?fref=ts" target="_top">
-                            <img class="contact-icon" src="/images/fb.png" alt="facebook"/>Jana Budková - vizážistka</a></td></tr>
+                <tr><td><a href="mailto:janapeskova89@gmail.com"><img class="contact-icon" src="/images/mail.png" alt="facebook"/>janapeskova89@gmail.com</a></td></tr>
+                <tr><td><a title="Líčení, vizážistika - Jana Pešková - Facebook" href="https://www.facebook.com/janapeskovavizazistka/" target="_top">
+                            <img class="contact-icon" src="/images/fb.png" alt="facebook"/>Jana Pešková - vizážistka</a></td></tr>
             </table>
 
             <p class="lead">nebo pomocí kontaktního formuláře:</p>
