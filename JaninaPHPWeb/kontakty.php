@@ -35,7 +35,7 @@
             <table class="afterlead">
                 <tr><td>Jana Pešková</td></tr>
                 <tr><td><a href="tel:+420 736 651 141" target="_top"><img class="contact-icon" src="/images/phone.png" alt="facebook"/>+420 736 651 141</a></td></tr>
-                <tr><td><a href="mailto:janapeskova89@gmail.com"><img class="contact-icon" src="/images/mail.png" alt="facebook"/>janapeskova89@gmail.com</a></td></tr>
+                <tr><td><a href="mailto:jana@liceniprotebe.cz"><img class="contact-icon" src="/images/mail.png" alt="facebook"/>jana@liceniprotebe.cz</a></td></tr>
                 <tr><td><a title="Líčení, vizážistika - Jana Pešková - Facebook" href="https://www.facebook.com/janapeskovavizazistka/" target="_top">
                             <img class="contact-icon" src="/images/fb.png" alt="facebook"/>Jana Pešková - vizážistka</a></td></tr>
             </table>
